@@ -1,0 +1,448 @@
+4558={
+	holding = none
+}
+4559={
+	holding = none
+}
+4560={
+	holding = castle_holding
+}
+4567={
+	holding = none
+}
+4569={
+	culture = punic
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4570={
+	culture = punic
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4571={
+	holding = city_holding
+}
+4572={
+	culture = punic
+	faith = donatism
+	holding = castle_holding
+}
+4581={
+	holding = church_holding
+}
+4582={
+	culture = punic
+	faith = carthage_pagan
+	holding = castle_holding
+	1.1.1 = { special_building_slot = cothon_01 }
+}
+4583={
+	holding = church_holding
+}
+4584={
+	holding = city_holding
+}
+4585={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4586={
+	holding = none
+}
+4587={
+	holding = none
+}
+4588={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}
+4589={
+	culture = punic
+	faith = donatism
+	holding = castle_holding
+}
+4590={
+	holding = none
+}
+4591={
+	holding = none
+}
+4600={
+	holding = none
+}
+4601={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4602={
+	holding = city_holding
+}
+4603={
+	holding = city_holding
+}
+4604={
+	culture = gaetulian
+	faith = donatism
+	holding = castle_holding
+}
+4605={
+	holding = city_holding
+}
+4606={
+	holding = city_holding
+}
+4607={
+	holding = none
+}
+4608={
+	holding = none
+}
+4609={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4610={
+	holding = none
+}
+4611={
+	holding = none
+}
+4613={
+	holding = none
+}
+4614={
+	holding = none
+}
+4615={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4616={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4617={
+	holding = none
+}
+4618={
+	holding = none
+}
+4619={
+	holding = none
+}
+4620={
+	holding = none
+}
+4621={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4622={
+	holding = none
+}
+4623={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4625={
+	holding = none
+}
+4626={
+	holding = none
+}
+4627={
+	holding = city_holding
+}
+4628={
+	holding = none
+}
+4629={
+	holding = none
+}
+4630={
+	holding = city_holding
+}
+4631={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}
+4632={
+	holding = castle_holding
+}
+4633={
+	holding = none
+}
+4634={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4635={
+	holding = none
+}
+4636={
+	holding = city_holding
+}
+4637={
+	culture = gaetulian
+	faith = manichean
+	holding = castle_holding
+}
+4638={
+	holding = none
+}
+4639={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4640={
+	holding = none
+}
+4641={
+	holding = none
+}
+4642={
+	holding = church_holding
+}
+4643={
+	holding = church_holding
+}
+4644={
+	culture = punic
+	faith = manichean
+	holding = castle_holding
+}
+4645={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4646={
+	holding = city_holding
+}
+4647={
+	culture = gaetulian
+	faith = nicene
+	holding = castle_holding
+}
+4648={
+	holding = none
+}
+4649={
+	holding = castle_holding
+}
+4650={
+	culture = punic
+	faith = adamites
+	holding = castle_holding
+	100.1.1 = { special_building_slot = royal_tomb_of_mauritania }
+}
+4651={
+	holding = city_holding
+}
+4652={
+	holding = none
+}
+4653={
+	culture = maurian
+	faith = adamites
+	holding = castle_holding
+}
+4654={
+	holding = none
+}
+4655={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}
+4656={
+	holding = none
+}
+4657={
+	holding = none
+}
+4658={
+	holding = none
+}
+4659={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}
+4660={
+	holding = none
+}
+4661={
+	holding = none
+}
+4662={
+	holding = none
+}
+4663={
+	holding = none
+}
+4664={
+	holding = none
+}
+4665={
+	holding = city_holding
+}
+4666={
+	culture = maurian
+	faith = nicene
+	holding = castle_holding
+}
+4667={
+	holding = none
+}
+4668={
+	holding = city_holding
+}
+4669={
+	culture = maurian
+	faith = nicene
+	holding = castle_holding
+}
+4670={
+	holding = city_holding
+}
+4671={
+	holding = none
+}
+4672={
+	culture = maurian
+	faith = nicene
+	holding = castle_holding
+}
+4673={
+	holding = none
+}
+4674={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4675={
+	holding = city_holding
+}
+4676={
+	holding = none
+}
+4733={
+	holding = none
+}
+4734={
+	holding = none
+}
+4736={
+	culture = briton
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4737={
+	culture = gaetulian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4738={
+	holding = none
+}
+4739={
+	culture = briton
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4742={
+	holding = none
+}
+4749={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4750={
+	holding = none
+}
+4751={
+	holding = none
+}
+4752={
+	holding = city_holding
+}
+4753={
+	holding = none
+}
+4754={
+	holding = none
+}
+4759={
+	holding = none
+}
+4760={
+	culture = gaetulian
+	religion = amazigh_pagan
+	holding = tribal_holding
+	50.1.1 = { special_building = taghaza_mines_01 }
+	476.1.1 = { culture = sanhaja }
+}
+4761={
+	holding = none
+}
+4762={
+	holding = none
+}
+6321={
+	holding = none
+}
+6322={
+	holding = none
+}
+6460={
+	culture = garamantian
+	religion = amazigh_pagan
+	holding = castle_holding
+}
+6461={
+	holding = none
+}
+6462={
+	holding = none
+}
+6469={
+	culture = punic
+	faith = carthage_pagan
+	holding = castle_holding
+}
+6601={
+	holding = city_holding
+}
+6602={
+	holding = none
+}
+6652={
+	holding = none
+}
+6653={
+	holding = none
+}
+6654={
+	holding = none
+}
+6655={
+	holding = none
+}
+6661={
+	holding = none
+}

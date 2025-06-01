@@ -1,0 +1,15 @@
+k_pontus={
+	20.1.1 = { change_development_level = 6 }
+	361.1.7 = { government = administrative_government holder = imperator238417 liege = e_IRTOCK3_ALB succession_laws = { appointment_succession_law } }
+}
+d_sebasteia={
+	361.11.17 = { liege = 0 }
+}
+c_satala={
+	361.1.7 = { liege = 0 holder = imperator238417 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_sebasteia={
+	361.1.7 = { liege = 0 holder = imperator238417 }
+	361.2.17 = { change_development_level = 37 }
+}

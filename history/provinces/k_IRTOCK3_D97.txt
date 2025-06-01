@@ -1,0 +1,36 @@
+63={
+	culture = norse
+	faith = norse_pagan
+	holding = castle_holding
+}
+64={
+	holding = none
+}
+65={
+	culture = norse
+	faith = norse_pagan
+	holding = castle_holding
+}
+66={
+	holding = church_holding
+}
+67={
+	culture = norse
+	faith = norse_pagan
+	holding = castle_holding
+}
+68={
+	holding = none
+}
+69={
+	holding = church_holding
+}
+85={
+	holding = castle_holding
+}
+228={
+	holding = none
+}
+433={
+	holding = castle_holding
+}

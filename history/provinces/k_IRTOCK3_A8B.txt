@@ -1,0 +1,47 @@
+4000={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+4001={
+	culture = median
+	faith = nicene
+	holding = castle_holding
+}
+4004={
+	holding = city_holding
+}
+4005={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+4006={
+	holding = none
+}
+4313={
+	holding = none
+}
+4314={
+	holding = city_holding
+}
+4323={
+	culture = median
+	faith = nicene
+	holding = castle_holding
+}
+4324={
+	holding = none
+}
+4325={
+	culture = median
+	faith = nicene
+	holding = castle_holding
+	special_building_slot = soltaniyeh_01
+}
+4326={
+	holding = city_holding
+}
+4327={
+	holding = none
+}

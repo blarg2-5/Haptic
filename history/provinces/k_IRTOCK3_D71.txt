@@ -1,0 +1,110 @@
+4819={
+	holding = none
+}
+4820={
+	culture = hellenistic
+	faith = nicene
+	holding = city_holding
+}
+4821={
+	culture = babylonian
+	faith = nicene
+	holding = castle_holding
+}
+4822={
+	holding = city_holding
+}
+5989={
+	culture = adnanite
+	faith = arabic_pagan
+	holding = none
+}
+5990={
+	holding = none
+}
+5991={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+5996={
+	holding = none
+}
+5998={
+	holding = none
+}
+5999={
+	holding = none
+}
+6000={
+	culture = adnanite
+	faith = arabic_pagan
+	holding = none
+}
+6005={
+	culture = babylonian
+	faith = nicene
+	holding = castle_holding
+}
+6006={
+	holding = city_holding
+}
+6007={
+	holding = city_holding
+}
+6008={
+	holding = city_holding
+}
+6019={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6020={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6021={
+	holding = none
+}
+6022={
+	holding = none
+}
+6023={
+	holding = none
+}
+6024={
+	holding = none
+}
+6025={
+	holding = city_holding
+}
+6168={
+	culture = babylonian
+	faith = mesopotamian_pagan
+	holding = none
+}
+6169={
+	holding = none
+}
+6170={
+	holding = none
+}
+6175={
+	holding = none
+}
+6176={
+	holding = none
+}
+6177={
+	holding = none
+}
+6178={
+	culture = adnanite
+	faith = manichean
+	holding = castle_holding
+}
+6180={
+	holding = none
+}

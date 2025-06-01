@@ -1,0 +1,71 @@
+5916={
+	holding = city_holding
+}
+5918={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5919={
+	culture = arran
+	faith = nicene
+	holding = city_holding
+}
+5920={
+	holding = city_holding
+}
+5921={
+	holding = city_holding
+}
+5922={
+	holding = church_holding
+}
+5958={
+	culture = hebrew
+	faith = nicene
+	holding = city_holding
+}
+5959={
+	culture = syrian
+	faith = nicene
+	holding = city_holding
+}
+5960={
+	culture = syrian
+	faith = carthage_pagan
+	holding = city_holding
+}
+5961={
+	holding = none
+}
+5962={
+	culture = himyarite
+	faith = rabbinism
+	holding = city_holding
+}
+5963={
+	holding = none
+}
+5964={
+	holding = city_holding
+}
+5965={
+	culture = himyarite
+	faith = nicene
+	holding = city_holding
+	300.1.1 = { special_building_slot = dome_of_the_rock_01 }
+}
+5966={
+	holding = none
+}
+5967={
+	holding = city_holding
+}
+5968={
+	culture = syrian
+	faith = nicene
+	holding = city_holding
+}
+5985={
+	holding = city_holding
+}

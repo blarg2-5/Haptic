@@ -1,0 +1,40 @@
+k_adal={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+d_dawaro={
+	361.11.17 = { liege = 0 holder = IRToCK3_c_dawaro_holder government = tribal_government }
+}
+c_dawaro={
+	358.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_dawaro_holder }
+}
+c_arusi={
+	358.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_dawaro_holder }
+}
+d_adal={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_dakkar_holder liege = 0 }
+}
+c_dakkar={
+	353.1.1 = { government = city_state_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_dakkar_holder }
+}
+c_harar={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_dakkar_holder }
+}
+c_hargaya={
+	358.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_dakkar_holder }
+}
+c_fafan={
+	350.1.1 = { government = city_state_government }
+	361.2.17 = { liege = 0 change_development_level = 5 }
+	361.11.17 = { holder = IRToCK3_c_dakkar_holder }
+}

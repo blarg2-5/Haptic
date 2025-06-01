@@ -1,0 +1,170 @@
+9354={
+	culture = sumpa
+	faith = old_bon
+	holding = none
+}
+9355={
+	culture = sumpa
+	faith = old_bon
+	holding = none
+}
+9356={
+	holding = none
+}
+9357={
+	holding = none
+}
+9358={
+	holding = none
+}
+9359={
+	holding = none
+}
+9360={
+	culture = sumpa
+	faith = old_bon
+	holding = none
+}
+9361={
+	holding = none
+}
+9362={
+	holding = none
+}
+9364={
+	holding = none
+}
+9368={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9369={
+	culture = qiang
+	religion = old_bon
+	holding = tribal_holding
+	640.1.1 = { culture = sumpa }
+}
+9370={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9371={
+	holding = none
+}
+9372={
+	holding = none
+}
+9373={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9374={
+	holding = none
+}
+9375={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9376={
+	holding = none
+}
+9377={
+	holding = none
+}
+9378={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9379={
+	holding = none
+}
+9380={
+	holding = none
+}
+9381={
+	holding = none
+}
+9382={
+	culture = qiang
+	religion = old_bon
+	holding = tribal_holding
+	640.1.1 = { culture = sumpa }
+}
+9383={
+	culture = qiang
+	religion = old_bon
+	holding = castle_holding
+	640.1.1 = { culture = sumpa }
+}
+9384={
+	holding = tribal_holding
+}
+9385={
+	culture = qiang
+	religion = old_bon
+	holding = tribal_holding
+	640.1.1 = { culture = sumpa }
+}
+9386={
+	holding = none
+}
+9387={
+	holding = none
+}
+9388={
+	holding = none
+}
+9389={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9390={
+	holding = none
+}
+9391={
+	holding = none
+}
+9392={
+	holding = none
+}
+9393={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9394={
+	holding = none
+}
+9395={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	421.1.1 = { culture = tuyuhun religion = tengri_pagan }
+}
+9396={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	421.1.1 = { culture = tuyuhun religion = tengri_pagan }
+}
+9397={
+	holding = none
+}
+9398={
+	holding = none
+}
+9400={
+	holding = none
+}
+9401={
+	culture = qiang
+	religion = old_bon
+	holding = tribal_holding
+	640.1.1 = { culture = sumpa }
+}

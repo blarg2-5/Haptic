@@ -1,0 +1,55 @@
+1830={
+	holding = none
+}
+1831={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1832={
+	holding = none
+}
+1833={
+	holding = none
+}
+1834={
+	culture = lusoiberian
+	faith = druidism
+	holding = tribal_holding
+}
+1835={
+	culture = lusoiberian
+	faith = nicene
+	holding = tribal_holding
+}
+1836={
+	holding = none
+}
+1917={
+	holding = city_holding
+}
+1954={
+	culture = lusoiberian
+	faith = druidism
+	holding = tribal_holding
+}
+1955={
+	holding = none
+}
+1956={
+	holding = none
+}
+1990={
+	holding = none
+}
+1996={
+	culture = lusoiberian
+	faith = nicene
+	holding = tribal_holding
+}
+1997={
+	holding = none
+}
+1998={
+	holding = none
+}

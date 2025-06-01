@@ -1,0 +1,578 @@
+808={
+	holding = none
+}
+809={
+	holding = church_holding
+}
+810={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+811={
+	holding = none
+}
+812={
+	holding = none
+}
+813={
+	holding = city_holding
+}
+814={
+	holding = none
+}
+815={
+	holding = city_holding
+}
+816={
+	holding = city_holding
+}
+817={
+	holding = none
+}
+818={
+	holding = city_holding
+}
+819={
+	holding = none
+}
+820={
+	holding = none
+}
+821={
+	holding = none
+}
+822={
+	holding = city_holding
+}
+823={
+	holding = city_holding
+}
+824={
+	holding = none
+}
+825={
+	holding = none
+}
+826={
+	culture = bengali
+	faith = sedism
+	holding = none
+}
+827={
+	holding = city_holding
+}
+828={
+	holding = none
+}
+829={
+	holding = none
+}
+830={
+	holding = none
+}
+831={
+	holding = none
+}
+832={
+	holding = none
+}
+833={
+	holding = none
+}
+834={
+	holding = city_holding
+}
+835={
+	holding = none
+}
+836={
+	holding = none
+}
+853={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+854={
+	holding = none
+}
+855={
+	holding = none
+}
+856={
+	holding = city_holding
+}
+857={
+	holding = city_holding
+}
+858={
+	holding = none
+}
+859={
+	holding = none
+}
+860={
+	holding = none
+}
+862={
+	holding = none
+}
+863={
+	holding = none
+}
+864={
+	holding = none
+}
+865={
+	holding = city_holding
+}
+866={
+	holding = none
+}
+867={
+	holding = church_holding
+}
+868={
+	holding = city_holding
+}
+869={
+	holding = castle_holding
+}
+870={
+	holding = church_holding
+}
+871={
+	holding = church_holding
+}
+872={
+	holding = church_holding
+}
+873={
+	holding = church_holding
+}
+874={
+	holding = city_holding
+}
+875={
+	holding = none
+}
+876={
+	holding = castle_holding
+}
+906={
+	holding = none
+}
+907={
+	holding = none
+}
+908={
+	holding = none
+}
+909={
+	holding = none
+}
+910={
+	holding = none
+}
+911={
+	holding = city_holding
+}
+912={
+	holding = church_holding
+}
+1131={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1152={
+	culture = tamil
+	faith = makkhalist
+	holding = castle_holding
+}
+1154={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+	300.1.1 = { special_building_slot = nalanda_university }
+}
+1177={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1232={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1233={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1234={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1235={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1236={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1237={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1238={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1239={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1240={
+	holding = city_holding
+}
+1241={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+}
+1244={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1245={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1246={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1248={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1251={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1276={
+	culture = magadhi
+	faith = theravada
+	holding = castle_holding
+	300.1.1 = { special_building_slot = holy_site_mahabodhi_temple_01 }
+}
+1296={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1318={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1319={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1321={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1323={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1327={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1418={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+8722={
+	holding = none
+}
+9164={
+	holding = city_holding
+}
+9165={
+	culture = magadhi
+	faith = donyipoloism
+	holding = castle_holding
+}
+9166={
+	culture = magadhi
+	faith = donyipoloism
+	holding = castle_holding
+}
+9167={
+	holding = city_holding
+}
+9168={
+	holding = none
+}
+9173={
+	holding = city_holding
+}
+9174={
+	holding = city_holding
+}
+9175={
+	culture = magadhi
+	faith = donyipoloism
+	holding = castle_holding
+}
+9176={
+	culture = lhomon
+	religion = donyipoloism
+	holding = tribal_holding
+}
+9177={
+	holding = none
+}
+9178={
+	holding = none
+}
+9550={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+9551={
+	holding = none
+}
+9552={
+	holding = none
+}
+9553={
+	holding = none
+}
+9554={
+	holding = none
+}
+9555={
+	holding = church_holding
+}
+9556={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+9557={
+	holding = none
+}
+9558={
+	holding = none
+}
+9559={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+9560={
+	holding = none
+}
+9561={
+	holding = none
+}
+9562={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+9563={
+	holding = none
+}
+9564={
+	holding = none
+}
+9565={
+	holding = city_holding
+}
+9568={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+9569={
+	holding = city_holding
+}
+9570={
+	holding = none
+}
+9571={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+9572={
+	holding = none
+}
+9573={
+	holding = city_holding
+}
+9574={
+	holding = none
+}
+9575={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+9576={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+9577={
+	holding = none
+}
+9578={
+	holding = none
+}
+9579={
+	holding = none
+}
+9580={
+	holding = city_holding
+}
+9581={
+	culture = pyu
+	faith = vaishnavism
+	holding = castle_holding
+}
+9582={
+	holding = castle_holding
+}
+9583={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+9584={
+	holding = none
+}
+9585={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+9586={
+	holding = none
+}
+9587={
+	holding = none
+}
+9588={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+9589={
+	holding = none
+}
+9590={
+	holding = city_holding
+}
+9591={
+	culture = mon
+	faith = burmic
+	holding = none
+}
+9592={
+	holding = none
+}
+9593={
+	culture = mon
+	faith = burmic
+	holding = none
+}
+9594={
+	holding = none
+}
+9595={
+	holding = none
+}
+9622={
+	holding = none
+}
+9623={
+	holding = none
+}
+9624={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+9625={
+	holding = none
+}
+9634={
+	holding = none
+}
+9639={
+	holding = city_holding
+}
+9640={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+9641={
+	holding = none
+}
+9642={
+	holding = castle_holding
+}
+9643={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+9644={
+	holding = none
+}
+9645={
+	holding = city_holding
+}
+9646={
+	holding = city_holding
+}
+9647={
+	culture = rajput
+	faith = burmic
+	holding = castle_holding
+}
+9657={
+	holding = city_holding
+}
+9658={
+	holding = none
+}

@@ -1,0 +1,19 @@
+k_pontic_steppe={
+	361.1.1 = { change_development_level = 0 }
+	361.1.16 = { government = administrative_government holder = imperator252612 liege = e_IRTOCK3_ALB succession_laws = { appointment_succession_law } }
+}
+d_alania={
+	361.11.17 = { liege = 0 }
+}
+c_maghas={
+	361.1.16 = { liege = 0 holder = imperator252612 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_cabardinia={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_zichia={
+	361.1.16 = { liege = 0 holder = imperator252612 }
+	361.2.17 = { change_development_level = 40 }
+}

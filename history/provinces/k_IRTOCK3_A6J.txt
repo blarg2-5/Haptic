@@ -1,0 +1,72 @@
+6390={
+	holding = none
+}
+6391={
+	holding = none
+}
+6392={
+	holding = none
+}
+6393={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6394={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6395={
+	holding = church_holding
+}
+6396={
+	culture = meroitic
+	faith = nicene
+	holding = castle_holding
+}
+6397={
+	holding = church_holding
+}
+6398={
+	holding = none
+}
+6399={
+	holding = city_holding
+}
+6401={
+	holding = none
+}
+6404={
+	holding = none
+}
+6405={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+6406={
+	holding = none
+}
+6407={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6408={
+	holding = none
+}
+6409={
+	holding = castle_holding
+}
+6410={
+	holding = none
+}
+6436={
+	culture = hellenistic
+	faith = dinka_pagan
+	holding = castle_holding
+}
+6445={
+	holding = none
+}

@@ -1,0 +1,23 @@
+756={
+	holding = none
+}
+757={
+	culture = scythian
+	faith = nicene
+	holding = castle_holding
+}
+5679={
+	holding = none
+}
+5680={
+	holding = city_holding
+}
+5681={
+	culture = scythian
+	faith = nicene
+	holding = castle_holding
+	303.1.1 = { special_building_slot = saint_lazarus }
+}
+5682={
+	holding = church_holding
+}

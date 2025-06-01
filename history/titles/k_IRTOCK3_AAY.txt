@@ -1,0 +1,264 @@
+k_IRTOCK3_AAY={
+	346.5.18 = { holder = imperator262554 government = feudal_government liege = e_IRTOCK3_A39 }
+	351.5.18 = { holder = imperator262530 government = feudal_government }
+	352.6.3 = { holder = imperator262531 government = feudal_government }
+	357.6.3 = { holder = imperator262538 government = feudal_government }
+	361.2.17 = { succession_laws = { city_succession_law } }
+}
+d_aqtobe={
+	361.1.12 = { government = feudal_government holder = imperator262538 liege = k_IRTOCK3_AAY succession_laws = { high_partition_succession_law } }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_atamansku_holder }
+}
+c_aqtobe={
+	361.1.12 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 24 }
+}
+c_orenburg={
+	361.1.12 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_atamansku={
+	361.1.1 = { government = nomadic_government }
+	361.2.17 = { liege = 0 change_development_level = 6 }
+	361.11.17 = { holder = IRToCK3_c_atamansku_holder }
+}
+d_latgalians={
+	361.11.17 = { liege = 0 }
+}
+c_talava={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_kokenois={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_jersika={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_aluksne={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+d_polotsk={
+	361.11.17 = { liege = 0 }
+}
+c_polotsk={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_lukoml={
+	361.1.9 = { liege = 0 holder = imperator244420 }
+	361.2.17 = { liege = k_white_rus holder = imperator240518 change_development_level = 41 }
+}
+c_vitebsk={
+	361.1.9 = { liege = 0 holder = imperator244420 }
+	361.2.17 = { liege = k_white_rus holder = imperator242084 change_development_level = 32 }
+}
+d_pecheneg={
+	361.11.17 = { liege = 0 }
+}
+c_pecheneg={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_jambalar={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_yaitsk={
+	361.1.12 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 29 }
+}
+d_esthonia={
+	361.11.17 = { liege = 0 }
+}
+c_reval={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_narva={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_osel={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 28 }
+}
+c_wiek={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 25 }
+}
+d_livonia={
+	361.11.17 = { liege = 0 }
+}
+c_vidzeme={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_livs={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_dorpat={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 20 }
+}
+d_novgorod={
+	361.11.17 = { liege = 0 }
+}
+c_novgorod={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 17 }
+}
+c_rusa={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_luki={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_valdai={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 22 }
+}
+d_chudia={
+	361.11.17 = { liege = 0 holder = IRToCK3_c_beloozero_holder government = tribal_government }
+}
+c_beloozero={
+	361.2.17 = { change_development_level = 22 }
+	361.11.17 = { holder = IRToCK3_c_beloozero_holder }
+}
+c_tikhvin={
+	361.2.17 = { liege = 0 change_development_level = 24 }
+	361.11.17 = { holder = IRToCK3_c_beloozero_holder }
+}
+c_vyangi={
+	361.11.17 = { holder = IRToCK3_c_beloozero_holder change_development_level = 0 }
+}
+c_bezichi={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+d_pihkova={
+	361.11.17 = { liege = 0 holder = IRToCK3_c_vodi_holder government = tribal_government }
+}
+c_pskov={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_sebezh={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_vodi={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_vodi_holder }
+}
+d_mordvinia={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_cheboksary_holder liege = 0 }
+}
+c_cheboksary={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 24 }
+	361.11.17 = { holder = IRToCK3_c_cheboksary_holder }
+}
+c_kozlov={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { liege = k_IRTOCK3_AAY holder = imperator262534 change_development_level = 21 }
+}
+b_oranienburg={
+	361.2.17 = { holder = imperator262534 }
+}
+c_lachyk-uba={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 24 }
+	361.11.17 = { holder = IRToCK3_c_cheboksary_holder }
+}
+c_saran={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+d_voronezh={
+	361.11.17 = { liege = 0 }
+}
+c_voronezh={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_karatayak={
+	361.1.10 = { liege = 0 holder = imperator261417 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_oskol={
+	361.1.11 = { liege = 0 holder = imperator250219 }
+	361.2.17 = { liege = e_IRTOCK3_A39 holder = imperator240019 change_development_level = 39 }
+}
+d_chuvashia={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_ashli_holder liege = 0 }
+}
+c_ashli={
+	20.1.1 = { government = tribal_government }
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 23 }
+	361.11.17 = { holder = IRToCK3_c_ashli_holder }
+}
+c_saratov={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_penza={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_atkarsk={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_petrovsk={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 24 }
+}
+d_opolye={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_yaroslavl_holder liege = 0 }
+}
+c_yaroslavl={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 24 }
+	361.11.17 = { holder = IRToCK3_c_yaroslavl_holder }
+}
+c_vladimir={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_suzdal={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_tver={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_moskva={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 20 }
+}
+d_ryazan={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_murom_holder liege = 0 }
+}
+c_ryazan={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 26 }
+}
+c_tula={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_murom={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 26 }
+	361.11.17 = { holder = IRToCK3_c_murom_holder }
+}

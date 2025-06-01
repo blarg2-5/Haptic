@@ -1,0 +1,86 @@
+k_IRTOCK3_DRI={
+	-304.10.1 = { holder = imperator19185 government = tribal_government }
+	174.5.1 = { holder = imperator197110 government = nomadic_government }
+	176.3.31 = { liege = e_IRTOCK3_A39 }
+	230.11.11 = { holder = imperator199716 government = nomadic_government }
+	249.1.15 = { holder = imperator206655 government = nomadic_government }
+	268.10.10 = { holder = imperator206750 government = nomadic_government }
+	278.12.12 = { holder = imperator212750 government = nomadic_government }
+	289.1.29 = { holder = imperator214469 government = nomadic_government }
+	289.10.12 = { holder = imperator211477 government = nomadic_government }
+	295.10.27 = { holder = imperator218263 government = nomadic_government }
+	310.8.24 = { holder = imperator219303 government = nomadic_government }
+	317.12.10 = { holder = imperator221315 government = nomadic_government }
+	323.7.7 = { holder = imperator225335 government = nomadic_government }
+	333.2.20 = { holder = imperator236166 government = nomadic_government }
+	337.11.7 = { holder = imperator235125 government = nomadic_government }
+	344.1.22 = { holder = imperator252957 government = nomadic_government }
+	361.2.17 = { succession_laws = { gaelic_elective_succession_law } }
+}
+d_duklja={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { liege = 0 }
+}
+c_rashka={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_podrinje={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_duklja={
+	344.1.22 = { liege = 0 holder = imperator252957 }
+	361.2.17 = { change_development_level = 48 }
+}
+c_pomorje={
+	344.1.22 = { liege = 0 holder = imperator252957 }
+	361.2.17 = { liege = k_IRTOCK3_DRI holder = imperator242527 change_development_level = 43 }
+}
+c_travunia={
+	344.1.22 = { liege = 0 holder = imperator252957 }
+	361.2.17 = { liege = k_IRTOCK3_DRI holder = imperator245538 change_development_level = 42 }
+}
+d_dalmatia={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { liege = 0 }
+}
+c_zadar={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_knin={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 33 }
+}
+c_cetina={
+	344.1.22 = { liege = 0 holder = imperator252957 }
+	361.2.17 = { change_development_level = 46 }
+}
+d_usora={
+	361.11.17 = { liege = 0 }
+}
+c_zachlumia={
+	344.1.22 = { liege = 0 holder = imperator252957 }
+	361.2.17 = { liege = k_IRTOCK3_DRI holder = imperator242527 change_development_level = 34 }
+}
+c_zelengora={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { liege = k_IRTOCK3_D37 holder = imperator244640 change_development_level = 12 }
+}
+c_zavrsje={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_pagania={
+	344.1.22 = { liege = 0 holder = imperator252957 }
+	361.2.17 = { change_development_level = 43 }
+}
+d_ragusa={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_ragusa={
+	344.1.22 = { liege = 0 holder = imperator252957 }
+	361.2.17 = { change_development_level = 48 }
+}

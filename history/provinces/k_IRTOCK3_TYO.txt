@@ -1,0 +1,71 @@
+6148={
+	culture = rajput
+	faith = manichean
+	holding = castle_holding
+}
+6149={
+	holding = city_holding
+}
+6150={
+	holding = none
+}
+6151={
+	holding = city_holding
+}
+6152={
+	holding = none
+}
+6153={
+	holding = castle_holding
+}
+6154={
+	culture = adnanite
+	faith = rabbinism
+	holding = castle_holding
+}
+6155={
+	culture = adnanite
+	faith = manichean
+	holding = castle_holding
+}
+6156={
+	culture = babylonian
+	faith = nicene
+	holding = castle_holding
+}
+6157={
+	holding = none
+}
+6158={
+	culture = babylonian
+	faith = rabbinism
+	holding = castle_holding
+}
+6159={
+	holding = none
+}
+6160={
+	holding = city_holding
+}
+6161={
+	holding = city_holding
+}
+6162={
+	holding = none
+}
+6163={
+	culture = adnanite
+	faith = arabic_pagan
+	holding = none
+}
+6164={
+	culture = babylonian
+	faith = mesopotamian_pagan
+	holding = none
+}
+6165={
+	holding = none
+}
+6166={
+	holding = none
+}

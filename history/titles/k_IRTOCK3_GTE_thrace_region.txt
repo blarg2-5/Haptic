@@ -1,0 +1,84 @@
+k_IRTOCK3_GTE_thrace_region={
+	361.1.6 = { liege = e_IRTOCK3_GTE holder = imperator247104 government = administrative_government succession_laws = { appointment_succession_law } }
+}
+d_adrianopolis={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_kran={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { holder = imperator241650 change_development_level = 35 }
+}
+c_zherkovo={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_beroe={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { holder = imperator241985 change_development_level = 38 }
+}
+c_burgas={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { change_development_level = 43 }
+}
+c_adrianopolis={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { change_development_level = 44 }
+}
+d_philippopolis={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { liege = 0 }
+}
+c_philippopolis={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_rhodopes={
+	361.1.9 = { liege = 0 holder = imperator245439 }
+	361.2.17 = { change_development_level = 33 }
+}
+d_thrace={
+	361.11.17 = { liege = 0 }
+}
+c_byzantion={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { change_development_level = 48 }
+}
+c_kalliopolis={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { change_development_level = 44 }
+}
+c_brysis={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { change_development_level = 43 }
+}
+d_strymon={
+	361.11.17 = { liege = 0 }
+}
+c_mosynopolis={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { change_development_level = 47 }
+}
+c_serres={
+	361.1.9 = { liege = 0 holder = imperator245439 }
+	361.2.17 = { change_development_level = 40 }
+}
+d_turnovo={
+	361.11.17 = { liege = 0 }
+}
+c_turnovo={
+	361.1.10 = { liege = 0 holder = imperator251876 }
+	361.2.17 = { liege = k_thessalonika holder = imperator241985 change_development_level = 32 }
+}
+c_nikopolis={
+	361.1.10 = { liege = 0 holder = imperator251876 }
+	361.2.17 = { liege = k_thessalonika holder = imperator241134 change_development_level = 33 }
+}
+c_dorostorum={
+	361.1.10 = { liege = 0 holder = imperator251876 }
+	361.2.17 = { change_development_level = 37 }
+}
+c_aytos={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { liege = k_thessalonika holder = imperator242680 change_development_level = 40 }
+}

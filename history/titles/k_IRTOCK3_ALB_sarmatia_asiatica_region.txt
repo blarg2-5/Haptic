@@ -1,0 +1,18 @@
+k_IRTOCK3_ALB_sarmatia_asiatica_region={
+	361.1.15 = { liege = e_IRTOCK3_ALB holder = imperator250801 government = administrative_government succession_laws = { appointment_succession_law } }
+}
+d_khazaria={
+	361.11.17 = { liege = 0 }
+}
+c_sarkel={
+	361.1.15 = { liege = 0 holder = imperator250801 }
+	361.2.17 = { change_development_level = 37 }
+}
+c_astrakhan={
+	344.11.12 = { liege = 0 holder = imperator261994 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_beksima={
+	361.1.11 = { liege = 0 holder = imperator250219 }
+	361.2.17 = { change_development_level = 34 }
+}

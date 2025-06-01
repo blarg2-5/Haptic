@@ -1,0 +1,67 @@
+4740={
+	holding = none
+}
+6470={
+	culture = baranis
+	faith = amazigh_pagan
+	holding = none
+}
+6471={
+	holding = none
+}
+6472={
+	culture = sanhaja
+	religion = amazigh_pagan
+	holding = tribal_holding
+	476.1.1 = { culture = sanhaja }
+	768.1.1 = { religion = ibadi }
+}
+6473={
+	culture = gaetulian
+	religion = amazigh_pagan
+	holding = tribal_holding
+	476.1.1 = { culture = sanhaja }
+	768.1.1 = { religion = ibadi }
+}
+6474={
+	holding = none
+}
+6475={
+	holding = tribal_holding
+	50.1.1 = { special_building = ijil_mines_01 }
+}
+6476={
+	culture = pulaar
+	religion = amazigh_pagan
+	holding = tribal_holding
+}
+6477={
+	holding = none
+}
+6478={
+	holding = none
+}
+6479={
+	culture = sanhaja
+	religion = amazigh_pagan
+	holding = tribal_holding
+	476.1.1 = { culture = sanhaja }
+	768.1.1 = { religion = ibadi }
+}
+6480={
+	holding = none
+}
+6481={
+	culture = pulaar
+	religion = amazigh_pagan
+	holding = tribal_holding
+}
+6482={
+	holding = none
+}
+6650={
+	holding = none
+}
+6651={
+	holding = none
+}

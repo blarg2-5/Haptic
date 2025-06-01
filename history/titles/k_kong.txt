@@ -1,0 +1,48 @@
+k_kong={
+	361.11.17 = { liege = 0 }
+}
+d_worodugu={
+	361.11.17 = { liege = 0 }
+}
+c_worodugu={
+	361.1.1 = { holder = bobo_13 government = tribal_government change_development_level = 3 }
+}
+c_tyendugu={
+	361.1.1 = { holder = malinke_01 government = tribal_government change_development_level = 1 }
+}
+c_nyene={
+	361.1.1 = { holder = bobo_10 government = tribal_government change_development_level = 0 }
+}
+d_kong={
+	361.11.17 = { liege = 0 }
+}
+c_kong={
+	361.1.1 = { holder = bobo_10 government = tribal_government change_development_level = 3 }
+}
+c_leraba={
+	361.1.1 = { holder = bobo_10 government = tribal_government change_development_level = 0 }
+}
+c_boron={
+	361.1.1 = { holder = bobo_13 government = tribal_government change_development_level = 0 }
+}
+c_nzi={
+	350.1.1 = { holder = kru_01 government = tribal_government }
+	361.1.1 = { change_development_level = 0 }
+}
+d_lobi={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+c_lobi={
+	361.1.1 = { holder = bobo_04 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_loropeni={
+	361.1.1 = { holder = bobo_07 government = tribal_government change_development_level = 0 }
+}
+c_dyulaso={
+	361.1.1 = { holder = bobo_04 government = tribal_government change_development_level = 0 }
+}
+c_wa={
+	361.1.1 = { holder = bobo_07 government = tribal_government change_development_level = 0 }
+}

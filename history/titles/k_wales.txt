@@ -1,0 +1,61 @@
+k_wales={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { liege = 0 }
+}
+d_gwynedd={
+	361.11.17 = { liege = 0 }
+}
+c_cardiganshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 6 }
+}
+c_merioneth={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 13 }
+}
+c_caernarfonshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 13 }
+}
+c_anglesey={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 12 }
+}
+c_denbighshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 19 }
+}
+d_powys={
+	361.11.17 = { liege = 0 }
+}
+c_maldwyn={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 11 }
+}
+c_sir_faesyfed={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 8 }
+}
+d_deheubarth={
+	361.11.17 = { liege = 0 }
+}
+c_carmarthenshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 8 }
+}
+c_pembrokeshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 12 }
+}
+c_glamorgan={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 10 }
+}
+c_monmouthshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 9 }
+}
+c_brecknockshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 10 }
+}

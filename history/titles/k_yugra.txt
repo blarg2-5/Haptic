@@ -1,0 +1,63 @@
+k_yugra={
+	361.11.17 = { liege = 0 }
+}
+d_ostyaki={
+	361.11.17 = { liege = 0 }
+}
+c_tyumen={
+	361.1.1 = { holder = khanty_13 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_laia={
+	361.1.1 = { holder = khanty_13 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tabary={
+	361.1.1 = { holder = ob_31 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_neramkary={
+	361.1.1 = { holder = ob_31 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_konda={
+	361.11.17 = { liege = 0 }
+}
+c_tselym_dalyn={
+	361.1.1 = { holder = ob_28 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kharam-vosh={
+	361.1.1 = { holder = ob_28 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kartauzh={
+	361.1.1 = { holder = ob_28 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_pelym={
+	361.11.17 = { liege = 0 }
+}
+c_pelym={
+	361.1.1 = { holder = ob_31 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_koshuki={
+	361.1.1 = { holder = ob_31 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_kazym={
+	361.11.17 = { liege = 0 }
+}
+c_kazym={
+	361.1.1 = { holder = ob_25 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sosva={
+	361.1.1 = { holder = ob_25 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_koda={
+	361.1.1 = { holder = ob_25 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

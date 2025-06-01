@@ -1,0 +1,637 @@
+1126={
+	holding = none
+}
+1127={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1133={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1134={
+	culture = rajput
+	faith = digambara
+	holding = castle_holding
+}
+1135={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1136={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1138={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1140={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = mountain
+}
+1142={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1144={
+	holding = none
+}
+1145={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = mountain
+}
+1146={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1147={
+	holding = city_holding
+}
+1157={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+}
+1175={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1178={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1182={
+	holding = city_holding
+}
+1183={
+	holding = city_holding
+}
+1184={
+	holding = city_holding
+}
+1185={
+	holding = none
+}
+1187={
+	holding = none
+}
+1188={
+	culture = scythian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1189={
+	holding = none
+}
+1194={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1195={
+	holding = city_holding
+}
+1198={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = hills
+}
+1202={
+	holding = none
+}
+1203={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1206={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+}
+1208={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+}
+1212={
+	culture = punjabi
+	faith = scythian_asian
+	holding = castle_holding
+}
+1213={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = jungle
+}
+1218={
+	holding = none
+}
+1255={
+	holding = none
+}
+1256={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+}
+1257={
+	holding = city_holding
+}
+1258={
+	holding = city_holding
+}
+1259={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+	100.1.1 = { special_building_slot = ajanta_caves }
+}
+1260={
+	culture = punjabi
+	faith = scythian_asian
+	holding = castle_holding
+}
+1261={
+	holding = city_holding
+	terrain = jungle
+}
+1262={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1263={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1264={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = hills
+}
+1266={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1267={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1268={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1287={
+	holding = none
+}
+1290={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1291={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1292={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1294={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1295={
+	culture = scythian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1304={
+	culture = magadhi
+	faith = hellenic_pagan
+	holding = none
+}
+1336={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1337={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1338={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1339={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1340={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1370={
+	holding = city_holding
+}
+1371={
+	holding = none
+}
+1372={
+	holding = none
+}
+1374={
+	holding = none
+}
+1375={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1376={
+	holding = city_holding
+}
+1416={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = mountain
+}
+3350={
+	holding = city_holding
+}
+3351={
+	holding = none
+}
+3352={
+	holding = none
+}
+3353={
+	holding = city_holding
+}
+3354={
+	holding = none
+}
+3355={
+	holding = none
+}
+3356={
+	holding = none
+}
+3357={
+	holding = none
+}
+3358={
+	holding = none
+}
+3359={
+	holding = none
+}
+3360={
+	holding = none
+}
+3361={
+	holding = none
+}
+3362={
+	holding = none
+}
+3363={
+	holding = none
+}
+3364={
+	holding = none
+}
+3365={
+	holding = none
+}
+3366={
+	holding = none
+}
+3367={
+	holding = none
+}
+3368={
+	holding = church_holding
+}
+3369={
+	holding = none
+}
+3370={
+	holding = city_holding
+}
+3371={
+	holding = city_holding
+}
+3372={
+	holding = castle_holding
+}
+3373={
+	holding = castle_holding
+}
+3374={
+	holding = none
+}
+3375={
+	holding = castle_holding
+}
+3376={
+	holding = city_holding
+}
+3377={
+	holding = castle_holding
+}
+3378={
+	holding = none
+}
+3379={
+	holding = none
+}
+3380={
+	holding = city_holding
+}
+3381={
+	holding = none
+}
+3382={
+	holding = none
+}
+3383={
+	holding = none
+}
+3384={
+	holding = none
+}
+3385={
+	holding = none
+}
+3386={
+	holding = none
+}
+3387={
+	holding = none
+}
+3388={
+	holding = none
+}
+3389={
+	holding = none
+}
+3391={
+	holding = none
+}
+3392={
+	holding = none
+}
+3393={
+	holding = city_holding
+}
+3406={
+	holding = none
+}
+3407={
+	holding = none
+}
+3408={
+	holding = none
+}
+3409={
+	holding = none
+}
+3410={
+	holding = none
+}
+3413={
+	holding = none
+}
+3414={
+	holding = none
+}
+3415={
+	holding = none
+}
+3416={
+	holding = city_holding
+}
+3417={
+	holding = none
+}
+3423={
+	holding = none
+}
+4497={
+	holding = none
+}
+4510={
+	holding = none
+}
+4511={
+	holding = none
+}
+4512={
+	holding = none
+}
+4513={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+4517={
+	culture = med
+	faith = vaishnavism
+	holding = castle_holding
+}
+4518={
+	holding = none
+}
+4519={
+	holding = none
+}
+4520={
+	holding = none
+}
+7868={
+	holding = none
+	terrain = mountain
+}
+7869={
+	holding = none
+	terrain = mountain
+}
+7870={
+	holding = city_holding
+	terrain = hills
+}
+7871={
+	holding = city_holding
+	terrain = hills
+}
+7872={
+	holding = city_holding
+	terrain = mountain
+}
+7873={
+	holding = none
+	terrain = mountain
+}
+7874={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = mountain
+}
+7875={
+	holding = none
+	terrain = mountain
+}
+7876={
+	holding = none
+	terrain = mountain
+}
+7877={
+	holding = none
+}
+7878={
+	holding = city_holding
+}
+7879={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = mountain
+}
+7880={
+	holding = none
+	terrain = jungle
+}
+7881={
+	holding = none
+}
+7882={
+	holding = none
+}
+7883={
+	holding = none
+}
+7884={
+	holding = none
+}
+7885={
+	holding = city_holding
+	terrain = jungle
+}
+7888={
+	holding = castle_holding
+	terrain = jungle
+}
+7889={
+	holding = city_holding
+	terrain = jungle
+}
+7890={
+	holding = none
+}
+7891={
+	holding = none
+}
+7892={
+	holding = none
+}
+7893={
+	holding = city_holding
+}
+7894={
+	holding = none
+}
+7895={
+	holding = none
+}
+7896={
+	holding = none
+}
+7897={
+	holding = city_holding
+}
+7898={
+	holding = none
+}
+7899={
+	holding = none
+	terrain = mountain
+}
+7900={
+	holding = none
+	terrain = mountain
+}
+7906={
+	holding = city_holding
+}
+7907={
+	holding = none
+}
+7908={
+	holding = none
+}
+7909={
+	holding = city_holding
+}
+7910={
+	holding = none
+}
+7917={
+	holding = none
+	terrain = mountain
+}
+7918={
+	holding = none
+}
+7919={
+	holding = church_holding
+}
+7920={
+	holding = none
+}
+7921={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+7922={
+	holding = none
+}
+7923={
+	holding = none
+}
+7924={
+	holding = city_holding
+}

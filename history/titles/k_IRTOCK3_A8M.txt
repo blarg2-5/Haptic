@@ -1,0 +1,54 @@
+k_IRTOCK3_A8M={
+	284.1.9 = { holder = imperator239481 government = feudal_government liege = e_IRTOCK3_ALB }
+	289.1.9 = { holder = imperator239457 government = republic_government }
+	294.1.9 = { holder = imperator239475 government = republic_government }
+	299.1.9 = { holder = imperator239462 government = republic_government }
+	304.1.9 = { holder = imperator239458 government = republic_government }
+	309.1.9 = { holder = imperator239465 government = republic_government }
+	314.1.9 = { holder = imperator239469 government = republic_government }
+	319.1.9 = { holder = imperator239472 government = republic_government }
+	324.1.9 = { holder = imperator239475 government = republic_government }
+	329.1.9 = { holder = imperator239465 government = republic_government }
+	334.1.9 = { holder = imperator239459 government = republic_government }
+	338.5.16 = { holder = imperator242376 government = republic_government }
+	340.10.8 = { holder = imperator243152 government = republic_government }
+	342.10.8 = { holder = imperator245304 government = republic_government }
+	344.10.8 = { holder = imperator243068 government = republic_government }
+	346.10.8 = { holder = imperator244533 government = republic_government }
+	348.10.8 = { holder = imperator245602 government = republic_government }
+	350.10.8 = { holder = imperator240850 government = republic_government }
+	352.10.8 = { holder = imperator240951 government = republic_government }
+	354.10.8 = { holder = imperator243152 government = republic_government }
+	356.10.8 = { holder = imperator245304 government = republic_government }
+	358.10.8 = { holder = imperator243068 government = republic_government }
+	360.10.8 = { holder = imperator243001 government = republic_government }
+	361.2.17 = { succession_laws = { city_succession_law } }
+}
+d_baghdad={
+	361.1.1 = { change_development_level = 8 }
+	361.11.17 = { liege = 0 }
+}
+c_ctesiphon={
+	360.10.8 = { liege = 0 holder = imperator243001 }
+	361.2.17 = { change_development_level = 45 }
+}
+c_baghdad={
+	360.10.8 = { liege = 0 holder = imperator243001 }
+	361.2.17 = { change_development_level = 50 }
+}
+c_iskaf={
+	360.10.8 = { liege = 0 holder = imperator243001 }
+	361.2.17 = { liege = k_IRTOCK3_A8M holder = imperator243152 change_development_level = 45 }
+}
+c_anbar={
+	361.1.12 = { liege = 0 holder = imperator247996 }
+	361.2.17 = { change_development_level = 33 }
+}
+c_karbala={
+	361.1.12 = { liege = 0 holder = imperator247996 }
+	361.2.17 = { liege = k_mesopotamia holder = imperator243871 change_development_level = 38 }
+}
+c_badaraya={
+	361.1.12 = { liege = 0 holder = imperator247996 }
+	361.2.17 = { change_development_level = 40 }
+}

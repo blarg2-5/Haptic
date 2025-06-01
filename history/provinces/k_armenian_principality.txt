@@ -1,0 +1,139 @@
+670={
+	holding = none
+}
+671={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+672={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+681={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+682={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+701={
+	holding = none
+}
+702={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+703={
+	holding = none
+}
+704={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4858={
+	holding = city_holding
+}
+4864={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5709={
+	holding = none
+}
+5710={
+	holding = city_holding
+}
+5711={
+	holding = none
+}
+5712={
+	holding = city_holding
+}
+5716={
+	holding = none
+}
+5717={
+	holding = city_holding
+}
+5718={
+	holding = none
+}
+5719={
+	holding = castle_holding
+}
+5720={
+	holding = city_holding
+}
+5721={
+	holding = none
+}
+5722={
+	holding = none
+}
+5723={
+	holding = city_holding
+}
+5724={
+	holding = city_holding
+}
+5725={
+	holding = none
+}
+5726={
+	holding = none
+}
+5727={
+	holding = city_holding
+}
+5728={
+	holding = none
+	304.1.1 = { special_building_slot = etchmiadzin_cathedral }
+}
+5729={
+	holding = none
+}
+5730={
+	holding = city_holding
+}
+5731={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5732={
+	holding = none
+}
+5780={
+	holding = none
+}
+5781={
+	holding = none
+}
+5782={
+	holding = none
+}
+5783={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5784={
+	holding = none
+}
+5785={
+	holding = city_holding
+}
+5786={
+	holding = none
+}
+5787={
+	holding = none
+}

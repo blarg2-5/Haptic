@@ -1,0 +1,38 @@
+4552={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}
+4554={
+	holding = castle_holding
+}
+4555={
+	holding = city_holding
+}
+4556={
+	culture = garamantian
+	faith = amazigh_pagan
+	holding = none
+}
+4557={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}
+4561={
+	holding = none
+}
+4562={
+	culture = punic
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4565={
+	holding = city_holding
+}
+4566={
+	holding = city_holding
+}
+4568={
+	holding = none
+}

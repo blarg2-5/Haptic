@@ -1,0 +1,318 @@
+persian = {
+	color = rgb { 38 178 178 }
+	heritage = heritage_iranian
+	language = language_iranian
+	traditions = { tradition_gardening tradition_mard_o_mard tradition_ce1_ritual_washing }
+	name_list = name_list_persian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_fp3_irrigation_experts
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_dryland_dwellers
+	}
+	dlc_tradition = {
+		trait = tradition_fp3_beacon_of_learning
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_philosopher_culture
+	}
+	dlc_tradition = {
+		trait = tradition_fp3_enlightened_magnates
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_poetry
+	}
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		8 = arab
+		5 = mediterranean
+	}
+}
+kurdish = {
+	color = rgb { 76 89 26 }
+	heritage = heritage_iranian
+	language = language_iranian
+	traditions = { tradition_swords_for_hire tradition_mountain_homes tradition_eye_for_an_eye }
+	name_list = name_list_kurdish
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_fp3_fierce_independence
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_mard_o_mard
+	 }
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		8 = arab
+		5 = mediterranean
+	}
+}
+baloch = {
+	color = rgb { 102 102 13 }
+	heritage = heritage_iranian
+	language = language_iranian
+	traditions = { tradition_mard_o_mard tradition_desert_nomads tradition_esteemed_hospitality tradition_isolationist }
+	name_list = name_list_baloch
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_fp3_jirga
+		requires_dlc_flag = legacy_of_persia
+	}
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		10 = arab
+	}
+}
+daylamite = {
+	color = rgb { 191 217 89 }
+	heritage = heritage_iranian
+	language = language_iranian
+	traditions = { tradition_swords_for_hire tradition_stalwart_defenders tradition_warriors_of_alborz }
+	name_list = name_list_daylamite
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_fp3_pragmatic_creed
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_mard_o_mard
+	 }
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		7 = arab
+		7 = mediterranean
+	}
+}
+tajik = {
+	color = rgb { 178 191 89 }
+	heritage = heritage_iranian
+	language = language_iranian
+	traditions = { tradition_caravaneers tradition_mard_o_mard }
+	name_list = name_list_tajik
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_fp3_irrigation_experts
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_dryland_dwellers
+	}
+	dlc_tradition = {
+		trait = tradition_fp3_beacon_of_learning
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_philosopher_culture
+	}
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		8 = arab
+		6 = mediterranean
+	}
+}
+afghan = {
+	color = rgb { 153 153 26 }
+	heritage = heritage_iranian
+	language = language_scythian
+	traditions = { tradition_loyal_soldiers tradition_esteemed_hospitality tradition_mountain_homes tradition_mard_o_mard }
+	name_list = name_list_afghan
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_fp3_jirga
+		requires_dlc_flag = legacy_of_persia
+	}
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		8 = arab
+		4 = mediterranean
+	}
+}
+median = {
+	color = rgb { 204 230 102 }
+	heritage = heritage_iranian
+	language = language_iranian
+	traditions = { tradition_poetry tradition_philosopher_culture tradition_gardening tradition_mountain_homes tradition_mard_o_mard }
+	name_list = name_list_persian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		8 = arab
+		5 = mediterranean
+	}
+}
+parthian = {
+	color = rgb { 191 115 242 }
+	heritage = heritage_iranian
+	language = language_iranian
+	traditions = { tradition_dryland_dwellers tradition_horse_lords tradition_caravaneers tradition_mystical_ancestors tradition_mard_o_mard }
+	name_list = name_list_persian
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		8 = arab
+		5 = mediterranean
+	}
+}
+pactyan = {
+	color = rgb { 166 242 140 }
+	heritage = heritage_iranian
+	language = language_scythian
+	traditions = { tradition_loyal_soldiers tradition_esteemed_hospitality tradition_mountain_homes tradition_mard_o_mard }
+	name_list = name_list_afghan
+	history_loc_override = pactyan_history_loc
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_fp3_jirga
+		requires_dlc_flag = legacy_of_persia
+	}
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		8 = arab
+		5 = mediterranean
+	}
+}
+cadusian = {
+	color = rgb { 204 153 0 }
+	heritage = heritage_iranian
+	language = language_iranian
+	traditions = { tradition_quarrelsome tradition_mountain_homes tradition_mountaineers }
+	name_list = name_list_persian
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_fp3_pragmatic_creed
+		requires_dlc_flag = legacy_of_persia
+	}
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		8 = arab
+		5 = mediterranean
+	}
+}
+aorsi = {
+	color = rgb { 233 145 77 }
+	heritage = heritage_iranian
+	language = language_scythian
+	traditions = { tradition_horse_lords tradition_steppe_tolerance tradition_caravaneers tradition_metal_craftsmanship tradition_nomadic_migrations }
+	name_list = name_list_alan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	coa_gfx = { steppe_coa_gfx western_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	ethnicities = {
+		8 = asian
+		5 = mediterranean
+	}
+}
+parata = {
+	color = rgb { 77 88 88 }
+	parents = { parthian sindhi }
+	heritage = heritage_iranian
+	language = language_vrachada
+	traditions = { tradition_caravaneers tradition_dryland_dwellers tradition_religion_blending }
+	name_list = name_list_sindhi
+	created = 5.1.1
+	history_loc_override = parata_history_loc
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = {
+		7 = arab
+		2 = mediterranean
+		4 = indian
+	}
+}
+elymaean = {
+	color = rgb { 144 66 44 }
+	parents = { elamite persian }
+	heritage = heritage_iranian
+	language = language_elamite
+	traditions = { tradition_mountain_homes tradition_dryland_dwellers tradition_adaptive_skirmishing tradition_religion_blending tradition_fervent_temple_builders }
+	name_list = name_list_persian
+	created = 5.1.1
+	history_loc_override = elymaean_history_loc
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	ethnicities = {
+		8 = arab
+		5 = mediterranean
+	}
+}
+scythian = {
+	color = rgb { 183 204 102 }
+	heritage = heritage_iranian
+	language = language_scythian
+	traditions = { tradition_horse_breeder tradition_warrior_culture tradition_roman_architecture tradition_strength_in_numbers tradition_malleable_invaders tradition_horse_lords }
+	name_list = name_list_scythian
+	ethnicities = {
+		7 = arab
+		5 = mediterranean
+	}
+	ethos = ethos_bellicose
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	martial_custom = martial_custom_male_only
+}
+sarmatian = {
+	color = rgb { 222 124 28 }
+	heritage = heritage_iranian
+	language = language_scythian
+	traditions = { tradition_horse_breeder tradition_pastoralists tradition_hunters tradition_horse_lords }
+	name_list = name_list_sarmatian
+	ethnicities = {
+		7 = arab
+		5 = mediterranean
+	}
+	ethos = ethos_stoic
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	martial_custom = martial_custom_equal
+}

@@ -1,0 +1,215 @@
+4870={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4873={
+	holding = none
+}
+4874={
+	holding = none
+}
+4875={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4876={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4877={
+	holding = none
+}
+4878={
+	holding = none
+}
+4890={
+	holding = none
+}
+4891={
+	holding = none
+}
+4892={
+	holding = none
+}
+4893={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4894={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4899={
+	holding = city_holding
+}
+5900={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5901={
+	holding = city_holding
+}
+5902={
+	holding = none
+}
+5906={
+	holding = city_holding
+}
+5907={
+	holding = none
+}
+5908={
+	holding = none
+}
+5909={
+	holding = city_holding
+}
+5910={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+5911={
+	holding = none
+}
+5912={
+	holding = none
+}
+5914={
+	holding = castle_holding
+}
+5915={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5917={
+	holding = none
+}
+5923={
+	holding = city_holding
+}
+5924={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5925={
+	holding = none
+}
+5926={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5927={
+	holding = none
+}
+5928={
+	holding = city_holding
+}
+5929={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5930={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5931={
+	holding = none
+}
+5932={
+	holding = none
+}
+5933={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5934={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+	special_building_slot = citadel_of_aleppo_01
+}
+5935={
+	holding = none
+}
+5936={
+	holding = city_holding
+}
+5937={
+	holding = castle_holding
+}
+5938={
+	holding = none
+}
+5939={
+	holding = none
+}
+5940={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5941={
+	holding = none
+}
+5942={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5943={
+	holding = none
+}
+5944={
+	holding = none
+}
+5945={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5946={
+	holding = none
+}
+5947={
+	holding = none
+}
+5948={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+5949={
+	holding = none
+}
+5950={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5951={
+	culture = adnanite
+	faith = arabic_pagan
+	holding = none
+}
+5952={
+	holding = none
+}
+5953={
+	holding = none
+}
+5954={
+	holding = none
+}

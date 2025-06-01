@@ -1,0 +1,33 @@
+6302={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+6303={
+	holding = none
+}
+6304={
+	holding = none
+}
+6305={
+	holding = none
+}
+6306={
+	culture = hellenistic
+	faith = nicene
+	holding = city_holding
+}
+6307={
+	holding = city_holding
+}
+6308={
+	holding = none
+}
+6309={
+	culture = himyarite
+	faith = nicene
+	holding = city_holding
+}
+6310={
+	holding = none
+}

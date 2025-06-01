@@ -1,0 +1,107 @@
+2603={
+	holding = none
+}
+2604={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2605={
+	holding = city_holding
+}
+2607={
+	holding = city_holding
+}
+2609={
+	culture = scythian
+	faith = scythian_italian
+	holding = city_holding
+}
+2610={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2612={
+	culture = scythian
+	faith = scythian_italian
+	holding = city_holding
+}
+2613={
+	holding = city_holding
+}
+2614={
+	holding = city_holding
+}
+2615={
+	holding = none
+}
+2616={
+	holding = none
+}
+2617={
+	holding = none
+}
+2618={
+	holding = city_holding
+}
+2619={
+	culture = scythian
+	faith = scythian_italian
+	holding = city_holding
+}
+2620={
+	holding = none
+}
+2621={
+	holding = city_holding
+}
+2622={
+	culture = scythian
+	faith = nicene
+	holding = city_holding
+}
+2623={
+	culture = scythian
+	faith = scythian_italian
+	holding = city_holding
+}
+2624={
+	holding = city_holding
+}
+2625={
+	holding = city_holding
+}
+2626={
+	holding = none
+	303.1.1 = { special_building_slot = cattolica_stilo }
+}
+2627={
+	culture = scythian
+	faith = scythian_italian
+	holding = city_holding
+}
+2628={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2629={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2630={
+	holding = none
+}
+2631={
+	culture = scythian
+	faith = nicene
+	holding = city_holding
+}
+2632={
+	holding = none
+}
+2669={
+	holding = none
+}

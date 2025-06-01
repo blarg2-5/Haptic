@@ -1,0 +1,32 @@
+k_IRTOCK3_A3D={
+	222.5.26 = { holder = imperator214551 government = feudal_government }
+	246.9.22 = { holder = imperator214567 government = republic_government }
+	275.8.17 = { holder = imperator235780 government = republic_government }
+	284.5.26 = { holder = imperator214796 government = republic_government }
+	288.9.27 = { holder = imperator214798 government = republic_government }
+	292.6.29 = { holder = imperator216972 government = republic_government }
+	304.3.4 = { holder = imperator230699 government = republic_government }
+	321.7.22 = { liege = e_IRTOCK3_ALB }
+	340.6.30 = { holder = imperator243542 government = republic_government }
+	361.2.17 = { succession_laws = { city_succession_law princely_elective_succession_law } }
+}
+d_amman={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_balqa_holder liege = 0 }
+}
+c_maab={
+	340.6.30 = { liege = 0 holder = imperator243542 }
+	361.2.17 = { liege = k_IRTOCK3_A3D holder = imperator243953 change_development_level = 39 }
+}
+c_hauran={
+	340.6.30 = { liege = 0 holder = imperator243542 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_balqa={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_balqa_holder }
+}
+c_jilat={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_balqa_holder }
+}

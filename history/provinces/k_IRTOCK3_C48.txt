@@ -1,0 +1,24 @@
+479={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+	terrain = mountain
+}
+480={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+	terrain = mountain
+}
+3743={
+	holding = none
+}
+3744={
+	holding = church_holding
+}
+3745={
+	holding = church_holding
+}
+3746={
+	holding = none
+}

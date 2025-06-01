@@ -1,0 +1,222 @@
+1161={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1179={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1180={
+	holding = none
+}
+1190={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1191={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1192={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1193={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1341={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1342={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1352={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+	terrain = jungle
+}
+1361={
+	holding = city_holding
+}
+1362={
+	holding = none
+}
+1363={
+	holding = none
+}
+1364={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+1366={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+3411={
+	holding = church_holding
+}
+3412={
+	holding = city_holding
+}
+3418={
+	holding = city_holding
+}
+3419={
+	holding = none
+}
+3420={
+	holding = none
+}
+3421={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+3422={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+3424={
+	holding = church_holding
+}
+3425={
+	holding = none
+}
+3426={
+	holding = city_holding
+}
+3427={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+3428={
+	holding = city_holding
+}
+3429={
+	holding = city_holding
+}
+3430={
+	holding = none
+}
+3431={
+	holding = city_holding
+}
+3432={
+	holding = none
+}
+3433={
+	holding = none
+}
+3434={
+	holding = none
+}
+3435={
+	holding = city_holding
+}
+3436={
+	holding = city_holding
+}
+3437={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+3438={
+	holding = none
+}
+3439={
+	holding = city_holding
+}
+3440={
+	holding = city_holding
+}
+3441={
+	holding = city_holding
+}
+3442={
+	holding = none
+}
+3443={
+	holding = none
+}
+3444={
+	holding = none
+}
+3445={
+	holding = city_holding
+	special_building_slot = martand_surya_temple_01
+}
+3446={
+	holding = none
+	100.1.1 = { special_building_slot = sharada_peeth }
+}
+3455={
+	holding = city_holding
+}
+3456={
+	holding = none
+}
+3457={
+	holding = none
+}
+3458={
+	holding = city_holding
+}
+3459={
+	holding = city_holding
+}
+4521={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+4522={
+	holding = none
+}
+4523={
+	holding = city_holding
+}
+7945={
+	holding = none
+}
+7946={
+	holding = none
+}
+7947={
+	holding = city_holding
+}
+7948={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+7949={
+	holding = none
+}
+7950={
+	holding = none
+}
+9024={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+9025={
+	holding = none
+}

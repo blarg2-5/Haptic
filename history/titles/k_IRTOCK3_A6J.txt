@@ -1,0 +1,36 @@
+k_IRTOCK3_A6J={
+	258.8.1 = { holder = imperator228700 government = feudal_government }
+	306.10.14 = { holder = imperator238738 government = feudal_government }
+	354.11.29 = { holder = imperator252442 government = feudal_government }
+	361.2.17 = { succession_laws = { male_preference_law single_heir_succession_law } }
+}
+d_alwa={
+	361.11.17 = { liege = 0 }
+}
+c_wolqayt={
+	339.5.20 = { liege = 0 holder = imperator247954 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_alodia={
+	354.11.29 = { liege = 0 holder = imperator252442 }
+	361.2.17 = { change_development_level = 41 }
+}
+c_naga={
+	354.11.29 = { liege = 0 holder = imperator252442 }
+	361.2.17 = { change_development_level = 27 }
+}
+b_umm_usuda={
+	361.2.17 = { holder = imperator244239 }
+}
+c_gezira={
+	339.5.20 = { liege = 0 holder = imperator247954 }
+	361.2.17 = { change_development_level = 26 }
+}
+c_eleila={
+	339.5.20 = { liege = 0 holder = imperator247954 }
+	361.2.17 = { liege = d_IRTOCK3_A1U holder = imperator240649 change_development_level = 25 }
+}
+c_ushara={
+	311.4.1 = { liege = 0 holder = imperator249569 }
+	361.2.17 = { change_development_level = 22 }
+}

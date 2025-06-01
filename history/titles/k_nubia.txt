@@ -1,0 +1,22 @@
+k_nubia={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+d_kordofan={
+	360.1.1 = { holder = nuba_01 government = tribal_government liege = 0 }
+	361.11.17 = { holder = IRToCK3_c_kordofan_holder government = tribal_government }
+}
+c_kordofan={
+	360.1.1 = { holder = nuba_01 government = tribal_government liege = d_kordofan }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_kordofan_holder }
+}
+c_west_kordofan={
+	360.1.1 = { holder = nuba_01 government = tribal_government liege = d_kordofan }
+	361.11.17 = { change_development_level = 4 }
+}
+c_south_kordofan={
+	360.1.1 = { holder = nuba_01 government = tribal_government liege = d_kordofan }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_kordofan_holder }
+}

@@ -1,0 +1,97 @@
+6452={
+	culture = toubou
+	religion = idoism_pagan
+	holding = tribal_holding
+	1120.1.1 = { religion = sunni }
+}
+6453={
+	holding = none
+}
+6454={
+	holding = none
+}
+6455={
+	holding = none
+}
+6456={
+	culture = toubou
+	religion = idoism_pagan
+	holding = tribal_holding
+	1070.1.1 = { religion = sunni }
+}
+6457={
+	culture = toubou
+	religion = idoism_pagan
+	holding = tribal_holding
+	1070.1.1 = { culture = kanuri religion = sunni }
+}
+6458={
+	holding = none
+}
+6493={
+	holding = none
+}
+6494={
+	culture = toubou
+	religion = idoism_pagan
+	holding = tribal_holding
+}
+6495={
+	holding = none
+}
+6496={
+	culture = toubou
+	religion = idoism_pagan
+	holding = tribal_holding
+}
+6497={
+	culture = toubou
+	religion = idoism_pagan
+	holding = tribal_holding
+}
+6498={
+	holding = none
+}
+6499={
+	holding = none
+}
+6560={
+	holding = none
+}
+6561={
+	culture = toubou
+	religion = idoism_pagan
+	holding = tribal_holding
+	1050.1.1 = { culture = butr religion = ibadi }
+}
+6562={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = tribal_holding
+	special_building_slot = takkeda_mines_01
+	1050.1.1 = { culture = butr religion = ibadi }
+}
+6563={
+	holding = none
+}
+6657={
+	holding = none
+}
+6658={
+	holding = none
+}
+6659={
+	holding = none
+}
+6660={
+	holding = none
+}
+6665={
+	holding = none
+}
+6666={
+	holding = none
+}
+6668={
+	holding = none
+}

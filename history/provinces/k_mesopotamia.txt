@@ -1,0 +1,115 @@
+4791={
+	holding = none
+}
+4792={
+	holding = city_holding
+}
+4793={
+	holding = none
+}
+4799={
+	holding = city_holding
+}
+4800={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4801={
+	holding = none
+}
+4802={
+	holding = city_holding
+}
+4803={
+	culture = arran
+	faith = nicene
+	holding = city_holding
+}
+4804={
+	holding = none
+}
+4805={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+4806={
+	holding = none
+}
+4807={
+	holding = city_holding
+}
+4823={
+	holding = none
+}
+4826={
+	holding = none
+}
+4832={
+	holding = none
+}
+4834={
+	holding = none
+}
+4835={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+4884={
+	holding = city_holding
+}
+4885={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+4886={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+4887={
+	holding = none
+}
+4888={
+	holding = none
+}
+4889={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5992={
+	holding = none
+}
+5993={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+5994={
+	culture = babylonian
+	faith = mesopotamian_pagan
+	holding = none
+}
+5995={
+	holding = none
+}
+6001={
+	culture = babylonian
+	faith = nicene
+	holding = castle_holding
+}
+6002={
+	holding = church_holding
+}
+6003={
+	culture = babylonian
+	faith = nicene
+	holding = castle_holding
+}
+6004={
+	holding = city_holding
+}

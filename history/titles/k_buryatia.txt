@@ -1,0 +1,78 @@
+k_buryatia={
+	361.11.17 = { liege = 0 }
+}
+d_uda_valley={
+	361.11.17 = { liege = 0 }
+}
+c_ulan_ude={
+	361.1.1 = { holder = xianbei_11 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_chikoy={
+	351.1.1 = { holder = yujiulu_062 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_dauria={
+	361.11.17 = { liege = 0 }
+}
+c_bargajan={
+	361.1.1 = { holder = yeniseian_18 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_muya={
+	361.1.1 = { holder = yeniseian_18 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kotokel={
+	361.1.1 = { holder = xianbei_10 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_yera={
+	361.1.1 = { holder = xianbei_10 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_bargujin_tukum={
+	361.11.17 = { liege = 0 }
+}
+c_kotera={
+	361.1.1 = { holder = yeniseian_18 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_vitim={
+	361.1.1 = { holder = yeniseian_18 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_karabaigal={
+	361.1.1 = { holder = yeniseian_15 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_chuya={
+	361.1.1 = { holder = yeniseian_15 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_baigaluuls={
+	361.11.17 = { liege = 0 }
+}
+c_baigaluuls={
+	361.1.1 = { holder = yeniseian_15 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_uulynkhol={
+	361.1.1 = { holder = yeniseian_15 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_tsagaanbaigal={
+	361.11.17 = { liege = 0 }
+}
+c_olkhon={
+	361.1.1 = { holder = yeniseian_09 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_irkutsk={
+	361.1.1 = { holder = yeniseian_09 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ryty={
+	361.1.1 = { holder = yeniseian_12 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

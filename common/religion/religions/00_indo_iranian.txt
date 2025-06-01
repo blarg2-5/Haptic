@@ -1,0 +1,517 @@
+﻿Scythian_religion = {
+	family = rf_pagan
+
+	doctrine = pagan_hostility_doctrine
+
+	pagan_roots = yes
+
+	#Main Group
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_pluralistic
+	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_missionary_encouraged
+
+	#Marriage
+	doctrine = doctrine_concubines
+	doctrine = doctrine_divorce_allowed
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_cousins
+
+	#Crimes
+	doctrine = doctrine_homosexuality_shunned
+	doctrine = doctrine_adultery_men_crime
+	doctrine = doctrine_adultery_women_crime
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_deviancy_crime
+	doctrine = doctrine_witchcraft_accepted
+
+	#Clerical Functions
+	doctrine = doctrine_clerical_function_recruitment
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+	
+	#Allow pilgrimages
+	doctrine = doctrine_pilgrimage_encouraged
+
+	doctrine = doctrine_funeral_sky_burial
+	traits = {
+		virtues = { brave zealous = 2 ambitious = 4 }
+		sins = { craven content deceitful }
+	}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil custom_faith_boromian_circles custom_faith_lotus custom_faith_aum_tibetan custom_faith_pentagram custom_faith_pentagram_inverted custom_faith_burning_bush custom_faith_allah custom_faith_gankyil custom_faith_eye_of_providence custom_faith_dove custom_faith_ichthys custom_faith_lamb custom_faith_black_sheep custom_faith_ankh custom_faith_chi_rho custom_faith_hamsa custom_faith_cool_s
+	}
+
+	holy_order_names = {
+		{ name = holy_order_guardians_of_divinerealm }
+		{ name = holy_order_faithful_of_highgod }
+		{ name = holy_order_warriors_of_the_symbol }
+	}
+
+	holy_order_maa = { horse_archers }
+
+	localization = {
+		HighGodName = Scythian_high_god_name
+		HighGodName2 = Scythian_high_god_name_2
+		HighGodNamePossessive = Scythian_high_god_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_SHE
+		HighGodHerselfHimself = CHARACTER_HERSELF
+		HighGodHerHis = CHARACTER_HERHIS_HER
+		HighGodNameAlternate = Scythian_high_god_name_alternate
+		HighGodNameAlternatePossessive = Scythian_high_god_name_alternate_possessive
+
+		#Creator
+		CreatorName = Scythian_creator_god_name
+		CreatorNamePossessive = Scythian_creator_god_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_SHE
+		CreatorHerHis = CHARACTER_HERHIS_HER
+		CreatorHerHim = CHARACTER_HERHIM_HER
+
+		#HealthGod
+		HealthGodName = Scythian_health_god_name
+		HealthGodNamePossessive = Scythian_health_god_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_SHE
+		HealthGodHerHis = CHARACTER_HERHIS_HER
+		HealthGodHerHim = CHARACTER_HERHIM_HER
+		
+		#FertilityGod
+		FertilityGodName = Scythian_fertility_god_name
+		FertilityGodNamePossessive = Scythian_fertility_god_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_SHE
+		FertilityGodHerHis = CHARACTER_HERHIS_HER
+		FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+		#WealthGod
+		WealthGodName = Scythian_wealth_god_name
+		WealthGodNamePossessive = Scythian_wealth_god_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_SHE
+		WealthGodHerHis = CHARACTER_HERHIS_HER
+		WealthGodHerHim = CHARACTER_HERHIM_HER
+
+		#HouseholdGod
+		HouseholdGodName = Scythian_household_god_name
+		HouseholdGodNamePossessive = Scythian_household_god_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HER
+		HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+		#FateGod
+		FateGodName = Scythian_fate_god_name
+		FateGodNamePossessive = Scythian_fate_god_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = Scythian_knowledge_god_name
+		KnowledgeGodNamePossessive = Scythian_knowledge_god_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+		#WarGod
+		WarGodName = Scythian_war_god_name
+		WarGodNamePossessive = Scythian_war_god_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_SHE
+		WarGodHerHis = CHARACTER_HERHIS_HER
+		WarGodHerHim = CHARACTER_HERHIM_HER
+
+		#TricksterGod
+		TricksterGodName = Scythian_trickster_god_name
+		TricksterGodNamePossessive = Scythian_trickster_god_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_HE
+		TricksterGodHerHis = CHARACTER_HERHIS_HIS
+		TricksterGodHerHim = CHARACTER_HERHIM_HIM
+
+		#NightGod
+		NightGodName = Scythian_night_god_name
+		NightGodNamePossessive = Scythian_night_god_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = Scythian_water_god_name
+		WaterGodNamePossessive = Scythian_water_god_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_SHE
+		WaterGodHerHis = CHARACTER_HERHIS_HER
+		WaterGodHerHim = CHARACTER_HERHIM_HER
+
+
+		PantheonTerm = Scythian_sky
+		PantheonTerm2 = Scythian_sky_2
+		PantheonTerm3 = Scythian_sky_3
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = { Scythian_high_god_name paganism_good_god_father_sky paganism_good_god_ancestors }
+		DevilName = Scythian_devil_name
+		DevilNamePossessive = Scythian_devil_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_IT
+		DevilHerHis = CHARACTER_HERHIS_ITS
+		DevilHerselfHimself = Scythian_devil_herselfhimself
+		EvilGodNames = { Scythian_devil_name paganism_evil_god_decay }
+		HouseOfWorship = Scythian_house_of_worship
+		HouseOfWorship2 = Scythian_house_of_worship_2
+		HouseOfWorship3 = Scythian_house_of_worship_3
+		HouseOfWorshipPlural = Scythian_house_of_worship_plural
+		ReligiousSymbol = Scythian_religious_symbol
+		ReligiousSymbol2 = Scythian_religious_symbol_2
+		ReligiousSymbol3 = Scythian_religious_symbol_3
+		ReligiousText = Scythian_religious_text
+		ReligiousText2 = Scythian_religious_text_2
+		ReligiousText3 = Scythian_religious_text_3
+		ReligiousHeadName = Scythian_religious_head_title
+		ReligiousHeadTitleName = Scythian_religious_head_title_name
+		DevoteeMale = Scythian_devotee
+		DevoteeMalePlural = Scythian_devoteeplural
+		DevoteeFemale = Scythian_devotee
+		DevoteeFemalePlural = Scythian_devoteeplural
+		DevoteeNeuter = Scythian_devotee
+		DevoteeNeuterPlural = Scythian_devoteeplural
+		PriestMale = Scythian_priest
+		PriestMalePlural = Scythian_priest_plural
+		PriestFemale = Scythian_priest
+		PriestFemalePlural = Scythian_priest_plural
+		PriestNeuter = Scythian_priest
+		PriestNeuterPlural = Scythian_priest_plural
+		AltPriestTermPlural = Scythian_priest_alternate_plural
+		BishopMale = Scythian_priest
+		BishopMalePlural = Scythian_priest_plural
+		BishopFemale = Scythian_priest
+		BishopFemalePlural = Scythian_priest_plural
+		BishopNeuter = Scythian_priest
+		BishopNeuterPlural = Scythian_priest_plural
+		DivineRealm = Scythian_divine_realm
+		DivineRealm2 = Scythian_divine_realm_2
+		DivineRealm3 = Scythian_divine_realm_3
+		PositiveAfterLife = Scythian_divine_realm
+		PositiveAfterLife2 = Scythian_divine_realm_2
+		PositiveAfterLife3 = Scythian_divine_realm_3
+		NegativeAfterLife = Scythian_afterlife
+		NegativeAfterLife2 = Scythian_afterlife_2
+		NegativeAfterLife3 = Scythian_afterlife_3
+		DeathDeityName = Scythian_death_deity_name
+		DeathDeityNamePossessive = Scythian_death_deity_name_possessive
+		DeathDeitySheHe = Scythian_devil_shehe
+		DeathDeityHerHis = Scythian_death_deity_herhis
+		WitchGodName = witchgodname_Scythian_the_shadow
+		WitchGodNamePossessive = witchgodname_Scythian_the_shadow_possessive
+		WitchGodSheHe = CHARACTER_SHEHE_IT
+		WitchGodHerHis = CHARACTER_HERHIS_ITS
+		WitchGodHerHim = CHARACTER_HERHIM_IT
+		WitchGodMistressMaster = witch_spirit
+ 		WitchGodMotherFather = witch_source
+		
+		GHWName = ghw_great_holy_war
+		GHWNamePlural = ghw_great_holy_wars
+	}	
+
+	faiths = {
+		scythian = {
+			color = { 95 30 10 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_armed_pilgrimages
+			doctrine = tenet_communal_possessions
+			doctrine = tenet_communion
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		
+		scythian_middle = {
+			color = { 119 235 227 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_adaptive
+			doctrine = tenet_rite
+			doctrine = tenet_communal_identity
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_italian = {
+			color = { 79 125 250 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_communal_identity
+			doctrine = tenet_rite
+			doctrine = tenet_astrology
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_spanish = {
+			color = { 170 79 250 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_mendicant_preachers
+			doctrine = tenet_rite
+			doctrine = tenet_tax_nonbelievers
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_germanic = {
+			color = { 127 97 152 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_adaptive
+			doctrine = tenet_rite
+			doctrine = tenet_ritual_cannibalism
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_aral = {
+			color = { 176 202 103 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_unrelenting_faith
+			doctrine = tenet_rite
+			doctrine = tenet_armed_pilgrimages
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_asian = {
+			color = { 202 185 103 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_inner_journey
+			doctrine = tenet_rite
+			doctrine = tenet_reincarnation
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_lunitic = {
+			color = { 231 7 255 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = unreformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_natural_primitivism
+			doctrine = tenet_rite
+			doctrine = tenet_carnal_exaltation
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_robbinhood = {
+			color = { 72 55 74 }
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_vows_of_poverty
+			doctrine = tenet_asceticism
+			doctrine = tenet_communal_possessions
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_anger = {
+			color = { 139 22 22 }
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = unreformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_exaltation_of_pain
+			doctrine = tenet_unrelenting_faith
+			doctrine = tenet_armed_pilgrimages
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_sloth = {
+			color = { 50 24 24 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = unreformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_pastoral_isolation
+			doctrine = tenet_rite
+			doctrine = tenet_pacifism
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_envy = {
+			color = { 165 186 100 }
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_warmonger
+			doctrine = tenet_sacred_silence
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_pride = {
+			color = { 124 7 202 }
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_divine_marriage
+			doctrine = tenet_household_gods
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_glutton = {
+			color = { 95 63 8 }
+			religious_head = k_palace_state
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = reformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_hedonistic
+			doctrine = tenet_rite
+			doctrine = tenet_carnal_exaltation
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+		scythian_unreformed = {
+			color = { 95 30 10 }
+			icon = scythian_pagan
+			reformed_icon = scythian_pagan_reformed
+
+			doctrine = unreformed_faith_doctrine
+
+			holy_site = Rooma
+			holy_site = Jitikul
+			holy_site = Cremia
+			holy_site = Damietta
+			holy_site = Zemi
+
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_warmonger
+			doctrine_selection_pair = {
+				requires_dlc_flag = the_northern_lords
+				doctrine = tenet_gruesome_festivals
+				fallback_doctrine = tenet_human_sacrifice
+			}
+			#doctrine = doctrine_consanguinity_unrestricted
+		}
+	}
+		# iranian_pagan = {
+		# 	color = { 122 94 74 }
+		# 	icon = pagan
+		# 	reformed_icon = pagan_reformed
+
+		# 	doctrine = unreformed_faith_doctrine
+
+		# 	holy_site = takht-i-sangin
+		# 	holy_site = takht-e_soleyman
+		# 	holy_site = ushi-darena
+		# 	holy_site = samarkand
+		# 	holy_site = Zemi
+
+		# 	# Proposed tenets:
+		# 	doctrine = tenet_aniconism # In sharp contrast to other people of the Middle East, the Iranians neither made images of their deities or built temples to house them.
+		# 	doctrine = tenet_ritual_celebrations # The Iranians celebrated various festivals throughout the year. These were mostly related to agricultural and herding cycles. The most important of these was that of New Year, which is still celebrated by Iranian peoples.
+		# 	doctrine = tenet_ritual_hospitality # The Yazna, a ritual where a guest would play a part in a ritual sacrifice where they would be the deity and receive numerous gifts and feasts
+		# }
+	}
+}

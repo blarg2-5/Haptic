@@ -1,0 +1,57 @@
+k_oghuz_il={
+	361.1.16 = { government = administrative_government holder = imperator250472 liege = e_IRTOCK3_A39 succession_laws = { appointment_succession_law } }
+}
+d_kiev={
+	361.11.17 = { liege = 0 }
+}
+c_kiev={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 40 }
+}
+c_zhytomyr={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_zvyahel={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator247425 change_development_level = 32 }
+}
+c_chornobyl={
+	361.1.9 = { liege = 0 holder = imperator244420 }
+	361.2.17 = { change_development_level = 38 }
+}
+c_ushytsia={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_korsun={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 37 }
+}
+d_yedisan={
+	361.11.17 = { liege = 0 }
+}
+c_odessa={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 44 }
+}
+c_ladyzyn={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_uman={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_cherkassy={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_kherson={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 38 }
+}
+c_dnipro={
+	361.1.16 = { liege = 0 holder = imperator250472 }
+	361.2.17 = { change_development_level = 39 }
+}

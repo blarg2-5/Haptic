@@ -1,0 +1,85 @@
+k_hungary={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+d_bihar={
+	361.11.17 = { liege = 0 }
+}
+c_bihar={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 49 }
+}
+c_zarand={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator242680 change_development_level = 43 }
+}
+c_bekes={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 55 }
+}
+c_szabolcs={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_szatmar={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241134 change_development_level = 39 }
+}
+d_transylvania={
+	361.11.17 = { liege = 0 }
+}
+c_feher={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 37 }
+}
+c_szekelyfold={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_barcasag={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_fogaras={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator242680 change_development_level = 23 }
+}
+c_torda={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 41 }
+}
+c_beszterce={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator256528 change_development_level = 38 }
+}
+c_hunyad={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241134 change_development_level = 51 }
+}
+d_temes={
+	361.11.17 = { liege = 0 }
+}
+c_severin={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_temes={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_arad={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_krasso={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator256528 change_development_level = 37 }
+}
+c_keve={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator242680 change_development_level = 50 }
+}
+c_csanad={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241134 change_development_level = 39 }
+}

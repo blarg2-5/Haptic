@@ -1,0 +1,25 @@
+k_IRTOCK3_A5J={
+	256.2.1 = { holder = imperator226408 government = feudal_government }
+	284.11.29 = { holder = imperator231594 government = feudal_government }
+	332.11.25 = { holder = imperator242469 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_corsica={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_ajaccio_holder liege = 0 }
+}
+c_ajaccio={
+	361.2.17 = { liege = 0 change_development_level = 27 }
+	361.11.17 = { holder = IRToCK3_c_ajaccio_holder }
+}
+b_calvi={
+	361.2.17 = { holder = imperator243156 }
+}
+c_bastia={
+	332.11.25 = { liege = 0 holder = imperator242469 }
+	361.2.17 = { change_development_level = 43 }
+}
+c_vecchio={
+	332.11.25 = { liege = 0 holder = imperator242469 }
+	361.2.17 = { liege = k_IRTOCK3_A5J holder = imperator245006 change_development_level = 29 }
+}

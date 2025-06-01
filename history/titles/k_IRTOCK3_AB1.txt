@@ -1,0 +1,232 @@
+k_IRTOCK3_AB1={
+	348.12.27 = { holder = imperator263440 government = feudal_government liege = e_IRTOCK3_A39 }
+	353.12.27 = { holder = imperator263420 government = republic_government }
+	358.12.27 = { holder = imperator263416 government = republic_government }
+	361.2.17 = { succession_laws = { city_succession_law } }
+}
+d_aragon={
+	361.1.16 = { government = republic_government holder = imperator265819 liege = k_IRTOCK3_AB1 succession_laws = { high_partition_succession_law } }
+}
+c_zaragoza={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_albarracin={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_alto_aragon={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_sobrarbe={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_huesca={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_calatayud={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 29 }
+}
+c_fraga={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 17 }
+}
+c_alcaniz={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 29 }
+}
+d_cordoba={
+	361.11.17 = { liege = 0 }
+}
+c_cordoba={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 33 }
+}
+c_calatrava={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 32 }
+}
+c_almader={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_andujar={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 27 }
+}
+d_granada={
+	361.11.17 = { liege = 0 }
+}
+c_granada={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_almeria={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_cabra={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 29 }
+}
+c_malaga={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 26 }
+}
+d_sevilla={
+	361.11.17 = { liege = 0 }
+}
+c_sevilla={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 27 }
+}
+b_triana={
+	361.2.17 = { holder = imperator243568 }
+}
+c_cadiz={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 37 }
+}
+c_algeciras={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 31 }
+}
+c_niebla={
+	352.5.22 = { liege = 0 holder = imperator240684 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_moura={
+	359.2.16 = { liege = 0 holder = imperator252334 }
+	361.2.17 = { liege = k_IRTOCK3_A2J holder = imperator240941 change_development_level = 10 }
+}
+d_toledo={
+	361.11.17 = { liege = 0 }
+}
+c_toledo={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 9 }
+}
+c_madrid={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 30 }
+}
+c_molina={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 26 }
+}
+c_cuenca={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 32 }
+}
+c_malagon={
+	361.1.14 = { liege = 0 holder = imperator263418 }
+	361.2.17 = { change_development_level = 19 }
+}
+c_mora={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 34 }
+}
+d_valencia={
+	361.11.17 = { liege = 0 }
+}
+c_valencia={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 33 }
+}
+c_castellon={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_teruel={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_denia={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 29 }
+}
+c_alicante={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 26 }
+}
+d_murcia={
+	361.11.17 = { liege = 0 }
+}
+c_murcia={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 30 }
+}
+c_alcaraz={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 26 }
+}
+c_alarcon={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 28 }
+}
+d_barcelona={
+	361.11.17 = { liege = 0 }
+}
+c_barcelona={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 17 }
+}
+c_urgell={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 13 }
+}
+c_pallas={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 10 }
+}
+c_puigcerda={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_girona={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_rossello={
+	347.12.15 = { liege = 0 holder = imperator261222 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_lleida={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_tarragona={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 23 }
+}
+d_navarra={
+	361.11.17 = { liege = 0 }
+}
+c_navarra={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_najera={
+	312.5.24 = { liege = 0 holder = imperator249703 }
+	361.2.17 = { holder = imperator246881 change_development_level = 9 }
+}
+c_tudela={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 17 }
+}
+d_viscaya={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { liege = 0 }
+}
+c_viscaya={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 13 }
+}
+c_ipuskoa={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 13 }
+}

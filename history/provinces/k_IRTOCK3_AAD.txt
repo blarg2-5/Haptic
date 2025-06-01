@@ -1,0 +1,45 @@
+4100={
+	holding = none
+}
+4101={
+	holding = castle_holding
+}
+4102={
+	holding = none
+}
+4103={
+	culture = median
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4104={
+	holding = none
+}
+4121={
+	holding = castle_holding
+}
+4122={
+	culture = median
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4123={
+	holding = none
+}
+4301={
+	holding = none
+}
+4302={
+	holding = none
+}
+4303={
+	holding = none
+}
+4304={
+	holding = castle_holding
+}
+4305={
+	culture = arran
+	faith = manichean
+	holding = city_holding
+}

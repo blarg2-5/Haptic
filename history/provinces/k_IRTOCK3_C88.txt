@@ -1,0 +1,14 @@
+6={
+	culture = briton
+	faith = insular_celtic
+}
+7={
+	culture = rugian
+	faith = central_pagan
+	holding = none
+}
+8={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}

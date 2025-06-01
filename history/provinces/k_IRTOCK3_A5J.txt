@@ -1,0 +1,24 @@
+2647={
+	culture = scythian
+	faith = scythian_unreformed
+	holding = castle_holding
+}
+2648={
+	holding = church_holding
+}
+2649={
+	holding = city_holding
+}
+2650={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = none
+}
+2651={
+	holding = none
+}
+2652={
+	culture = scythian
+	faith = scythian_unreformed
+	holding = castle_holding
+}

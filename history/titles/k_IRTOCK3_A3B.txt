@@ -1,0 +1,88 @@
+k_IRTOCK3_A3B={
+	220.6.4 = { holder = imperator213929 government = feudal_government }
+	225.6.4 = { holder = imperator214320 government = republic_government }
+	230.6.4 = { holder = imperator213948 government = republic_government }
+	235.6.4 = { holder = imperator216130 government = republic_government }
+	240.6.4 = { holder = imperator213950 government = republic_government }
+	242.6.4 = { holder = imperator213946 government = republic_government }
+	244.6.4 = { holder = imperator213931 government = republic_government }
+	246.6.4 = { holder = imperator213948 government = republic_government }
+	248.6.4 = { holder = imperator213936 government = republic_government }
+	250.6.4 = { holder = imperator213943 government = republic_government }
+	252.6.4 = { holder = imperator213930 government = republic_government }
+	254.6.4 = { holder = imperator213939 government = republic_government }
+	256.6.4 = { holder = imperator213929 government = republic_government }
+	258.6.4 = { holder = imperator213931 government = republic_government }
+	260.6.4 = { holder = imperator213950 government = republic_government }
+	262.6.4 = { holder = imperator214297 government = republic_government }
+	264.6.4 = { holder = imperator219286 government = republic_government }
+	266.6.4 = { holder = imperator232427 government = republic_government }
+	268.6.4 = { holder = imperator219294 government = republic_government }
+	270.6.4 = { holder = imperator213936 government = republic_government }
+	272.6.4 = { holder = imperator213943 government = republic_government }
+	274.6.4 = { holder = imperator219289 government = republic_government }
+	276.6.4 = { holder = imperator235395 government = republic_government }
+	278.6.4 = { holder = imperator215115 government = republic_government }
+	280.6.4 = { holder = imperator229805 government = republic_government }
+	282.6.4 = { holder = imperator219294 government = republic_government }
+	284.6.4 = { holder = imperator215341 government = republic_government }
+	286.6.4 = { holder = imperator219297 government = republic_government }
+	288.6.4 = { holder = imperator219288 government = republic_government }
+	290.6.4 = { holder = imperator218433 government = republic_government }
+	292.6.4 = { holder = imperator215115 government = republic_government }
+	294.6.4 = { holder = imperator236614 government = republic_government }
+	296.6.4 = { holder = imperator244082 government = republic_government }
+	298.6.4 = { holder = imperator215341 government = republic_government }
+	300.6.4 = { holder = imperator219297 government = republic_government }
+	302.6.4 = { holder = imperator219787 government = republic_government }
+	304.6.4 = { holder = imperator220193 government = republic_government }
+	306.6.4 = { holder = imperator218433 government = republic_government }
+	307.2.8 = { holder = imperator236614 government = republic_government }
+	309.2.8 = { holder = imperator228451 government = republic_government }
+	311.2.8 = { holder = imperator223707 government = republic_government }
+	313.2.8 = { holder = imperator250031 government = republic_government }
+	315.2.8 = { holder = imperator236613 government = republic_government }
+	317.2.8 = { holder = imperator249328 government = republic_government }
+	319.2.8 = { holder = imperator222754 government = republic_government }
+	321.2.8 = { holder = imperator236614 government = republic_government }
+	323.2.8 = { holder = imperator228451 government = republic_government }
+	325.2.8 = { holder = imperator230370 government = republic_government }
+	327.2.8 = { holder = imperator234442 government = republic_government }
+	329.2.8 = { holder = imperator241453 government = republic_government }
+	331.2.8 = { holder = imperator253179 government = republic_government }
+	333.2.8 = { holder = imperator227507 government = republic_government }
+	334.12.30 = { holder = imperator256954 government = republic_government }
+	336.11.27 = { liege = e_IRTOCK3_ALB }
+	336.12.30 = { holder = imperator232637 government = republic_government }
+	338.12.30 = { holder = imperator236442 government = republic_government }
+	340.12.30 = { holder = imperator244965 government = republic_government }
+	342.12.30 = { holder = imperator251451 government = republic_government }
+	344.12.30 = { holder = imperator234504 government = republic_government }
+	346.12.30 = { holder = imperator239725 government = republic_government }
+	348.12.30 = { holder = imperator239678 government = republic_government }
+	350.12.30 = { holder = imperator248239 government = republic_government }
+	352.12.30 = { holder = imperator246124 government = republic_government }
+	354.12.30 = { holder = imperator241653 government = republic_government }
+	356.12.30 = { holder = imperator251451 government = republic_government }
+	358.12.30 = { holder = imperator248375 government = republic_government }
+	360.12.30 = { holder = imperator252534 government = republic_government }
+	361.2.17 = { succession_laws = { city_succession_law } }
+}
+d_oultrejourdain={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_kerak={
+	360.12.30 = { liege = 0 holder = imperator252534 }
+	361.2.17 = { liege = k_IRTOCK3_A3B holder = imperator251451 change_development_level = 36 }
+}
+c_negev={
+	360.12.30 = { liege = 0 holder = imperator252534 }
+	361.2.17 = { change_development_level = 37 }
+}
+b_baidha-petra={
+	361.2.17 = { holder = imperator246124 }
+}
+b_aila={
+	361.2.17 = { holder = imperator248761 }
+}

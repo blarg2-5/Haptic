@@ -1,0 +1,30 @@
+k_IRTOCK3_AAM={
+	339.8.22 = { holder = imperator259903 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_cilicia={
+	361.11.17 = { liege = 0 }
+}
+c_alexandretta={
+	361.1.7 = { liege = 0 holder = imperator256903 }
+	361.2.17 = { change_development_level = 32 }
+}
+c_cilicia={
+	339.8.22 = { liege = 0 holder = imperator259903 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_lycandus={
+	338.11.8 = { liege = 0 holder = imperator249967 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_tall_hamid={
+	361.1.7 = { liege = 0 holder = imperator256903 }
+	361.2.17 = { change_development_level = 37 }
+}
+c_seleucia={
+	339.8.22 = { liege = 0 holder = imperator259903 }
+	361.2.17 = { change_development_level = 29 }
+}
+b_corycus={
+	361.2.17 = { holder = imperator259906 }
+}

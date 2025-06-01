@@ -1,0 +1,120 @@
+501={
+	holding = none
+}
+505={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3593={
+	holding = none
+}
+3594={
+	holding = city_holding
+	special_building_slot = trepca_mines_01
+}
+3595={
+	holding = city_holding
+}
+3596={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3597={
+	holding = none
+}
+3598={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3599={
+	holding = none
+}
+3600={
+	holding = city_holding
+}
+3601={
+	holding = city_holding
+}
+3602={
+	holding = none
+	50.1.1 = { special_building_slot = rudnik_mines_01 }
+}
+3603={
+	holding = none
+}
+3604={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3605={
+	holding = none
+}
+3606={
+	holding = city_holding
+}
+3607={
+	holding = none
+}
+3642={
+	holding = none
+}
+3643={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3644={
+	holding = none
+}
+3645={
+	holding = none
+}
+3646={
+	holding = none
+}
+3647={
+	holding = none
+}
+3654={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3657={
+	holding = city_holding
+}
+3658={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3659={
+	holding = none
+}
+3660={
+	holding = none
+}
+3661={
+	holding = none
+}
+3662={
+	holding = none
+}
+3663={
+	holding = none
+}
+3664={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3665={
+	holding = city_holding
+}
+3666={
+	holding = none
+}

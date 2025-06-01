@@ -1,0 +1,59 @@
+9596={
+	culture = mon
+	faith = burmic
+	holding = none
+}
+9597={
+	holding = none
+}
+9598={
+	culture = mon
+	faith = burmic
+	holding = none
+	300.1.1 = { special_building_slot = shwedagon_pagoda_01 }
+}
+9599={
+	holding = none
+}
+9626={
+	holding = none
+}
+9627={
+	culture = mon
+	faith = burmic
+	holding = none
+}
+9628={
+	holding = none
+}
+9629={
+	holding = none
+}
+9630={
+	holding = none
+}
+9631={
+	holding = none
+}
+9632={
+	culture = mon
+	faith = burmic
+	holding = none
+}
+9633={
+	holding = none
+}
+9635={
+	holding = none
+}
+9636={
+	holding = none
+}
+9637={
+	culture = mon
+	faith = burmic
+	holding = none
+}
+9638={
+	holding = none
+}

@@ -1,0 +1,43 @@
+k_IRTOCK3_A0O={
+	175.5.2 = { holder = imperator182168 government = feudal_government }
+	182.11.9 = { holder = imperator197767 government = feudal_government }
+	221.9.8 = { holder = imperator205978 government = feudal_government }
+	265.12.15 = { holder = imperator223127 government = feudal_government }
+	320.10.21 = { holder = imperator226264 government = feudal_government }
+	327.8.27 = { holder = imperator237637 government = feudal_government }
+	349.6.8 = { holder = imperator241618 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_socotra={
+	361.11.17 = { liege = 0 }
+}
+c_socotra={
+	349.6.8 = { liege = 0 holder = imperator241618 }
+	361.2.17 = { change_development_level = 25 }
+}
+d_hafun={
+	361.11.17 = { liege = 0 holder = IRToCK3_c_mudug_holder government = tribal_government }
+}
+c_ras_hafun={
+	349.6.8 = { liege = 0 holder = imperator241618 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_barbacadle={
+	302.5.18 = { liege = 0 holder = imperator242279 }
+	361.2.17 = { change_development_level = 30 }
+}
+b_dhuudo={
+	361.2.17 = { holder = imperator249279 }
+}
+c_nugaal={
+	337.5.14 = { liege = 0 holder = imperator250773 }
+	361.2.17 = { change_development_level = 8 }
+}
+c_mudug={
+	359.1.1 = { government = city_state_government }
+	361.2.17 = { liege = 0 change_development_level = 30 }
+	361.11.17 = { holder = IRToCK3_c_mudug_holder }
+}
+b_mudug-north={
+	361.2.17 = { holder = imperator238383 }
+}

@@ -1,0 +1,177 @@
+470={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+471={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+	303.1.1 = { special_building_slot = sofia_ohrid }
+}
+488={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+489={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+490={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+	303.1.1 = { special_building_slot = hagios_demetrios }
+}
+491={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3520={
+	holding = none
+}
+3570={
+	holding = none
+}
+3638={
+	holding = none
+}
+3639={
+	holding = none
+}
+3640={
+	holding = none
+}
+3641={
+	holding = none
+}
+3711={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3712={
+	holding = none
+}
+3713={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3714={
+	holding = none
+}
+3715={
+	holding = none
+}
+3716={
+	holding = none
+}
+3717={
+	holding = city_holding
+}
+3718={
+	holding = none
+}
+3719={
+	holding = city_holding
+}
+3720={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3721={
+	holding = city_holding
+}
+3722={
+	holding = none
+}
+3723={
+	holding = none
+}
+3724={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3775={
+	holding = none
+}
+3776={
+	holding = none
+	303.1.1 = { special_building_slot = mount_athos_01 }
+}
+3777={
+	holding = city_holding
+}
+3778={
+	holding = none
+}
+3779={
+	holding = none
+}
+3780={
+	holding = none
+}
+3781={
+	holding = city_holding
+}
+3782={
+	holding = castle_holding
+}
+3783={
+	holding = none
+}
+3784={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3785={
+	holding = city_holding
+}
+3786={
+	holding = city_holding
+}
+3787={
+	holding = none
+}
+3788={
+	holding = none
+}
+3789={
+	holding = none
+}
+3790={
+	holding = none
+}
+3791={
+	holding = city_holding
+}
+3792={
+	holding = city_holding
+}
+3793={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3794={
+	holding = city_holding
+}
+3795={
+	holding = city_holding
+}
+3796={
+	holding = none
+	303.1.1 = { special_building_slot = meteora_01 }
+}
+3797={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}

@@ -1,0 +1,89 @@
+k_kipchak={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_semey={
+	361.11.17 = { liege = 0 }
+}
+c_semey={
+	361.1.1 = { holder = dzungaria_03 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_jinghiz={
+	361.1.1 = { holder = enqu_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_degelen={
+	361.1.1 = { holder = dzungaria_03 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_arkat={
+	361.1.1 = { holder = dzungaria_03 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kalbin={
+	361.1.1 = { holder = dzungaria_03 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_kentarlau={
+	361.11.17 = { liege = 0 }
+}
+c_kulan_uynak={
+	361.1.1 = { holder = enqu_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_jiren_suat={
+	361.1.1 = { holder = berujiuli_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_koi-bagar={
+	361.1.1 = { holder = berujiuli_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_karkaraly={
+	361.11.17 = { liege = 0 }
+}
+c_karkaraly={
+	361.1.1 = { holder = fuwenhun_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tokumbay={
+	361.1.1 = { holder = fuwenhun_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_nurtay={
+	361.1.1 = { holder = berujiuli_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_karabas={
+	361.11.17 = { liege = 0 }
+}
+c_karabas={
+	361.1.1 = { holder = fuwenhun_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_jasky_kart={
+	361.1.1 = { holder = khanty_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_uliuty={
+	361.1.1 = { holder = khanty_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_betpa={
+	361.11.17 = { liege = 0 holder = IRToCK3_c_betpa_holder government = tribal_government }
+}
+c_betpa={
+	361.1.1 = { holder = 1250017 government = nomadic_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_betpa_holder }
+}
+c_targyl={
+	361.1.1 = { holder = 1250017 government = nomadic_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_betpa_holder }
+}
+c_kulan_utmas={
+	361.1.1 = { holder = fuwenhun_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}

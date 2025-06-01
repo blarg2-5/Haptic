@@ -1,0 +1,47 @@
+2260={
+	holding = none
+}
+2261={
+	culture = gallo_roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2262={
+	holding = city_holding
+}
+2263={
+	holding = none
+}
+2264={
+	culture = gallo_roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2265={
+	holding = none
+}
+2266={
+	holding = city_holding
+}
+2267={
+	culture = gallo_roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2268={
+	holding = none
+}
+2269={
+	holding = none
+}
+2270={
+	culture = gallo_roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2271={
+	holding = city_holding
+}
+2272={
+	holding = none
+}

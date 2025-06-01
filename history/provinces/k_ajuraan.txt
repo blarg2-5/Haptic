@@ -1,0 +1,108 @@
+8455={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8457={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8458={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8459={
+	holding = none
+}
+8460={
+	holding = none
+}
+8461={
+	holding = city_holding
+}
+8462={
+	holding = none
+}
+8463={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8464={
+	holding = none
+}
+8465={
+	holding = none
+}
+8466={
+	culture = somali
+	faith = nicene
+	holding = none
+}
+8467={
+	holding = none
+}
+8468={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8469={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8470={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8471={
+	holding = none
+}
+8472={
+	holding = none
+}
+8473={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8474={
+	holding = none
+}
+8475={
+	holding = none
+}
+8476={
+	holding = none
+}
+8477={
+	holding = none
+}
+8478={
+	holding = none
+}
+8479={
+	holding = none
+}
+8491={
+	holding = none
+}
+8495={
+	holding = none
+}
+8496={
+	holding = none
+}
+8497={
+	holding = none
+}
+8510={
+	holding = none
+}
+8511={
+	holding = none
+}

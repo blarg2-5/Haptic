@@ -1,0 +1,41 @@
+k_IRTOCK3_GTE_scythia_region={
+	361.1.15 = { liege = e_IRTOCK3_GTE holder = imperator261525 government = administrative_government succession_laws = { appointment_succession_law } }
+}
+d_bukovina={
+	361.11.17 = { liege = 0 }
+}
+c_suceava={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_neamnt={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator256528 change_development_level = 31 }
+}
+c_dorohoi={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241650 change_development_level = 33 }
+}
+c_hotin={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 37 }
+}
+d_bugeac={
+	361.11.17 = { liege = 0 }
+}
+c_tigheci={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_cetatea_alba={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { change_development_level = 43 }
+}
+c_chilia={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 31 }
+}
+c_lapusna={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 35 }
+}

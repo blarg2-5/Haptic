@@ -1,0 +1,46 @@
+1310={
+	holding = castle_holding
+}
+1369={
+	culture = rajput
+	faith = manichean
+	holding = castle_holding
+}
+8431={
+	holding = city_holding
+}
+8432={
+	culture = somali
+	faith = nicene
+	holding = castle_holding
+}
+8504={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+8505={
+	holding = none
+}
+8506={
+	holding = none
+}
+8507={
+	holding = city_holding
+}
+8508={
+	holding = none
+}
+8509={
+	culture = somali
+	faith = nicene
+	holding = castle_holding
+}
+8512={
+	culture = somali
+	faith = nicene
+	holding = none
+}
+8513={
+	holding = city_holding
+}

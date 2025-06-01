@@ -1,0 +1,61 @@
+4573={
+	culture = punic
+	faith = donatism
+	holding = castle_holding
+}
+4574={
+	holding = none
+}
+4575={
+	culture = punic
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4576={
+	holding = city_holding
+}
+4577={
+	holding = none
+}
+4578={
+	culture = punic
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4579={
+	holding = city_holding
+}
+4580={
+	holding = city_holding
+}
+4592={
+	holding = castle_holding
+}
+4593={
+	holding = none
+}
+4594={
+	culture = punic
+	faith = donatism
+	holding = castle_holding
+}
+4595={
+	holding = none
+}
+4596={
+	holding = none
+}
+4597={
+	holding = none
+}
+4598={
+	culture = gaetulian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+4599={
+	holding = none
+}
+4624={
+	holding = none
+}

@@ -1,0 +1,100 @@
+k_IRTOCK3_AAX={
+	344.12.23 = { holder = imperator262053 government = feudal_government liege = e_IRTOCK3_A39 }
+	361.2.17 = { government = republic_government succession_laws = { city_succession_law princely_elective_succession_law } }
+}
+d_lahore={
+	361.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.11.17 = { liege = 0 }
+}
+c_lahur={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_dipalpur={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_bhera={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 24 }
+}
+c_shorkot={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 33 }
+}
+c_sakala={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { change_development_level = 11 }
+}
+c_trigarta={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_gurjaratra={
+	317.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 14 }
+}
+b_jhelum={
+	361.2.17 = { holder = imperator262045 }
+}
+d_gandhara={
+	361.1.1 = { change_development_level = 7 }
+	361.11.17 = { liege = 0 }
+}
+c_udabhanda={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { liege = k_IRTOCK3_AAX holder = imperator262042 change_development_level = 8 }
+}
+c_purushapura={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 0 }
+}
+c_nandana={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 15 }
+}
+c_bannu={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 7 }
+}
+c_urgun={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 6 }
+}
+d_haritanaka={
+	361.1.1 = { change_development_level = 5 }
+	361.1.2 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.11.17 = { liege = 0 }
+}
+c_tribandapura={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.1.2 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { change_development_level = 21 }
+}
+c_hisar={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.1.2 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { change_development_level = 21 }
+}
+c_sarasvati={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.1.2 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { change_development_level = 29 }
+}
+d_kasmira={
+	361.11.17 = { liege = 0 }
+}
+c_kasmira={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_allai={
+	344.12.23 = { liege = 0 holder = imperator262053 }
+	361.2.17 = { change_development_level = 5 }
+}
+c_astore={
+	344.1.25 = { liege = 0 holder = imperator261650 }
+	361.2.17 = { change_development_level = 14 }
+}

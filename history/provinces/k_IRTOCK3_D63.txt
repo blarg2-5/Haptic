@@ -1,0 +1,47 @@
+16={
+	holding = none
+}
+45={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+46={
+	culture = briton
+	faith = insular_celtic
+	holding = castle_holding
+}
+47={
+	holding = castle_holding
+}
+48={
+	holding = none
+}
+49={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+50={
+	holding = castle_holding
+}
+51={
+	holding = city_holding
+}
+52={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+53={
+	holding = city_holding
+}
+54={
+	holding = none
+}
+8749={
+	holding = castle_holding
+}
+8750={
+	holding = none
+}

@@ -1,0 +1,83 @@
+512={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+545={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5011={
+	holding = none
+}
+5012={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5013={
+	holding = none
+}
+5014={
+	holding = none
+}
+5015={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5016={
+	holding = none
+}
+5017={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5018={
+	holding = none
+}
+5031={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5032={
+	holding = none
+}
+5033={
+	holding = none
+}
+5034={
+	holding = none
+}
+5035={
+	holding = none
+}
+5036={
+	holding = none
+}
+5037={
+	holding = none
+}
+5038={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5039={
+	holding = none
+}
+5040={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+	special_building_slot = hotin_fort_01
+}
+5041={
+	holding = none
+}
+5042={
+	holding = city_holding
+}

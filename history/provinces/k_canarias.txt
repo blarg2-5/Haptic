@@ -1,0 +1,21 @@
+849={
+	culture = guanches
+	religion = north_african_acham_pagan
+	holding = tribal_holding
+}
+8713={
+	holding = none
+}
+8714={
+	culture = guanches
+	religion = north_african_acham_pagan
+	holding = tribal_holding
+}
+8715={
+	holding = none
+}
+8716={
+	culture = guanches
+	religion = north_african_acham_pagan
+	holding = tribal_holding
+}

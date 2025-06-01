@@ -1,0 +1,91 @@
+1130={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1174={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = desert
+}
+1176={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1300={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1302={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1345={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+3342={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+3343={
+	holding = city_holding
+}
+3345={
+	holding = church_holding
+}
+3484={
+	holding = none
+}
+3485={
+	holding = none
+}
+3486={
+	holding = none
+}
+3487={
+	holding = church_holding
+}
+3488={
+	holding = church_holding
+	terrain = desert
+}
+3489={
+	holding = none
+}
+3490={
+	holding = city_holding
+}
+3491={
+	holding = none
+}
+3492={
+	holding = none
+}
+3493={
+	holding = none
+}
+3494={
+	holding = city_holding
+}
+3495={
+	holding = none
+}
+3496={
+	holding = none
+}
+3497={
+	holding = none
+}
+3498={
+	holding = none
+}
+3499={
+	holding = none
+}

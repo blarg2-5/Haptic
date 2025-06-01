@@ -1,0 +1,49 @@
+k_tuyuhun={
+	351.1.1 = { holder = 247349 }
+}
+d_xining={
+	284.1.1 = { government = tribal_government }
+	351.1.1 = { holder = 247349 }
+}
+c_xining={
+	351.1.1 = { liege = "d_xining" }
+	357.11.24 = { holder = xiao_yuezhi_004 }
+	361.11.17 = { change_development_level = 1 }
+}
+c_datong={
+	351.1.1 = { holder = 247349 liege = "d_tuyuhun" }
+	361.11.17 = { change_development_level = 1 }
+}
+d_tuyuhun={
+	351.1.1 = { holder = 247349 }
+}
+c_fuqi={
+	351.1.1 = { holder = 247349 liege = "d_tuyuhun" }
+	361.1.1 = { change_development_level = 3 }
+}
+c_gerqen={
+	351.1.1 = { holder = 247349 liege = "d_tuyuhun" }
+	361.11.17 = { change_development_level = 1 }
+}
+c_xigortang={
+	351.1.1 = { holder = 247349 liege = "d_tuyuhun" }
+	361.11.17 = { change_development_level = 1 }
+}
+c_derlenka={
+	284.1.1 = { government = tribal_government }
+	351.1.1 = { liege = "d_tuyuhun" }
+	361.1.1 = { holder = qiang_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+c_ulam={
+	284.1.1 = { government = tribal_government }
+	351.1.1 = { liege = "d_tuyuhun" }
+	361.1.1 = { holder = qiang_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+c_tuulain={
+	284.1.1 = { government = tribal_government }
+	351.1.1 = { liege = "d_tuyuhun" }
+	361.1.1 = { holder = qiang_01 }
+	361.11.17 = { change_development_level = 1 }
+}

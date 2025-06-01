@@ -1,0 +1,60 @@
+4788={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+4789={
+	holding = none
+}
+4790={
+	holding = none
+}
+4794={
+	holding = city_holding
+}
+4795={
+	holding = castle_holding
+}
+4796={
+	culture = arran
+	faith = manichean
+	holding = city_holding
+}
+4797={
+	culture = arran
+	faith = caucasian_pagan
+	holding = city_holding
+}
+4798={
+	holding = none
+}
+4824={
+	culture = arran
+	faith = manichean
+	holding = city_holding
+}
+4825={
+	holding = city_holding
+}
+4827={
+	holding = city_holding
+}
+4828={
+	holding = city_holding
+}
+4829={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4830={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4831={
+	holding = none
+}
+4833={
+	holding = none
+}

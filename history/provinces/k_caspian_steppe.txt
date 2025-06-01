@@ -1,0 +1,112 @@
+556={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+557={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+558={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+563={
+	holding = none
+}
+564={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+565={
+	holding = none
+}
+594={
+	holding = none
+}
+595={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+596={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5278={
+	holding = church_holding
+}
+5279={
+	holding = none
+}
+5280={
+	holding = none
+}
+5281={
+	holding = none
+}
+5282={
+	holding = none
+}
+5283={
+	holding = none
+}
+5287={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5290={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5291={
+	holding = none
+}
+5292={
+	holding = none
+}
+5293={
+	holding = none
+}
+5294={
+	holding = none
+}
+5295={
+	holding = none
+}
+5320={
+	holding = none
+}
+5321={
+	holding = castle_holding
+}
+5322={
+	holding = none
+}
+5323={
+	holding = none
+}
+5324={
+	holding = none
+}
+5325={
+	holding = none
+}
+5326={
+	holding = none
+}
+5327={
+	holding = none
+}
+5328={
+	holding = none
+}
+5329={
+	holding = none
+}

@@ -1,0 +1,181 @@
+﻿l_english:
+ Scythian_religion: "Scythian"
+ Scythian_religion_adj: "Heptadian"
+ Scythian_religion_adherent: "Heptadianist"
+ Scythian_religion_adherent_plural: "Heptadianists"
+ Scythian_religion_desc: "Originating in Scythian lands, this pantheistic faith worshiped seven principal gods, often equated to those of the Greek pantheon. Elements of the earlier polytheistic folk religion of the Scythians still remains, as does the practice of horse sacrifice and chariot burials, similar to those of the Celts." 
+ 
+
+ Scythian_high_god_name: "Patampasa"
+ Scythian_high_god_name_2: "colaxis"
+ Scythian_high_god_name_possesive: "Patampasa's"
+ Scythian_high_god_she_he: "She"
+ Scythian_high_god_alternate: "Colaxis"
+ Scythian_high_god_alternate_possessive: "Colaxis's"
+
+ Scythian_creator_god_name: "klyotiska"
+ Scythian_creator_god_name_possesive: "klyotiska's"
+
+ Scythian_health_god_name: "Nanadabala"
+ Scythian_health_god_name_possesive: "Nanadabala's"
+
+ Scythian_fertility_god_name: "Elyra"
+ Scythian_fertility_god_name_possessive: "Elyra's"
+
+ Scythian_wealth_god_name: "Api"
+ Scythian_wealth_god_name_possessive: "Api's"
+
+ Scythian_household_god_name: "Tur"
+ Scythian_household_god_name_possessive: "Tur's"
+
+ Scythian_fate_god_name: "Taxakis"
+ Scythian_fate_god_name_possessive: "Taxakis's"
+
+ Scythian_knowledge_god_name: "Papaios'
+ Scythian_knowledge_god_name_possessive: "Papaios's"
+
+ Scythian_war_god_name: "Amazons"
+ Scythian_war_god_name_possessive: "Amazons's"
+
+ Scythian_trickster_god_name: "Gabrial"
+ Scythian_trickster_god_name_possesive: "Gabrial's"
+
+ Scythian_night_god_name: "Haoma"
+ Scythian_night_god_name_possessive: "Haoma's"
+
+ Scythian_water_god_name: "Thaloré"
+ Scythian_water_god_name_possessive: "Thaloré's"
+
+ Scythian_devil_name: "God"
+ Scythian_devil_name_possessive: "God's"
+
+ Scythian_death_deity_name: "Vireon"
+ Scythian_death_deity_name_possessive: "Vireon's"
+
+ witchgodname_Scythian_the_shadow: "Noctyros"
+ witchgodname_Scythian_the_shadow_possessive: "Noctyros's"
+
+ Scythian_sky: "sky"
+ Scythian_sky_2: "$Scythian_sky$"
+ Scythian_sky_3: "$Scythian_sky$"
+
+ Scythian_house_of_worship: "Celestium"
+ Scythian_house_of_worship_2: "$Scythian_house_of_worship$"
+ Scythian_house_of_worship_3: "$Scythian_house_of_worship$"
+ Scythian_house_of_worship_plural: "Celestium's"
+
+ Scythian_religious_symbol: "Ashen Rune"
+ Scythian_religious_symbol_2: "6 Fingered Hand"
+ Scythian_religious_symbol_3: "Twin Flame"
+
+ Scythian_religious_text: "Oraculum Imperii"
+ Scythian_religious_text_2: "$Scythian_religious_text$"
+ Scythian_religious_text_3: "$Scythian_religious_text$"
+
+ Scythian_religious_head_title: "Speaker"
+ Scythian_religious_head_title_name: "Golden Palace"
+
+ Scythian_devotee: "follower"
+ Scythian_devoteeplural: "follower's"
+
+ Scythian_priest: "Orispex"
+ Scythian_priest_plural: "Orispex's"
+ Scythian_priest_alternate_plural: "Orispex's"
+
+ Scythian_divine_realm: "Caelvaris"
+ Scythian_divine_realm_2: "$Scythian_divine_realm$"
+ Scythian_divine_realm_3: "$Scythian_divine_realm$"
+
+ Scythian_afterlife: "Drexonel"
+ Scythian_afterlife_2: "$Scythian_afterlife$"
+ Scythian_afterlife_3: "$Scythian_afterlife$"
+ 
+ scythian: "Scythian"
+ scythian_adj: "Haptite"
+ scythian_adherent: "Haptian"
+ scythian_adherent_plural: "Haptian's"
+ scythian_desc: "Placeholder discription"
+ 
+ scythian_middle: "The Path Of Tur"
+ scythian_middle_adj: "Tur'ist"
+ scythian_middle_adherent: "Tur'ist"
+ scythian_middle_adherent_plural: "For'Inor"
+ scythian_middle_desc: "Placeholder discription"
+ 
+ scythian_italian: "The Path Of Api"
+ scythian_italian_adj: "Apil"
+ scythian_italian_adherent: "Apitite"
+ scythian_italian_adherent_plural: "Apitite's"
+ scythian_italian_desc: "Placeholder discription"
+ 
+ scythian_spanish: "The Path Of Haoma"
+ scythian_spanish_adj: "Ha'moan"
+ scythian_spanish_adherent: "Homo"
+ scythian_spanish_adherent_plural: "Homo's"
+ scythian_spanish_desc: "Placeholder discription"
+ 
+ scythian_germanic: "The Path Of Amazons"
+ scythian_germanic_adj: "Amazonis"
+ scythian_germanic_adherent: "Amazon"
+ scythian_germanic_adherent_plural: "Amazon's"
+ scythian_germanic_desc: "Placeholder discription"
+ 
+ scythian_aral: "The Path Of Vireon"
+ scythian_aral_adj: "Vireonion"
+ scythian_aral_adherent: "Vireon'ite"
+ scythian_aral_adherent_plural: "Vireonion"
+ scythian_aral_desc: "Placeholder discription"
+ 
+ scythian_asian: "The Path Of Rice"
+ scythian_asian_adj: "Riceal"
+ scythian_asian_adherent: "Riceist"
+ scythian_asian_adherent_plural: "Riceism"
+ scythian_asian_desc: "Placeholder discription"
+ 
+ scythian_lunitic: "Cult Of Lunacy"
+ scythian_lunitic_adj: "Lunatic"
+ scythian_lunitic_adherent: "Lunatic"
+ scythian_lunitic_adherent_plural: "Lunatic's"
+ scythian_lunitic_desc: "Placeholder discription"
+ 
+ scythian_robbinhood: "League Of Shadow"
+ scythian_robbinhood_adj: "League"
+ scythian_robbinhood_adherent: "Theive"
+ scythian_robbinhood_adherent_plural: "Theive's"
+ scythian_robbinhood_desc: "Placeholder discription"
+ 
+ scythian_anger: "Cult Of Wrath"
+ scythian_anger_adj: "Wrathful"
+ scythian_anger_adherent: "Wrathful"
+ scythian_anger_adherent_plural: "Wrathful"
+ scythian_anger_desc: "Placeholder discription"
+ 
+ scythian_sloth: "Cult Of The Slothful"
+ scythian_sloth_adj: "Sloth"
+ scythian_sloth_adherent: "Slothful"
+ scythian_sloth_adherent_plural: "Sloths"
+ scythian_sloth_desc: "Placeholder discription"
+ 
+ scythian_envy: "Cult Of The Envious"
+ scythian_envy_adj: "Envious"
+ scythian_envy_adherent: "Envite"
+ scythian_envy_adherent_plural: "Envious"
+ scythian_envy_desc: "Placeholder discription"
+ 
+ scythian_pride: "Cult Of The Prideful"
+ scythian_pride_adj: "Prideful"
+ scythian_pride_adherent: "Prideful"
+ scythian_pride_adherent_plural: "Prideist"
+ scythian_pride_desc: "Placeholder discription"
+ 
+ scythian_glutton: "Cult Of The Glutton"
+ scythian_glutton_adj: "Glutton"
+ scythian_glutton_adherent: "Gluttonist"
+ scythian_glutton_adherent_plural: "Gluttonite"
+ scythian_glutton_desc: "Placeholder discription"
+ 
+ scythian_unreformed: "Scythian Paganism"
+ scythian_unreformed_adj: "Pagan"
+ scythian_unreformed_adherent: "Scythian Pagan"
+ scythian_unreformed_adherent_plural: "Scythian Pagans"
+ scythian_unreformed_desc: "Placeholder"

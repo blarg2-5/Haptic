@@ -1,0 +1,44 @@
+k_gur={
+	361.11.17 = { liege = 0 }
+}
+d_dagomba={
+	361.11.17 = { liege = 0 }
+}
+c_dagomba={
+	361.1.1 = { holder = gurma_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_gonja={
+	361.1.1 = { holder = gurma_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_daboya={
+	361.1.1 = { holder = gurma_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_wagadugu={
+	361.11.17 = { liege = 0 }
+}
+c_wagadugu={
+	361.1.1 = { holder = gur_08 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_po={
+	361.1.1 = { holder = gur_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_mamprusi={
+	361.11.17 = { liege = 0 }
+}
+c_mamprusi={
+	361.1.1 = { holder = gur_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kuisugu={
+	361.1.1 = { holder = gur_06 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_pendjari={
+	361.1.1 = { holder = gur_06 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

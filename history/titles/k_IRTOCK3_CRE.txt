@@ -1,0 +1,100 @@
+k_IRTOCK3_CRE={
+	-304.10.1 = { holder = imperator12658 government = tribal_government }
+	-249.9.29 = { holder = imperator12650 government = tribal_government }
+	-248.11.21 = { holder = imperator12670 government = tribal_government }
+	-247.11.11 = { holder = imperator12663 government = tribal_government }
+	-244.3.16 = { holder = imperator12690 government = tribal_government }
+	-232.1.12 = { holder = imperator50204 government = tribal_government }
+	-220.9.15 = { holder = imperator48744 government = tribal_government }
+	-217.9.25 = { holder = imperator50619 government = tribal_government }
+	-214.8.28 = { holder = imperator99462 government = tribal_government }
+	-189.6.13 = { holder = imperator80399 government = tribal_government }
+	-186.4.30 = { holder = imperator99465 government = tribal_government }
+	-177.9.16 = { holder = imperator86581 government = tribal_government }
+	-171.12.30 = { holder = imperator99409 government = tribal_government }
+	-158.12.24 = { holder = imperator102825 government = tribal_government }
+	-144.11.16 = { holder = imperator115612 government = tribal_government }
+	-125.8.14 = { holder = imperator114328 government = tribal_government }
+	-119.3.1 = { holder = imperator121374 government = tribal_government }
+	-114.7.10 = { holder = imperator138146 government = tribal_government }
+	-110.11.27 = { holder = imperator119400 government = tribal_government }
+	-107.9.1 = { holder = imperator133673 government = tribal_government }
+	-68.11.24 = { holder = imperator135275 government = tribal_government }
+	-57.1.23 = { holder = imperator134389 government = tribal_government }
+	-55.4.20 = { holder = imperator149833 government = tribal_government }
+	-30.5.11 = { holder = imperator143715 government = tribal_government }
+	-24.5.31 = { holder = imperator144567 government = tribal_government }
+	-13.6.28 = { holder = imperator146927 government = tribal_government }
+	-11.7.19 = { holder = imperator152898 government = tribal_government }
+	22.2.19 = { holder = imperator153913 government = tribal_government }
+	27.8.30 = { holder = imperator155195 government = tribal_government }
+	32.5.10 = { holder = imperator160280 government = tribal_government }
+	36.5.11 = { holder = imperator156281 government = tribal_government }
+	36.7.11 = { holder = imperator157249 government = tribal_government }
+	46.6.20 = { holder = imperator158376 government = tribal_government }
+	53.1.1 = { holder = imperator158671 government = tribal_government }
+	55.4.2 = { holder = imperator171333 government = tribal_government }
+	61.9.4 = { holder = imperator161249 government = tribal_government }
+	66.12.19 = { holder = imperator161044 government = tribal_government }
+	69.6.5 = { holder = imperator161344 government = tribal_government }
+	72.1.21 = { holder = imperator164010 government = tribal_government }
+	86.8.21 = { holder = imperator164893 government = tribal_government }
+	98.9.14 = { holder = imperator168003 government = tribal_government }
+	105.11.4 = { holder = imperator168045 government = tribal_government }
+	115.7.26 = { holder = imperator171876 government = tribal_government }
+	130.7.13 = { holder = imperator183254 government = tribal_government }
+	130.11.15 = { holder = imperator173485 government = tribal_government }
+	138.5.10 = { holder = imperator175364 government = tribal_government }
+	144.4.15 = { holder = imperator175245 government = tribal_government }
+	148.4.16 = { holder = imperator177086 government = tribal_government }
+	149.6.27 = { holder = imperator177185 government = tribal_government }
+	159.8.21 = { holder = imperator178744 government = tribal_government }
+	168.9.5 = { holder = imperator180561 government = tribal_government }
+	179.3.18 = { holder = imperator185724 government = tribal_government }
+	201.9.25 = { holder = imperator186530 government = tribal_government }
+	208.3.4 = { holder = imperator186714 government = tribal_government }
+	209.12.2 = { holder = imperator188266 government = tribal_government }
+	216.2.23 = { holder = imperator189907 government = tribal_government }
+	224.8.2 = { holder = imperator189852 government = tribal_government }
+	228.10.9 = { holder = imperator191075 government = tribal_government }
+	233.7.23 = { holder = imperator191933 government = tribal_government }
+	239.9.24 = { holder = imperator193345 government = tribal_government }
+	245.10.30 = { holder = imperator199303 government = tribal_government }
+	251.9.14 = { holder = imperator204374 government = tribal_government }
+	261.8.23 = { holder = imperator204715 government = tribal_government }
+	262.8.23 = { holder = imperator203069 government = tribal_government }
+	268.5.20 = { holder = imperator206291 government = tribal_government }
+	268.10.18 = { holder = imperator214328 government = tribal_government }
+	290.8.26 = { holder = imperator213637 government = tribal_government }
+	300.1.17 = { holder = imperator217522 government = tribal_government }
+	304.7.27 = { holder = imperator218778 government = tribal_government }
+	310.10.12 = { holder = imperator221337 government = tribal_government }
+	320.5.29 = { holder = imperator221734 government = tribal_government }
+	321.8.23 = { holder = imperator233782 government = tribal_government }
+	349.2.11 = { holder = imperator234102 government = tribal_government }
+	352.5.22 = { holder = imperator240684 government = tribal_government }
+	361.2.17 = { succession_laws = { high_partition_succession_law } }
+}
+d_badajoz={
+	361.11.17 = { liege = 0 }
+}
+c_badajoz={
+	359.1.19 = { liege = 0 holder = imperator242067 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_plasencia={
+	361.1.10 = { liege = 0 holder = imperator249914 }
+	361.2.17 = { change_development_level = 8 }
+}
+c_caceres={
+	361.1.14 = { liege = 0 holder = imperator258927 }
+	361.2.17 = { liege = k_IRTOCK3_CRE holder = imperator242941 change_development_level = 9 }
+}
+c_merida={
+	361.1.14 = { liege = 0 holder = imperator258927 }
+	361.2.17 = { change_development_level = 9 }
+}
+c_medellin={
+	359.1.19 = { liege = 0 holder = imperator242067 }
+	361.2.17 = { change_development_level = 38 }
+}

@@ -1,0 +1,39 @@
+584={
+	culture = merya
+	faith = mari_pagan
+	holding = none
+}
+585={
+	holding = none
+}
+586={
+	holding = none
+}
+5246={
+	holding = none
+}
+5247={
+	culture = merya
+	faith = mari_pagan
+	holding = none
+}
+5248={
+	holding = none
+}
+5249={
+	holding = none
+}
+5250={
+	culture = merya
+	faith = mari_pagan
+	holding = none
+}
+5251={
+	holding = none
+}
+5252={
+	holding = none
+}
+5256={
+	holding = none
+}

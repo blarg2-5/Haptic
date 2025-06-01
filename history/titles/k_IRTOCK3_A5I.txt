@@ -1,0 +1,20 @@
+k_IRTOCK3_A5I={
+	255.11.1 = { holder = imperator226216 government = feudal_government }
+	302.5.10 = { holder = imperator239584 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_cyprus={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_nicosia={
+	302.5.10 = { liege = 0 holder = imperator239584 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_famagusta={
+	302.5.10 = { liege = 0 holder = imperator239584 }
+	361.2.17 = { liege = k_IRTOCK3_A5I holder = imperator243596 change_development_level = 31 }
+}
+b_soli_CYP={
+	361.2.17 = { holder = imperator243596 }
+}

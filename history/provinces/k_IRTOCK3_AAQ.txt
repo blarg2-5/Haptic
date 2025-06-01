@@ -1,0 +1,258 @@
+2056={
+	holding = none
+}
+2057={
+	culture = scythian
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2058={
+	holding = none
+}
+2078={
+	holding = none
+}
+2079={
+	holding = city_holding
+}
+2083={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+	100.1.1 = { special_building_slot = aula_palatina }
+}
+2192={
+	holding = none
+}
+2384={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2698={
+	holding = none
+}
+2700={
+	holding = none
+}
+2703={
+	holding = none
+}
+2704={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2705={
+	holding = city_holding
+}
+2708={
+	culture = gaul
+	faith = scythian_germanic
+	holding = city_holding
+}
+2709={
+	culture = scythian
+	faith = gaulish_pagan
+	holding = city_holding
+}
+2710={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2711={
+	holding = none
+}
+2712={
+	holding = none
+}
+2713={
+	holding = none
+}
+2714={
+	holding = none
+}
+2715={
+	holding = none
+}
+2717={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2719={
+	holding = none
+}
+2720={
+	holding = none
+}
+2721={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2722={
+	holding = none
+}
+2723={
+	holding = none
+}
+2725={
+	holding = none
+}
+2726={
+	holding = none
+}
+2746={
+	culture = ripurian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2747={
+	holding = none
+}
+2748={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2749={
+	holding = none
+}
+2750={
+	holding = none
+}
+2751={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2752={
+	holding = none
+}
+2753={
+	holding = city_holding
+}
+2755={
+	holding = city_holding
+}
+2756={
+	holding = city_holding
+}
+2757={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2758={
+	holding = castle_holding
+}
+2759={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2760={
+	holding = none
+}
+2761={
+	holding = none
+}
+2762={
+	holding = none
+}
+2763={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2764={
+	holding = none
+}
+2765={
+	holding = none
+}
+2766={
+	holding = none
+}
+2767={
+	holding = castle_holding
+}
+2768={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2769={
+	holding = none
+}
+2770={
+	holding = none
+}
+2771={
+	holding = none
+}
+2773={
+	culture = scythian
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2774={
+	holding = castle_holding
+}
+2878={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2879={
+	holding = none
+}
+2882={
+	holding = city_holding
+}
+2883={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2965={
+	holding = none
+}
+2966={
+	holding = city_holding
+}
+2967={
+	holding = none
+}
+2986={
+	holding = city_holding
+}
+2987={
+	culture = gaul
+	faith = druidism
+	holding = castle_holding
+}
+2988={
+	holding = city_holding
+}
+2989={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+2990={
+	culture = ripurian
+	faith = central_pagan
+	holding = castle_holding
+}
+2991={
+	holding = none
+}
+2993={
+	holding = none
+}
+2994={
+	holding = castle_holding
+}

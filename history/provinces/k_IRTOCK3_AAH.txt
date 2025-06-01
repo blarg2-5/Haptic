@@ -1,0 +1,138 @@
+2148={
+	holding = none
+}
+2149={
+	holding = none
+}
+2150={
+	culture = gallo_roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2151={
+	holding = city_holding
+}
+2225={
+	culture = scythian
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2249={
+	culture = gaul
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2250={
+	holding = none
+}
+2251={
+	holding = none
+}
+2252={
+	culture = gallo_roman
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2253={
+	holding = none
+}
+2254={
+	holding = none
+}
+2255={
+	holding = none
+}
+2256={
+	holding = none
+}
+2257={
+	culture = gaul
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2258={
+	holding = none
+}
+2259={
+	holding = none
+}
+2273={
+	holding = none
+}
+2274={
+	culture = gallo_roman
+	faith = nicene
+	holding = castle_holding
+}
+2275={
+	holding = none
+}
+2276={
+	holding = city_holding
+}
+2277={
+	holding = none
+}
+2278={
+	culture = scythian
+	faith = nicene
+	holding = castle_holding
+}
+2279={
+	holding = none
+}
+2280={
+	culture = gallo_roman
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2288={
+	holding = city_holding
+}
+2289={
+	culture = scythian
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2290={
+	holding = none
+}
+2292={
+	holding = none
+}
+2293={
+	holding = none
+}
+2294={
+	culture = scythian
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2295={
+	holding = none
+}
+2298={
+	holding = none
+}
+2299={
+	culture = scythian
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2300={
+	holding = none
+}
+2312={
+	holding = city_holding
+}
+2316={
+	holding = none
+}
+2318={
+	holding = none
+}
+2319={
+	culture = gallo_roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}

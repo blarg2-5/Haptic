@@ -1,0 +1,30 @@
+6248={
+	holding = church_holding
+}
+6249={
+	holding = none
+}
+6250={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6251={
+	holding = castle_holding
+}
+6252={
+	holding = city_holding
+}
+6253={
+	culture = adnanite
+	faith = nicene
+	holding = castle_holding
+}
+6254={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6255={
+	holding = none
+}

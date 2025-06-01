@@ -1,0 +1,58 @@
+k_IRTOCK3_AB9={
+	360.2.1 = { holder = imperator260644 }
+	361.2.17 = { government = city_state_government succession_laws = { city_succession_law } }
+}
+d_benevento={
+	361.11.17 = { liege = 0 }
+}
+c_lanciano={
+	345.8.6 = { liege = 0 holder = imperator257958 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_benevento={
+	360.2.1 = { liege = 0 holder = imperator260644 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_foggia={
+	357.4.3 = { liege = 0 holder = imperator260642 }
+	361.2.17 = { change_development_level = 24 }
+}
+d_apulia={
+	361.1.1 = { change_development_level = 8 }
+	361.11.17 = { liege = 0 }
+}
+c_apulia={
+	360.2.1 = { liege = 0 holder = imperator260644 }
+	361.2.17 = { change_development_level = 28 }
+}
+c_bari={
+	360.2.1 = { liege = 0 holder = imperator260644 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_lecce={
+	360.2.1 = { liege = 0 holder = imperator260644 }
+	361.2.17 = { change_development_level = 29 }
+}
+d_calabria={
+	361.11.17 = { liege = 0 }
+}
+c_salerno={
+	360.2.1 = { liege = 0 holder = imperator260644 }
+	361.2.17 = { change_development_level = 30 }
+}
+c_camarda={
+	360.2.1 = { liege = 0 holder = imperator260644 }
+	361.2.17 = { change_development_level = 30 }
+}
+c_reggio_calabria={
+	360.2.1 = { liege = 0 holder = imperator260644 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_cosenza={
+	357.4.3 = { liege = 0 holder = imperator260642 }
+	361.2.17 = { change_development_level = 10 }
+}
+c_rossano={
+	357.4.3 = { liege = 0 holder = imperator260642 }
+	361.2.17 = { change_development_level = 35 }
+}

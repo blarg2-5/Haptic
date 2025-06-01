@@ -1,0 +1,105 @@
+k_guinea={
+	361.11.17 = { liege = 0 }
+}
+d_sapi={
+	361.11.17 = { liege = 0 }
+}
+c_temne={
+	361.1.1 = { holder = mel_04 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_nalu={
+	361.1.1 = { holder = mel_05 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tamiso={
+	361.1.1 = { holder = mel_04 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sanda={
+	361.1.1 = { holder = mel_03 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_kono={
+	361.11.17 = { liege = 0 }
+}
+c_kono={
+	361.1.1 = { holder = mel_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sherbro={
+	361.1.1 = { holder = mel_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_gola={
+	361.1.1 = { holder = mel_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_bassa={
+	361.11.17 = { liege = 0 }
+}
+c_bassa={
+	361.1.1 = { holder = kru_08 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_nuon={
+	361.1.1 = { holder = kru_09 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_man={
+	361.1.1 = { holder = kru_09 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_toro={
+	361.11.17 = { liege = 0 }
+}
+c_toro={
+	361.1.1 = { holder = malinke_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kabarasana={
+	361.1.1 = { holder = malinke_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_konyan={
+	361.1.1 = { holder = malinke_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_mau={
+	361.1.1 = { holder = malinke_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_toma={
+	361.1.1 = { holder = mel_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_wenyon={
+	361.11.17 = { liege = 0 }
+}
+c_wenyon={
+	361.1.1 = { holder = kru_09 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_grebo={
+	361.1.1 = { holder = kru_08 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_kru={
+	361.11.17 = { liege = 0 }
+}
+c_kru={
+	361.1.1 = { holder = kru_06 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_dibri={
+	361.1.1 = { holder = kru_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_lobo={
+	361.1.1 = { holder = kru_06 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_boubo={
+	361.1.1 = { holder = kru_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

@@ -1,0 +1,33 @@
+k_zhetysu={
+	361.11.17 = { liege = 0 }
+}
+d_alakol={
+	361.11.17 = { liege = 0 holder = IRToCK3_c_lepsink_holder government = tribal_government }
+}
+c_chuguchak={
+	361.1.1 = { holder = wuhuan_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kokpekty={
+	361.1.1 = { holder = enqu_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_guzkol={
+	361.1.1 = { holder = enqu_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_lepsink={
+	361.11.17 = { holder = IRToCK3_c_lepsink_holder change_development_level = 0 }
+}
+d_tarbagatai={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_emil_holder liege = 0 }
+}
+c_emil={
+	361.11.17 = { holder = IRToCK3_c_emil_holder change_development_level = 0 }
+}
+c_jinsko={
+	361.11.17 = { holder = IRToCK3_c_emil_holder change_development_level = 0 }
+}
+c_karamay={
+	361.11.17 = { holder = IRToCK3_c_emil_holder change_development_level = 0 }
+}

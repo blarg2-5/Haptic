@@ -1,0 +1,30 @@
+k_moldavia={
+	361.11.17 = { liege = 0 }
+}
+d_moldova={
+	361.11.17 = { liege = 0 }
+}
+c_iasi={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator256528 change_development_level = 33 }
+}
+c_orhei={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 31 }
+}
+c_soroca={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator256528 change_development_level = 32 }
+}
+c_barlad={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 37 }
+}
+c_galati={
+	361.1.15 = { liege = 0 holder = imperator261525 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator242680 change_development_level = 43 }
+}
+c_stoenesti={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241650 change_development_level = 51 }
+}

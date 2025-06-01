@@ -1,0 +1,115 @@
+k_sapmi={
+	21.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_aarjetje={
+	361.11.17 = { liege = 0 }
+}
+c_sjeltie={
+	361.1.1 = { holder = finnmark_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ubmejeiednuo={
+	361.1.1 = { holder = sapmi_04 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_pite={
+	361.1.1 = { holder = sapmi_04 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_jahkamakke={
+	361.1.1 = { holder = sapmi_04 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_vuovdisamieana={
+	361.11.17 = { liege = 0 }
+}
+c_biton={
+	361.1.1 = { holder = sapmi_04 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_julevadno={
+	361.1.1 = { holder = sapmi_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kittila={
+	361.1.1 = { holder = sapmi_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_torne={
+	361.1.1 = { holder = sapmi_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_duortnoseatnu={
+	361.11.17 = { liege = 0 }
+}
+c_siggevara={
+	361.1.1 = { holder = sapmi_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_suondavara={
+	361.1.1 = { holder = sapmi_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_rounala={
+	361.1.1 = { holder = sapmi_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_aviovara={
+	361.1.1 = { holder = sapmi_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_karasjohka={
+	361.1.1 = { holder = sapmi_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_giemajohka={
+	361.11.17 = { liege = 0 }
+}
+c_peaccam={
+	361.1.1 = { holder = sapmi_10 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kitka={
+	361.1.1 = { holder = sapmi_10 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_koutajoki={
+	361.1.1 = { holder = sapmi_10 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_akkel={
+	361.1.1 = { holder = sapmi_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sombio={
+	361.1.1 = { holder = sapmi_10 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_inari={
+	361.1.1 = { holder = sapmi_13 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_skolt={
+	361.1.1 = { holder = sapmi_13 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_guoldat={
+	361.11.17 = { liege = 0 }
+}
+c_ter={
+	361.1.1 = { holder = sapmi_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_jovvkuj={
+	361.1.1 = { holder = sapmi_13 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_east_kiilt={
+	361.1.1 = { holder = sapmi_13 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kintus={
+	361.1.1 = { holder = sapmi_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

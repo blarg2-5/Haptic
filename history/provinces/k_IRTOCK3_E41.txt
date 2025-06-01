@@ -1,0 +1,318 @@
+883={
+	holding = none
+}
+884={
+	holding = castle_holding
+}
+885={
+	holding = none
+}
+904={
+	holding = none
+}
+905={
+	holding = none
+}
+1113={
+	holding = city_holding
+}
+1139={
+	holding = none
+}
+1163={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1166={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1167={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1168={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1169={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1171={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1173={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1215={
+	holding = none
+}
+1250={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1274={
+	culture = magadhi
+	faith = smartism
+	holding = castle_holding
+}
+1275={
+	holding = none
+}
+1278={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1279={
+	holding = city_holding
+}
+1281={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1282={
+	holding = city_holding
+}
+1283={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1284={
+	culture = tamil
+	faith = digambara
+	holding = castle_holding
+}
+1301={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1328={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1356={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+1358={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1365={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+	special_building_slot = iron_pillar_of_delhi_01
+}
+1367={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1368={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+1377={
+	holding = city_holding
+}
+1414={
+	holding = none
+}
+1421={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+1422={
+	culture = magadhi
+	faith = digambara
+	holding = castle_holding
+}
+3447={
+	holding = city_holding
+}
+3448={
+	holding = none
+}
+3449={
+	holding = city_holding
+}
+3450={
+	holding = none
+}
+3451={
+	holding = city_holding
+}
+3452={
+	holding = church_holding
+}
+3453={
+	holding = city_holding
+}
+3454={
+	holding = none
+}
+3467={
+	holding = city_holding
+}
+3468={
+	holding = none
+}
+3469={
+	holding = city_holding
+}
+3470={
+	holding = none
+}
+3471={
+	holding = none
+}
+3472={
+	holding = castle_holding
+}
+3473={
+	holding = none
+}
+3474={
+	holding = castle_holding
+}
+3475={
+	holding = city_holding
+}
+3953={
+	holding = none
+}
+3954={
+	holding = church_holding
+}
+3955={
+	holding = none
+}
+3956={
+	holding = none
+}
+3958={
+	holding = castle_holding
+}
+3959={
+	holding = none
+}
+3960={
+	holding = none
+}
+3961={
+	holding = church_holding
+}
+3962={
+	holding = none
+}
+3963={
+	holding = none
+}
+3964={
+	holding = none
+}
+3965={
+	holding = none
+}
+3966={
+	holding = castle_holding
+}
+3967={
+	holding = none
+}
+3972={
+	holding = none
+}
+7944={
+	holding = castle_holding
+}
+9044={
+	holding = none
+}
+9045={
+	holding = none
+}
+9046={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+9047={
+	holding = none
+}
+9048={
+	holding = none
+}
+9049={
+	holding = none
+}
+9050={
+	culture = magadhi
+	faith = shaivism
+	holding = castle_holding
+}
+9087={
+	holding = none
+}
+9088={
+	holding = none
+}
+9089={
+	holding = castle_holding
+}
+9090={
+	culture = magadhi
+	faith = shaivism
+	holding = castle_holding
+}
+9091={
+	culture = magadhi
+	faith = shaivism
+	holding = castle_holding
+}
+9092={
+	culture = tamil
+	faith = shaivism
+	holding = castle_holding
+}
+9093={
+	holding = none
+}
+9094={
+	holding = none
+}
+9095={
+	culture = nepali
+	faith = old_bon
+	holding = none
+}
+9096={
+	holding = none
+}
+9097={
+	holding = none
+}
+9098={
+	holding = none
+}

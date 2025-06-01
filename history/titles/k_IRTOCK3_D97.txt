@@ -1,0 +1,27 @@
+k_IRTOCK3_D97={
+	166.8.1 = { holder = imperator192888 government = feudal_government }
+	221.8.7 = { holder = imperator200006 government = feudal_government }
+	255.7.26 = { holder = imperator210992 government = feudal_government }
+	270.9.25 = { holder = imperator222199 government = feudal_government }
+	323.5.23 = { holder = imperator235412 government = feudal_government }
+	344.5.30 = { holder = imperator254893 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_sjaelland={
+	361.11.17 = { liege = 0 }
+}
+c_sjaelland={
+	344.5.30 = { liege = 0 holder = imperator254893 }
+	361.2.17 = { change_development_level = 4 }
+}
+b_hafn={
+	361.2.17 = { holder = imperator239737 }
+}
+c_fyn={
+	344.5.30 = { liege = 0 holder = imperator254893 }
+	361.2.17 = { liege = k_IRTOCK3_D97 holder = imperator241322 change_development_level = 18 }
+}
+c_lolland_falster={
+	344.5.30 = { liege = 0 holder = imperator254893 }
+	361.2.17 = { liege = k_IRTOCK3_D97 holder = imperator257395 change_development_level = 3 }
+}

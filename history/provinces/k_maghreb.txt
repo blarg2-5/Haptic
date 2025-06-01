@@ -1,0 +1,187 @@
+4677={
+	culture = maurian
+	faith = nicene
+	holding = castle_holding
+}
+4678={
+	culture = maurian
+	faith = nicene
+	holding = castle_holding
+}
+4679={
+	holding = none
+}
+4680={
+	holding = castle_holding
+}
+4681={
+	holding = none
+}
+4682={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+4683={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+4684={
+	holding = city_holding
+}
+4685={
+	holding = city_holding
+}
+4686={
+	holding = none
+}
+4687={
+	holding = none
+}
+4688={
+	holding = city_holding
+}
+4689={
+	holding = none
+}
+4690={
+	holding = castle_holding
+}
+4691={
+	holding = none
+}
+4692={
+	holding = none
+}
+4693={
+	holding = city_holding
+}
+4694={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+4695={
+	holding = city_holding
+}
+4696={
+	holding = none
+}
+4697={
+	holding = none
+}
+4698={
+	holding = none
+}
+4699={
+	holding = castle_holding
+}
+4700={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+4701={
+	holding = none
+}
+4702={
+	holding = none
+}
+4703={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+4704={
+	holding = none
+}
+4705={
+	holding = city_holding
+}
+4706={
+	culture = maurian
+	faith = nicene
+	holding = castle_holding
+}
+4707={
+	holding = castle_holding
+}
+4708={
+	holding = city_holding
+}
+4709={
+	holding = none
+}
+4710={
+	holding = none
+}
+4711={
+	holding = none
+}
+4712={
+	holding = city_holding
+}
+4713={
+	holding = city_holding
+}
+4714={
+	holding = city_holding
+}
+4715={
+	holding = none
+}
+4716={
+	culture = roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4717={
+	holding = none
+}
+4718={
+	culture = roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4719={
+	holding = none
+}
+4720={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+4721={
+	holding = city_holding
+}
+4722={
+	holding = none
+}
+4731={
+	holding = none
+}
+4743={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+4744={
+	holding = none
+}
+4745={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+4746={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+4747={
+	holding = city_holding
+}
+4748={
+	holding = castle_holding
+}

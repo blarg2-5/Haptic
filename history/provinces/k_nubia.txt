@@ -1,0 +1,33 @@
+6881={
+	culture = nuba
+	religion = dinka_pagan
+	holding = none
+}
+6882={
+	holding = none
+}
+6883={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = none
+}
+6884={
+	holding = none
+}
+6897={
+	holding = none
+}
+6898={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = none
+}
+6899={
+	holding = none
+}
+6900={
+	holding = none
+}
+6901={
+	holding = none
+}

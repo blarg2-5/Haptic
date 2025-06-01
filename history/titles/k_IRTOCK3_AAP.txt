@@ -1,0 +1,36 @@
+k_IRTOCK3_AAP={
+	341.8.15 = { holder = imperator260660 government = feudal_government liege = e_IRTOCK3_A39 }
+	346.8.15 = { holder = imperator260636 government = republic_government }
+	347.4.3 = { holder = imperator260647 government = republic_government }
+	352.4.3 = { holder = imperator260646 government = republic_government }
+	357.4.3 = { holder = imperator260642 government = republic_government }
+	361.2.17 = { government = feudal_government succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_sicily={
+	361.1.1 = { change_development_level = 6 }
+	361.11.17 = { liege = 0 }
+}
+c_palermo={
+	357.4.3 = { liege = 0 holder = imperator260642 }
+	361.2.17 = { change_development_level = 38 }
+}
+c_trapani={
+	357.4.3 = { liege = 0 holder = imperator260642 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_messina={
+	357.4.3 = { liege = 0 holder = imperator260642 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_siracusa={
+	357.4.3 = { liege = 0 holder = imperator260642 }
+	361.2.17 = { change_development_level = 24 }
+}
+c_agrigento={
+	357.4.3 = { liege = 0 holder = imperator260642 }
+	361.2.17 = { change_development_level = 26 }
+}
+c_malta={
+	354.5.7 = { liege = 0 holder = imperator258632 }
+	361.2.17 = { change_development_level = 36 }
+}

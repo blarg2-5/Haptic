@@ -1,0 +1,18 @@
+﻿l_english:
+ holy_site_Cremia_name: "Cremia"
+ holy_site_Cremia_effect_name: "From $holy_site_Cremia_name$"
+ 
+ holy_site_Rooma_name: "Rome"
+ holy_site_Rooma_effect_name: "From $holy_site_rooma_name$"
+ 
+ holy_site_Zemi_name: "Zemgale"
+ holy_site_Zemi_effect_name: "From $holy_site_Zemi_name$"
+ 
+ holy_site_Damietta_name: "Damietta"
+ holy_site_Damietta_effect_name: "From $holy_site_Damietta_name$"
+ 
+ holy_site_Jitikul_name: "Jitikul"
+ holy_site_Jitikul_effect_name: "From $holy_site_Jitikul_name$"
+ 
+ light_infantry_toughness: "Levy Toughness"
+ light_infantry_damage: "Levy Damage"

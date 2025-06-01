@@ -1,0 +1,43 @@
+k_IRTOCK3_A7Q={
+	272.12.1 = { holder = imperator235057 government = feudal_government }
+	274.9.24 = { holder = imperator235075 government = feudal_government }
+	318.4.26 = { holder = imperator247191 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_anatolia={
+	361.11.17 = { liege = 0 }
+}
+c_lycaonia={
+	318.4.26 = { liege = 0 holder = imperator247191 }
+	361.2.17 = { change_development_level = 31 }
+}
+c_philomelium={
+	361.1.6 = { liege = 0 holder = imperator256904 }
+	361.2.17 = { change_development_level = 33 }
+}
+c_isauria={
+	361.1.6 = { liege = 0 holder = imperator256904 }
+	361.2.17 = { change_development_level = 36 }
+}
+b_barata={
+	361.2.17 = { holder = imperator252397 }
+}
+c_pacatiana={
+	361.1.6 = { liege = 0 holder = imperator256904 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_pisidia={
+	361.1.7 = { liege = 0 holder = imperator256903 }
+	361.2.17 = { change_development_level = 31 }
+}
+b_salda={
+	361.2.17 = { holder = imperator250610 }
+}
+c_galatia_salutaris={
+	361.1.6 = { liege = 0 holder = imperator256904 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_selge={
+	361.1.7 = { liege = 0 holder = imperator256903 }
+	361.2.17 = { change_development_level = 34 }
+}

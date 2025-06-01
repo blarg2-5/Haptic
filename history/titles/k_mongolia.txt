@@ -1,0 +1,161 @@
+k_mongolia={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_otuken={
+	340.1.1 = { government = nomadic_government }
+	351.1.1 = { holder = yujiulu_061 }
+	361.1.1 = { change_development_level = 2 }
+}
+c_karakorum={
+	351.1.1 = { holder = yujiulu_061 government = nomadic_government liege = d_otuken }
+	361.11.17 = { change_development_level = 2 }
+}
+c_karabalgasun={
+	351.1.1 = { holder = yujiulu_061 government = nomadic_government liege = d_otuken }
+	361.1.1 = { change_development_level = 3 }
+}
+c_mumo={
+	351.1.1 = { holder = yujiulu_061 government = nomadic_government }
+	361.11.17 = { change_development_level = 2 }
+}
+d_ogrash={
+	351.1.1 = { holder = yujiulu_062 government = nomadic_government }
+}
+c_ulaanbaatar={
+	351.1.1 = { holder = yujiulu_062 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_khentii={
+	351.1.1 = { holder = yujiulu_062 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_naushki={
+	351.1.1 = { holder = yujiulu_062 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_selenga_valley={
+	361.11.17 = { liege = 0 }
+}
+c_selenga={
+	361.1.1 = { holder = xianbei_11 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_baibalik={
+	351.1.1 = { holder = yujiulu_061 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_khokhoo={
+	351.1.1 = { holder = yujiulu_061 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_karatsagaan={
+	351.1.1 = { holder = yujiulu_061 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tunka={
+	359.1.1 = { holder = tiele_08 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_ovorkhangai={
+	351.1.1 = { holder = yujiulu_06 government = nomadic_government }
+}
+c_tovkhon={
+	351.1.1 = { holder = yujiulu_06 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ongi={
+	351.1.1 = { holder = yujiulu_06 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ikh_bogd={
+	351.1.1 = { holder = yujiulu_06 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_bombogor={
+	351.1.1 = { holder = yujiulu_06 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_khasagt_khairkhan={
+	360.1.1 = { holder = bayirku_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_arkhangai={
+	359.1.1 = { holder = tiele_01 government = nomadic_government }
+}
+c_tarvagatai={
+	359.1.1 = { holder = tiele_01 government = nomadic_government liege = d_arkhangai }
+	361.11.17 = { change_development_level = 0 }
+}
+c_oigon={
+	359.1.1 = { holder = tiele_01 government = nomadic_government liege = d_arkhangai }
+	361.11.17 = { change_development_level = 0 }
+}
+c_uliastai={
+	359.1.1 = { holder = tiele_01 government = nomadic_government liege = d_arkhangai }
+	361.11.17 = { change_development_level = 0 }
+}
+d_khovsgol={
+	361.11.17 = { liege = 0 }
+}
+c_darkhad_valley={
+	359.1.1 = { holder = tiele_06 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tomorbulag={
+	359.1.1 = { holder = tiele_06 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ulantaiga={
+	359.1.1 = { holder = tiele_06 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_gobi_altai={
+	361.11.17 = { liege = 0 }
+}
+c_tseel={
+	359.1.1 = { holder = tiele_10 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sharga={
+	360.1.1 = { holder = bayirku_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_zarman={
+	359.1.1 = { holder = tiele_10 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_ubsunur_hollow={
+	361.11.17 = { liege = 0 }
+}
+c_uvs_nuur={
+	361.1.1 = { holder = yidie_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ulaangom={
+	360.1.1 = { holder = uyghur_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tesiin_gol={
+	361.1.1 = { holder = yidie_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_urgamal={
+	361.1.1 = { holder = yidie_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_khar_us={
+	360.1.1 = { holder = bayirku_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_khovd={
+	361.11.17 = { liege = 0 }
+}
+c_harhiraa={
+	360.1.1 = { holder = uyghur_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tsambagarau={
+	360.1.1 = { holder = uyghur_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}

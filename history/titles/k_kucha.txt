@@ -1,0 +1,38 @@
+k_kucha={
+	20.1.1 = { change_development_level = 4 }
+	91.1.1 = { government = trade_city_state_government }
+	300.1.1 = { change_development_level = 5 }
+	349.5.1 = { holder = kucha_008 }
+}
+d_kucha={
+	91.1.1 = { government = trade_city_state_government }
+	349.5.1 = { holder = kucha_008 liege = k_kucha }
+}
+c_kucha={
+	91.1.1 = { government = trade_city_state_government }
+	349.5.1 = { holder = kucha_008 liege = d_kucha }
+	361.2.17 = { change_development_level = 34 }
+}
+c_aksu={
+	344.1.25 = { liege = 0 holder = imperator261650 }
+	361.2.17 = { change_development_level = 28 }
+}
+c_luntai={
+	91.1.1 = { government = trade_city_state_government }
+	349.5.1 = { holder = kucha_016 liege = d_kucha }
+	361.11.17 = { change_development_level = 5 }
+}
+d_karashar={
+	280.1.1 = { government = trade_city_state_government }
+	326.7.11 = { holder = agni_004 }
+}
+c_karashar={
+	280.1.1 = { government = trade_city_state_government }
+	326.7.11 = { holder = agni_004 liege = d_karashar }
+	361.1.1 = { change_development_level = 8 }
+}
+c_toksun={
+	280.1.1 = { government = city_state_government }
+	326.7.11 = { holder = agni_004 liege = d_karashar }
+	361.11.17 = { change_development_level = 5 }
+}

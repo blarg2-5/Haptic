@@ -1,0 +1,46 @@
+k_bulgaria={
+	361.1.1 = { change_development_level = 4 }
+	361.1.10 = { government = administrative_government holder = imperator251876 liege = e_IRTOCK3_GTE succession_laws = { appointment_succession_law } }
+}
+d_dacia_mediterrania={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_velbazhd={
+	361.1.9 = { liege = 0 holder = imperator245439 }
+	361.2.17 = { change_development_level = 29 }
+}
+c_strumica={
+	361.1.9 = { liege = 0 holder = imperator245439 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_pirin={
+	361.1.9 = { liege = 0 holder = imperator245439 }
+	361.2.17 = { liege = k_bulgaria holder = imperator241650 change_development_level = 24 }
+}
+c_sredets={
+	361.1.10 = { liege = 0 holder = imperator251876 }
+	361.2.17 = { change_development_level = 34 }
+}
+d_vidin={
+	361.11.17 = { liege = 0 }
+}
+c_vratsa={
+	361.1.10 = { liege = 0 holder = imperator251876 }
+	361.2.17 = { change_development_level = 41 }
+}
+c_vidin={
+	361.1.10 = { liege = 0 holder = imperator251876 }
+	361.2.17 = { change_development_level = 36 }
+}
+d_dobrudja={
+	361.11.17 = { liege = 0 }
+}
+c_constanta={
+	361.1.10 = { liege = 0 holder = imperator251876 }
+	361.2.17 = { change_development_level = 37 }
+}
+c_mesembria={
+	361.1.6 = { liege = 0 holder = imperator247104 }
+	361.2.17 = { change_development_level = 48 }
+}

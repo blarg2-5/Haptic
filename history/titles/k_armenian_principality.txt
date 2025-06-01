@@ -1,0 +1,49 @@
+k_armenian_principality={
+	361.1.8 = { liege = e_IRTOCK3_ALB holder = imperator248547 government = administrative_government succession_laws = { appointment_succession_law } }
+}
+d_mesopotamia={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_mesopotamia={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_theodosiopolis={
+	361.1.8 = { liege = 0 holder = imperator248547 }
+	361.2.17 = { change_development_level = 43 }
+}
+d_vaspurakan={
+	361.11.17 = { liege = 0 }
+}
+c_vaspurakan={
+	361.1.8 = { liege = 0 holder = imperator248547 }
+	361.2.17 = { change_development_level = 41 }
+}
+c_bagrewand={
+	361.1.8 = { liege = 0 holder = imperator248547 }
+	361.2.17 = { change_development_level = 40 }
+}
+c_apahunik={
+	361.1.8 = { liege = 0 holder = imperator248547 }
+	361.2.17 = { change_development_level = 40 }
+}
+d_greater_armenia={
+	361.11.17 = { liege = 0 }
+}
+c_khachen={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { change_development_level = 41 }
+}
+c_hayk={
+	361.1.8 = { liege = 0 holder = imperator248547 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_suenik={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_dvin={
+	361.1.8 = { liege = 0 holder = imperator248547 }
+	361.2.17 = { change_development_level = 41 }
+}

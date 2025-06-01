@@ -1,0 +1,149 @@
+k_IRTOCK3_D38={
+	71.5.23 = { holder = imperator175094 government = feudal_government }
+	71.8.1 = { liege = e_IRTOCK3_A39 }
+	73.10.21 = { holder = imperator175070 government = republic_government }
+	78.10.21 = { holder = imperator175071 government = republic_government }
+	83.10.21 = { holder = imperator175101 government = republic_government }
+	88.10.21 = { holder = imperator175077 government = republic_government }
+	93.10.21 = { holder = imperator175079 government = republic_government }
+	98.10.21 = { holder = imperator175071 government = republic_government }
+	103.10.21 = { holder = imperator175101 government = republic_government }
+	108.10.21 = { holder = imperator175085 government = republic_government }
+	113.10.21 = { holder = imperator175079 government = theocracy_government }
+	118.10.21 = { holder = imperator175083 government = theocracy_government }
+	123.10.21 = { holder = imperator175091 government = theocracy_government }
+	128.10.21 = { holder = imperator182418 government = theocracy_government }
+	133.10.21 = { holder = imperator179494 government = theocracy_government }
+	138.10.21 = { holder = imperator175690 government = theocracy_government }
+	143.10.21 = { holder = imperator177921 government = theocracy_government }
+	148.10.21 = { holder = imperator182418 government = theocracy_government }
+	153.10.21 = { holder = imperator179494 government = theocracy_government }
+	174.8.5 = { holder = imperator188059 government = feudal_government }
+	223.4.20 = { holder = imperator190120 government = feudal_government }
+	227.3.29 = { holder = imperator191545 government = feudal_government }
+	234.11.26 = { holder = imperator210789 government = feudal_government }
+	237.12.11 = { holder = imperator215097 government = feudal_government }
+	299.6.28 = { holder = imperator225081 government = feudal_government }
+	330.3.22 = { holder = imperator241537 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_steyermark={
+	361.11.17 = { liege = 0 }
+}
+c_graz={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 11 }
+}
+c_pitten={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { liege = k_IRTOCK3_D38 holder = imperator241079 change_development_level = 11 }
+}
+c_liebnitz={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 10 }
+}
+c_murzzuschlag={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 6 }
+}
+d_krain={
+	361.11.17 = { liege = 0 }
+}
+c_kranj={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { liege = k_IRTOCK3_D38 holder = imperator242178 change_development_level = 5 }
+}
+c_ljubljana={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 14 }
+}
+d_visegrad={
+	361.11.17 = { liege = 0 }
+}
+c_visegrad={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 11 }
+}
+c_szekesfehervar={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_hewes={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 41 }
+}
+c_komarom={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { change_development_level = 34 }
+}
+d_somogy={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { liege = 0 }
+}
+c_somogy={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_kolon={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 9 }
+}
+c_tolna={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 12 }
+}
+c_baranya={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 16 }
+}
+d_gyor={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { liege = 0 }
+}
+c_gyor={
+	316.6.24 = { liege = 0 holder = imperator247068 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_sopron={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { liege = k_IRTOCK3_D38 holder = imperator241079 change_development_level = 15 }
+}
+c_vas={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { liege = k_IRTOCK3_D38 holder = imperator254108 change_development_level = 7 }
+}
+c_veszprem={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { liege = k_IRTOCK3_D38 holder = imperator241079 change_development_level = 11 }
+}
+d_syrmia={
+	361.1.1 = { change_development_level = 7 }
+	361.11.17 = { liege = 0 }
+}
+c_szerem={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_vukovar={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { liege = k_IRTOCK3_D38 holder = imperator254108 change_development_level = 23 }
+}
+d_slavonia={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_zagreb={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { liege = k_IRTOCK3_D38 holder = imperator254108 change_development_level = 18 }
+}
+b_cazma={
+	361.2.17 = { holder = imperator254108 }
+}
+c_zagorje={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { change_development_level = 19 }
+}
+c_pozega={
+	330.3.22 = { liege = 0 holder = imperator241537 }
+	361.2.17 = { liege = k_IRTOCK3_D38 holder = imperator242178 change_development_level = 20 }
+}

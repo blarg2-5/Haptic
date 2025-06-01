@@ -1,0 +1,58 @@
+514={
+	holding = none
+}
+4988={
+	holding = none
+}
+4990={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4991={
+	holding = city_holding
+}
+4992={
+	holding = none
+}
+4994={
+	holding = none
+}
+4995={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4996={
+	holding = none
+}
+4997={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4998={
+	holding = city_holding
+}
+4999={
+	holding = city_holding
+}
+5000={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5001={
+	holding = none
+}
+5002={
+	holding = none
+}
+5003={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5004={
+	holding = none
+}

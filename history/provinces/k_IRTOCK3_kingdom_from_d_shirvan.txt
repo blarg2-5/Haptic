@@ -1,0 +1,48 @@
+668={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+669={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5771={
+	holding = city_holding
+}
+5772={
+	holding = none
+}
+5773={
+	holding = none
+}
+5774={
+	holding = church_holding
+}
+5775={
+	holding = none
+}
+5776={
+	holding = city_holding
+}
+5788={
+	holding = city_holding
+}
+5789={
+	holding = city_holding
+}
+5790={
+	culture = caspian
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5791={
+	holding = none
+}
+5792={
+	holding = city_holding
+}
+5793={
+	holding = none
+}

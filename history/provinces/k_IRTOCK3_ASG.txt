@@ -1,0 +1,18 @@
+2000={
+	culture = briton
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2001={
+	holding = none
+}
+2002={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+8735={
+	culture = non_indo_european_iberian
+	faith = nicene
+	holding = castle_holding
+}

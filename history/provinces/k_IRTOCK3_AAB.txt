@@ -1,0 +1,196 @@
+914={
+	holding = none
+}
+915={
+	holding = none
+}
+916={
+	holding = none
+}
+917={
+	holding = none
+}
+918={
+	holding = none
+}
+919={
+	holding = city_holding
+}
+920={
+	holding = none
+}
+924={
+	holding = city_holding
+}
+1148={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1149={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+	special_building_slot = iron_pillar_of_dhar_01
+}
+1150={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1159={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1164={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1170={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+	terrain = jungle
+}
+1254={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+}
+1269={
+	culture = tamil
+	faith = scythian_asian
+	holding = castle_holding
+}
+1271={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1285={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1286={
+	holding = none
+}
+1288={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1289={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1298={
+	culture = rajput
+	faith = scythian_asian
+	holding = castle_holding
+}
+1299={
+	culture = rajput
+	faith = smartism
+	holding = castle_holding
+}
+3315={
+	holding = none
+}
+3316={
+	holding = none
+}
+3317={
+	holding = none
+}
+3318={
+	holding = castle_holding
+}
+3319={
+	holding = city_holding
+}
+3320={
+	holding = none
+}
+3321={
+	holding = none
+	terrain = jungle
+}
+3322={
+	holding = city_holding
+	terrain = jungle
+}
+3323={
+	holding = city_holding
+	terrain = jungle
+}
+3324={
+	holding = city_holding
+	terrain = jungle
+}
+3325={
+	holding = none
+}
+3326={
+	holding = church_holding
+}
+3327={
+	holding = city_holding
+}
+3328={
+	holding = church_holding
+}
+3329={
+	holding = city_holding
+}
+3330={
+	holding = city_holding
+}
+3331={
+	holding = city_holding
+}
+3332={
+	holding = none
+}
+3333={
+	holding = none
+}
+3334={
+	holding = city_holding
+}
+3335={
+	holding = none
+}
+3336={
+	holding = none
+}
+3337={
+	holding = none
+}
+7925={
+	holding = city_holding
+}
+7926={
+	holding = none
+}
+7927={
+	holding = none
+}
+7928={
+	holding = none
+}
+7929={
+	holding = city_holding
+}
+7930={
+	holding = none
+}
+7931={
+	holding = city_holding
+}
+7935={
+	holding = none
+}

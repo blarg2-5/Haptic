@@ -1,0 +1,47 @@
+k_serbia={
+	361.1.1 = { change_development_level = 3 }
+	361.1.11 = { government = administrative_government holder = imperator252025 liege = e_IRTOCK3_GTE succession_laws = { appointment_succession_law } }
+}
+d_macva={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { liege = 0 }
+}
+c_branicevo={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { change_development_level = 47 }
+}
+c_macva={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { change_development_level = 41 }
+}
+c_beograd={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { liege = k_bulgaria holder = imperator241650 change_development_level = 41 }
+}
+d_bulgaria={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_hvosno={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { change_development_level = 33 }
+}
+b_pec={
+	361.2.17 = { holder = imperator246693 }
+}
+c_skopje={
+	361.1.9 = { liege = 0 holder = imperator245439 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_sumadija={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { liege = k_bulgaria holder = imperator241650 change_development_level = 42 }
+}
+c_naissus={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { liege = k_bulgaria holder = imperator241650 change_development_level = 27 }
+}
+c_pomoravlje={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { liege = k_bulgaria holder = imperator241650 change_development_level = 35 }
+}

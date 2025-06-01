@@ -1,0 +1,17 @@
+k_wusun={
+	351.1.1 = { holder = wusun_001 government = nomadic_government }
+}
+d_ili-alatau={
+	351.1.1 = { holder = wusun_001 liege = "k_wusun" }
+	361.11.17 = { holder = IRToCK3_c_ghulja_holder government = tribal_government }
+}
+c_iliq={
+	351.1.1 = { holder = wusun_001 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ghulja={
+	361.11.17 = { holder = IRToCK3_c_ghulja_holder change_development_level = 0 }
+}
+c_kash={
+	361.11.17 = { holder = IRToCK3_c_ghulja_holder change_development_level = 0 }
+}

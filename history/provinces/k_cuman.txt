@@ -1,0 +1,199 @@
+895={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+	532.1.1 = { culture = bashkir religion = tengri_pagan }
+}
+1273={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+1435={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+	450.1.1 = { culture = tiele religion = tengri_pagan }
+}
+5890={
+	holding = none
+}
+5891={
+	holding = none
+}
+5892={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+	476.1.1 = { culture = bashkir religion = tengri_pagan }
+}
+5893={
+	holding = none
+}
+5894={
+	holding = none
+}
+5895={
+	holding = none
+}
+7018={
+	holding = none
+}
+7019={
+	holding = none
+}
+7020={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+	768.1.1 = { religion = tengri_pagan }
+}
+7021={
+	holding = none
+}
+7022={
+	holding = none
+}
+7023={
+	holding = none
+}
+7024={
+	holding = none
+}
+7025={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+	476.1.1 = { culture = bashkir religion = tengri_pagan }
+	632.1.1 = { religion = tengri_pagan }
+}
+7026={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+	450.1.1 = { culture = tiele religion = tengri_pagan }
+}
+7035={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+}
+7036={
+	holding = none
+}
+7037={
+	holding = none
+}
+7038={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+	450.1.1 = { culture = tiele religion = tengri_pagan }
+}
+7039={
+	holding = none
+}
+7040={
+	holding = none
+}
+7041={
+	holding = none
+}
+7058={
+	holding = none
+}
+7059={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+	450.1.1 = { culture = tiele religion = tengri_pagan }
+	1000.1.2 = { culture = cuman }
+}
+7060={
+	holding = none
+}
+7061={
+	holding = none
+}
+7062={
+	culture = khanty
+	religion = siberian_pagan
+	holding = tribal_holding
+}
+7063={
+	holding = none
+}
+7064={
+	holding = none
+}
+7253={
+	holding = none
+}
+7254={
+	holding = none
+}
+7255={
+	holding = none
+}
+7256={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7257={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7258={
+	holding = city_holding
+}
+7259={
+	holding = none
+}
+7260={
+	holding = city_holding
+}
+7261={
+	holding = none
+}
+7262={
+	holding = none
+}
+7263={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7264={
+	holding = city_holding
+}
+7265={
+	holding = none
+}
+7266={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7267={
+	holding = none
+}
+7268={
+	holding = none
+}
+7288={
+	holding = none
+}
+7356={
+	holding = none
+}
+7357={
+	holding = none
+}
+7358={
+	holding = none
+}
+7359={
+	holding = none
+}

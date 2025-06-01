@@ -1,0 +1,33 @@
+k_IRTOCK3_AAO={
+	341.8.15 = { holder = imperator260635 government = feudal_government liege = e_IRTOCK3_A39 }
+	346.8.15 = { holder = imperator260620 government = republic_government }
+	351.8.15 = { holder = imperator260611 government = republic_government }
+	356.8.15 = { holder = imperator260614 government = republic_government }
+	358.8.15 = { holder = imperator260613 government = republic_government }
+	360.8.15 = { holder = imperator260612 government = republic_government }
+	361.2.17 = { succession_laws = { city_succession_law } }
+}
+d_sardinia={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { liege = 0 }
+}
+c_cagliari={
+	360.8.15 = { liege = 0 holder = imperator260612 }
+	361.2.17 = { change_development_level = 32 }
+}
+c_arborea={
+	360.8.15 = { liege = 0 holder = imperator260612 }
+	361.2.17 = { change_development_level = 24 }
+}
+c_gallura={
+	360.8.15 = { liege = 0 holder = imperator260612 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_logudoro={
+	360.8.15 = { liege = 0 holder = imperator260612 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_tortoli={
+	360.8.15 = { liege = 0 holder = imperator260612 }
+	361.2.17 = { change_development_level = 17 }
+}

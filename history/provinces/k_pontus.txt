@@ -1,0 +1,28 @@
+5599={
+	holding = none
+}
+5601={
+	holding = castle_holding
+}
+5602={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+5603={
+	holding = none
+}
+5702={
+	holding = none
+}
+5703={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5704={
+	holding = none
+}
+5705={
+	holding = city_holding
+}

@@ -1,0 +1,82 @@
+6346={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6347={
+	holding = none
+}
+6348={
+	holding = none
+}
+6349={
+	holding = castle_holding
+}
+6350={
+	holding = city_holding
+}
+6351={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6352={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6353={
+	holding = none
+}
+6354={
+	holding = none
+}
+6355={
+	holding = none
+}
+6356={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6357={
+	holding = city_holding
+}
+6358={
+	holding = city_holding
+}
+6360={
+	holding = city_holding
+}
+6363={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+	100.1.1 = { special_building_slot = pyramids_of_meroe }
+}
+6364={
+	holding = castle_holding
+}
+6365={
+	holding = none
+}
+6366={
+	holding = none
+}
+6367={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6368={
+	holding = church_holding
+}
+6369={
+	holding = castle_holding
+}
+6370={
+	holding = castle_holding
+}
+6389={
+	holding = none
+}

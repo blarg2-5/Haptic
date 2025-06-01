@@ -1,0 +1,67 @@
+736={
+	culture = hellenistic
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+758={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+761={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+762={
+	holding = city_holding
+}
+4895={
+	holding = none
+}
+4896={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+4897={
+	holding = city_holding
+}
+5610={
+	holding = castle_holding
+}
+5611={
+	holding = none
+}
+5612={
+	holding = castle_holding
+}
+5624={
+	holding = none
+}
+5625={
+	holding = city_holding
+}
+5626={
+	holding = none
+}
+5627={
+	holding = none
+}
+5635={
+	holding = city_holding
+}
+5636={
+	holding = none
+}
+5903={
+	holding = none
+}
+5904={
+	holding = none
+}
+5905={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}

@@ -1,0 +1,165 @@
+4810={
+	holding = none
+}
+4811={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4812={
+	holding = city_holding
+}
+4813={
+	holding = none
+}
+4814={
+	holding = castle_holding
+}
+4815={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4816={
+	holding = city_holding
+}
+4817={
+	holding = city_holding
+}
+4836={
+	holding = city_holding
+}
+4837={
+	holding = castle_holding
+}
+4838={
+	holding = none
+}
+4839={
+	holding = none
+}
+4840={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4841={
+	holding = castle_holding
+}
+4842={
+	holding = city_holding
+}
+4843={
+	holding = none
+}
+4844={
+	holding = city_holding
+}
+4845={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4846={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4847={
+	holding = none
+}
+4848={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4849={
+	holding = none
+}
+4850={
+	holding = none
+}
+4851={
+	holding = none
+}
+4852={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4853={
+	holding = none
+}
+4854={
+	holding = city_holding
+}
+4855={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+4856={
+	holding = none
+}
+4857={
+	holding = none
+}
+4859={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+4860={
+	holding = none
+}
+4861={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4862={
+	holding = city_holding
+}
+4863={
+	holding = none
+}
+4865={
+	holding = none
+}
+4866={
+	holding = none
+}
+4867={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4868={
+	holding = castle_holding
+}
+4869={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4871={
+	holding = city_holding
+}
+4872={
+	holding = none
+}
+4879={
+	holding = none
+}
+4880={
+	holding = none
+}
+4881={
+	holding = none
+}
+4882={
+	holding = none
+}
+4883={
+	holding = city_holding
+}

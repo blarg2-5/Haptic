@@ -1,0 +1,36 @@
+4201={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+4224={
+	holding = none
+}
+4225={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+4226={
+	holding = none
+}
+4227={
+	holding = city_holding
+}
+4228={
+	holding = castle_holding
+}
+4231={
+	culture = parthian
+	faith = nicene
+	holding = castle_holding
+}
+4232={
+	holding = none
+}
+4233={
+	holding = none
+}
+4300={
+	holding = none
+}

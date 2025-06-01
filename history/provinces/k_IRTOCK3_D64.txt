@@ -1,0 +1,36 @@
+4773={
+	holding = none
+}
+4774={
+	culture = assyrian
+	faith = nicene
+	holding = city_holding
+}
+4775={
+	holding = none
+}
+4776={
+	holding = none
+}
+4777={
+	culture = assyrian
+	faith = nicene
+	holding = city_holding
+}
+4778={
+	holding = castle_holding
+}
+4779={
+	holding = castle_holding
+}
+4780={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+4808={
+	holding = none
+}
+4809={
+	holding = none
+}

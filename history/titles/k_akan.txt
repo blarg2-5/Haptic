@@ -1,0 +1,86 @@
+k_akan={
+	361.11.17 = { liege = 0 }
+}
+d_ashanti={
+	361.11.17 = { liege = 0 }
+}
+c_kumasi={
+	350.1.1 = { holder = kumasi_01 government = tribal_government }
+	361.1.1 = { change_development_level = 3 }
+}
+c_adanse={
+	350.1.1 = { holder = kumasi_01 government = tribal_government }
+	361.1.1 = { change_development_level = 1 }
+}
+c_kwahu-akyem={
+	350.1.1 = { holder = kwahu_01 government = tribal_government }
+	361.1.1 = { change_development_level = 0 }
+}
+c_fante={
+	350.1.1 = { holder = kwahu_01 government = tribal_government }
+	361.1.1 = { change_development_level = 0 }
+}
+c_wassa={
+	350.1.1 = { holder = wassa_01 government = tribal_government }
+	361.1.1 = { change_development_level = 0 }
+}
+d_adiukru={
+	361.11.17 = { liege = 0 }
+}
+c_attie={
+	350.1.1 = { holder = kru_01 government = tribal_government }
+	361.1.1 = { change_development_level = 0 }
+}
+c_dabou={
+	350.1.1 = { holder = kru_01 government = tribal_government }
+	361.1.1 = { change_development_level = 1 }
+}
+c_aowin={
+	350.1.1 = { holder = aowin_01 government = tribal_government }
+	361.1.1 = { change_development_level = 0 }
+}
+d_gyaman={
+	361.11.17 = { liege = 0 }
+}
+c_bonduku={
+	350.1.1 = { holder = bonduk_01 government = tribal_government }
+	361.1.1 = { change_development_level = 1 }
+}
+c_ndenye={
+	350.1.1 = { holder = ndenye_01 government = tribal_government }
+	361.1.1 = { change_development_level = 0 }
+}
+d_brong={
+	361.11.17 = { liege = 0 }
+}
+c_bono={
+	350.1.1 = { holder = akan_01 government = tribal_government }
+	361.1.1 = { change_development_level = 3 }
+}
+c_begho={
+	350.1.1 = { holder = bonoso_01 government = tribal_government }
+	361.1.1 = { change_development_level = 3 }
+}
+c_upper_bono={
+	350.1.1 = { holder = akan_01 government = tribal_government }
+	361.1.1 = { change_development_level = 2 }
+}
+c_bonoso={
+	350.1.1 = { holder = bonoso_01 government = tribal_government }
+	361.1.1 = { change_development_level = 3 }
+}
+d_eweland={
+	361.11.17 = { liege = 0 }
+}
+c_ewe={
+	350.1.1 = { holder = eweland_01 government = tribal_government }
+	361.1.1 = { change_development_level = 0 }
+}
+c_afram={
+	350.1.1 = { holder = afram_01 government = tribal_government }
+	361.1.1 = { change_development_level = 2 }
+}
+c_nanumba={
+	350.1.1 = { holder = eweland_01 government = tribal_government }
+	361.1.1 = { change_development_level = 1 }
+}

@@ -1,0 +1,72 @@
+k_IRTOCK3_E29={
+	171.5.1 = { holder = imperator195243 government = feudal_government }
+	214.12.6 = { holder = imperator195713 government = feudal_government }
+	217.4.24 = { holder = imperator195244 government = feudal_government }
+	231.3.7 = { holder = imperator203184 government = feudal_government }
+	263.4.25 = { holder = imperator220972 government = feudal_government }
+	316.2.25 = { holder = imperator236923 government = feudal_government }
+	352.6.14 = { holder = imperator253758 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_al-said={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { liege = 0 }
+}
+c_qus={
+	352.6.14 = { liege = 0 holder = imperator253758 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_bahnasa={
+	332.3.15 = { liege = 0 holder = imperator247777 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_ushmun={
+	359.5.26 = { liege = 0 holder = imperator250101 }
+	361.2.17 = { change_development_level = 44 }
+}
+c_asyut={
+	359.5.26 = { liege = 0 holder = imperator250101 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_aswan={
+	333.10.30 = { liege = 0 holder = imperator252324 }
+	361.2.17 = { change_development_level = 39 }
+}
+b_aswan-west={
+	361.2.17 = { holder = imperator246020 }
+}
+d_naqis={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_naqis_holder liege = 0 }
+}
+c_aydhab={
+	352.6.14 = { liege = 0 holder = imperator253758 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_allaqi={
+	361.1.9 = { liege = 0 holder = imperator260886 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_naqis={
+	360.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_naqis_holder }
+}
+c_wadi_amur={
+	361.2.17 = { liege = 0 change_development_level = 10 }
+	361.11.17 = { holder = IRToCK3_c_naqis_holder }
+}
+d_bazin={
+	361.11.17 = { liege = 0 }
+}
+c_bazin={
+	352.6.14 = { liege = 0 holder = imperator253758 }
+	361.2.17 = { change_development_level = 31 }
+}
+c_suakin={
+	352.6.14 = { liege = 0 holder = imperator253758 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_badi={
+	341.10.9 = { liege = 0 holder = imperator258556 }
+	361.2.17 = { change_development_level = 15 }
+}

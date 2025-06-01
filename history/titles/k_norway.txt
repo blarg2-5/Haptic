@@ -1,0 +1,78 @@
+k_norway={
+	20.1.1 = { change_development_level = 2 }
+	361.11.17 = { liege = 0 }
+}
+d_trandalog={
+	361.11.17 = { liege = 0 }
+}
+c_trandheim={
+	21.1.1 = { change_development_level = 2 }
+	347.1.1 = { holder = hoengs_01 government = tribal_government }
+}
+c_norwegian_more={
+	21.1.1 = { change_development_level = 2 }
+	361.1.1 = { holder = jutland_08 government = tribal_government }
+}
+c_firdafylki={
+	21.1.1 = { change_development_level = 2 }
+	361.1.1 = { holder = jutland_02 government = tribal_government }
+}
+d_dalir={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_hedmork_holder liege = 0 }
+}
+c_hedmork={
+	359.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_hedmork_holder }
+}
+c_gudbrandsdalir={
+	361.1.1 = { holder = jutland_11 government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_hedmork_holder }
+}
+c_eystridalir={
+	361.1.1 = { holder = jutland_11 government = tribal_government }
+	361.2.17 = { change_development_level = 0 }
+}
+c_gauldala={
+	361.1.1 = { holder = jutland_11 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}
+d_halogaland={
+	160.1.1 = { government = tribal_government }
+	342.1.1 = { holder = halogaland_10 }
+}
+c_vastvag={
+	160.1.1 = { government = tribal_government }
+	342.1.1 = { holder = halogaland_10 }
+	361.11.17 = { change_development_level = 2 }
+}
+c_bothin={
+	160.1.1 = { government = tribal_government }
+	342.1.1 = { holder = halogaland_10 }
+	361.11.17 = { change_development_level = 2 }
+}
+c_namdalfylki={
+	347.1.1 = { holder = hoengs_01 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}
+d_jamtland={
+	361.1.1 = { holder = finnmark_01 government = tribal_government }
+}
+c_jamtfir={
+	361.1.1 = { holder = finnmark_01 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}
+c_morarna={
+	361.1.1 = { holder = finnmark_01 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}
+c_helgum={
+	361.1.1 = { holder = finnmark_01 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}
+c_harjadalen={
+	280.1.1 = { government = tribal_government }
+	361.1.1 = { holder = finnmark_01 }
+	361.11.17 = { change_development_level = 2 }
+}

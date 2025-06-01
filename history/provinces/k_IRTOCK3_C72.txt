@@ -1,0 +1,397 @@
+59={
+	culture = vandal
+	faith = finnish_pagan
+	holding = castle_holding
+}
+60={
+	culture = norse
+	faith = saxon_pagan
+	holding = castle_holding
+}
+61={
+	holding = none
+}
+62={
+	culture = roman
+	faith = saxon_pagan
+	holding = castle_holding
+}
+83={
+	holding = none
+}
+84={
+	holding = none
+}
+220={
+	holding = none
+}
+227={
+	holding = castle_holding
+}
+434={
+	holding = city_holding
+}
+2103={
+	holding = none
+}
+2112={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = castle_holding
+	361.1.1 = { culture = gallo_roman religion = celto_hellenic_syncretism }
+}
+2113={
+	holding = none
+}
+2114={
+	holding = none
+}
+2115={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2123={
+	holding = none
+}
+2124={
+	holding = none
+}
+2125={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2126={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2128={
+	holding = none
+}
+2129={
+	holding = none
+}
+2130={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2131={
+	holding = castle_holding
+}
+2132={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2133={
+	holding = city_holding
+}
+2134={
+	holding = city_holding
+}
+2135={
+	holding = none
+}
+2136={
+	holding = none
+}
+2137={
+	holding = none
+}
+2167={
+	culture = gaul
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2168={
+	holding = none
+}
+2169={
+	holding = none
+}
+2170={
+	culture = gallo_roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2171={
+	holding = none
+}
+2172={
+	holding = none
+}
+2173={
+	holding = none
+}
+2174={
+	culture = gallo_roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2175={
+	holding = none
+}
+2176={
+	holding = none
+}
+2177={
+	holding = none
+}
+2178={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2179={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2180={
+	holding = none
+}
+2182={
+	holding = none
+}
+2325={
+	culture = gallo_roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2326={
+	holding = none
+}
+2327={
+	holding = city_holding
+}
+2328={
+	holding = city_holding
+}
+2329={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2330={
+	holding = church_holding
+}
+2401={
+	holding = none
+}
+2402={
+	holding = castle_holding
+}
+2403={
+	holding = none
+}
+2404={
+	holding = none
+}
+2405={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2406={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2407={
+	holding = none
+}
+2408={
+	holding = none
+}
+2409={
+	holding = none
+}
+2410={
+	holding = none
+}
+2411={
+	holding = none
+}
+2412={
+	holding = none
+}
+2413={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2414={
+	culture = belgae
+	faith = druidism
+	holding = castle_holding
+}
+2415={
+	holding = church_holding
+}
+2416={
+	holding = none
+}
+2417={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2418={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2419={
+	holding = city_holding
+}
+2420={
+	holding = none
+	1258.1.1 = { holding = none }
+}
+2421={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2422={
+	holding = none
+}
+2423={
+	holding = none
+}
+2424={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2425={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2426={
+	holding = none
+}
+2427={
+	holding = none
+}
+2428={
+	holding = none
+}
+2429={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2431={
+	holding = none
+}
+2432={
+	holding = none
+}
+2434={
+	holding = none
+}
+2435={
+	holding = none
+}
+2437={
+	holding = none
+}
+2450={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2451={
+	holding = none
+}
+2452={
+	holding = none
+}
+2453={
+	holding = none
+}
+2454={
+	holding = none
+}
+2797={
+	culture = roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2798={
+	holding = none
+}
+2799={
+	holding = city_holding
+}
+2800={
+	holding = none
+}
+2801={
+	holding = church_holding
+}
+2802={
+	culture = norse
+	faith = saxon_pagan
+	holding = castle_holding
+}
+2804={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2805={
+	holding = none
+}
+2893={
+	culture = gallo_roman
+	faith = finnish_pagan
+	holding = castle_holding
+}
+2894={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2895={
+	holding = none
+}
+2899={
+	holding = none
+}
+2900={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2901={
+	culture = ripurian
+	faith = druidism
+	holding = castle_holding
+}
+2902={
+	holding = none
+}
+2903={
+	holding = none
+}
+2904={
+	holding = none
+}
+2905={
+	holding = none
+}
+2907={
+	holding = none
+}
+2914={
+	holding = none
+}
+2937={
+	holding = none
+}

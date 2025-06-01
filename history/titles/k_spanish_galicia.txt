@@ -1,0 +1,111 @@
+k_spanish_galicia={
+	361.1.14 = { government = feudal_government holder = imperator253368 liege = e_IRTOCK3_D79 succession_laws = { high_partition_succession_law } }
+}
+d_galicia={
+	361.11.17 = { liege = 0 }
+}
+c_coruna={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_santiago={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_tui={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 10 }
+}
+c_astorga={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 17 }
+}
+c_monterrei={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 13 }
+}
+d_castilla={
+	361.11.17 = { liege = 0 }
+}
+c_burgos={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 17 }
+}
+c_valladolid={
+	346.11.12 = { liege = 0 holder = imperator250475 }
+	361.2.17 = { change_development_level = 21 }
+}
+b_arandadeduero={
+	361.2.17 = { holder = imperator240419 }
+}
+c_soria={
+	361.1.16 = { liege = 0 holder = imperator265819 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_cuellar={
+	358.12.27 = { liege = 0 holder = imperator263416 }
+	361.2.17 = { change_development_level = 17 }
+}
+c_olmedo={
+	346.11.12 = { liege = 0 holder = imperator250475 }
+	361.2.17 = { liege = k_IRTOCK3_TTH holder = imperator246889 change_development_level = 10 }
+}
+d_cantabria={
+	361.11.17 = { liege = 0 }
+}
+c_asturias_de_santillana={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_amaya={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 16 }
+}
+d_leon={
+	361.11.17 = { liege = 0 }
+}
+c_leon={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 17 }
+}
+c_benavente={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_zamora={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_salamanca={
+	361.1.10 = { liege = 0 holder = imperator249914 }
+	361.2.17 = { change_development_level = 13 }
+}
+b_salamanca={
+	361.2.17 = { holder = imperator264540 }
+}
+c_avila={
+	361.1.14 = { liege = 0 holder = imperator251002 }
+	361.2.17 = { liege = k_IRTOCK3_TTH holder = imperator258213 change_development_level = 6 }
+}
+d_asturias={
+	361.11.17 = { liege = 0 }
+}
+c_asturias_de_oviedo={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_pravia={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 15 }
+}
+d_porto={
+	361.11.17 = { liege = 0 }
+}
+c_porto={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 8 }
+}
+c_braganza={
+	361.1.14 = { liege = 0 holder = imperator253368 }
+	361.2.17 = { change_development_level = 5 }
+}

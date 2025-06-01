@@ -1,0 +1,171 @@
+459={
+	holding = city_holding
+}
+463={
+	holding = none
+}
+464={
+	culture = illyrian
+	faith = nicene
+	holding = castle_holding
+}
+504={
+	holding = city_holding
+}
+2518={
+	culture = illyrian
+	faith = nicene
+	holding = castle_holding
+}
+2519={
+	holding = none
+}
+2520={
+	holding = none
+}
+2521={
+	culture = illyrian
+	faith = nicene
+	holding = castle_holding
+}
+2522={
+	holding = none
+}
+2523={
+	holding = none
+}
+3504={
+	holding = none
+}
+3505={
+	holding = city_holding
+}
+3506={
+	holding = none
+}
+3507={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+3508={
+	holding = city_holding
+}
+3509={
+	holding = castle_holding
+}
+3510={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3511={
+	holding = none
+}
+3512={
+	holding = none
+}
+3513={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3514={
+	holding = city_holding
+}
+3516={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+3517={
+	holding = none
+}
+3518={
+	holding = none
+}
+3519={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+3521={
+	holding = none
+}
+3522={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+3523={
+	holding = none
+}
+3524={
+	holding = castle_holding
+}
+3525={
+	holding = city_holding
+}
+3526={
+	holding = castle_holding
+}
+3527={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+3534={
+	holding = city_holding
+}
+3535={
+	holding = none
+}
+3536={
+	holding = none
+}
+3537={
+	holding = castle_holding
+}
+3538={
+	holding = none
+}
+3539={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+3540={
+	holding = city_holding
+}
+3541={
+	holding = none
+}
+3542={
+	holding = none
+}
+3543={
+	culture = illyrian
+	faith = nicene
+	holding = castle_holding
+}
+3544={
+	holding = none
+}
+3564={
+	holding = city_holding
+}
+3565={
+	holding = city_holding
+}
+3566={
+	holding = city_holding
+	50.1.1 = { special_building_slot = srebrenica_mines_01 }
+}
+3567={
+	culture = illyrian
+	faith = nicene
+	holding = castle_holding
+}
+3568={
+	holding = none
+}

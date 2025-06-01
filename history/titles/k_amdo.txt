@@ -1,0 +1,104 @@
+k_amdo={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+d_nagormo={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_mangnai_holder liege = 0 }
+}
+c_nagormo={
+	342.1.1 = { holder = qiang_02 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_hohaseco={
+	358.1.1 = { holder = qiang_04 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_lenghu={
+	342.1.1 = { holder = qiang_14 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_mangnai={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_mangnai_holder }
+}
+c_kumkol={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_mangnai_holder }
+}
+d_amdo={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_amdo_holder liege = 0 }
+}
+c_amdo={
+	330.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_amdo_holder }
+}
+c_nyainrong={
+	330.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_amdo_holder }
+}
+c_yenshipin={
+	330.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_amdo_holder }
+}
+c_dangla={
+	330.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_amdo_holder }
+}
+c_aqenganggyai={
+	200.1.1 = { government = tribal_government }
+	358.1.1 = { holder = qiang_04 }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_amdo_holder }
+}
+c_chumarho={
+	200.1.1 = { government = tribal_government }
+	358.1.1 = { holder = qiang_04 }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_amdo_holder liege = "d_amdo" }
+}
+d_zadoi={
+	200.1.1 = { government = tribal_government }
+	361.1.1 = { holder = qiang_07 }
+	361.11.17 = { holder = IRToCK3_c_zadoi_holder government = tribal_government }
+}
+c_zadoi={
+	200.1.1 = { government = tribal_government }
+	359.1.1 = { holder = qiang_07 }
+	361.1.1 = { liege = "d_zadoi" }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_zadoi_holder }
+}
+c_trandam={
+	200.1.1 = { government = tribal_government }
+	359.1.1 = { holder = qiang_07 }
+	361.1.1 = { liege = "d_zadoi" }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_zadoi_holder }
+}
+c_zhidoi={
+	200.1.1 = { government = tribal_government }
+	359.1.1 = { holder = qiang_07 }
+	361.1.1 = { liege = "d_zadoi" }
+	361.2.17 = { change_development_level = 0 }
+}
+d_qumarleb={
+	361.1.1 = { holder = qiang_08 government = tribal_government }
+}
+c_qumarleb={
+	359.1.1 = { holder = qiang_08 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_chindu={
+	359.1.1 = { holder = qiang_08 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_ngoring={
+	359.1.1 = { holder = qiang_08 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}

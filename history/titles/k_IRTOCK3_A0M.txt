@@ -1,0 +1,61 @@
+k_IRTOCK3_A0M={
+	175.2.19 = { holder = imperator180749 government = feudal_government }
+	182.1.20 = { holder = imperator184720 government = feudal_government }
+	197.9.11 = { holder = imperator198182 government = feudal_government }
+	219.9.3 = { holder = imperator197574 government = feudal_government }
+	220.3.12 = { holder = imperator192445 government = feudal_government }
+	237.2.2 = { holder = imperator207257 government = feudal_government }
+	247.1.23 = { holder = imperator217435 government = feudal_government }
+	275.12.2 = { holder = imperator222725 government = feudal_government }
+	323.10.22 = { holder = imperator242575 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_maru={
+	361.1.1 = { change_development_level = 3 succession_laws = { gana_sangha_elective_succession_law } }
+	361.11.17 = { liege = 0 }
+}
+c_mandavyapura={
+	323.10.22 = { liege = 0 holder = imperator242575 }
+	361.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { change_development_level = 24 }
+}
+c_medantaka={
+	336.5.15 = { liege = 0 holder = imperator249565 }
+	361.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { liege = k_IRTOCK3_D17 holder = imperator240380 change_development_level = 16 }
+}
+c_godwad={
+	361.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.1.12 = { liege = 0 holder = imperator263514 }
+	361.2.17 = { change_development_level = 42 }
+}
+b_achalgarh={
+	361.2.17 = { holder = imperator255089 }
+}
+c_naddula={
+	323.10.22 = { liege = 0 holder = imperator242575 }
+	361.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { liege = k_IRTOCK3_A0M holder = imperator243562 change_development_level = 36 }
+}
+b_ranakpur={
+	361.2.17 = { holder = imperator243562 }
+}
+d_medapata={
+	358.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.11.17 = { liege = 0 }
+}
+c_medapata={
+	323.10.22 = { liege = 0 holder = imperator242575 }
+	358.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { change_development_level = 27 }
+}
+c_chitrakut={
+	336.5.15 = { liege = 0 holder = imperator249565 }
+	358.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { liege = k_IRTOCK3_D17 holder = imperator248795 change_development_level = 30 }
+}
+c_kota={
+	336.5.15 = { liege = 0 holder = imperator249565 }
+	358.1.1 = { succession_laws = { gana_sangha_elective_succession_law } }
+	361.2.17 = { liege = k_IRTOCK3_D17 holder = imperator240204 change_development_level = 28 }
+}

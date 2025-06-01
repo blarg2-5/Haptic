@@ -1,0 +1,50 @@
+Cremia = {
+	county = c_chersonesus
+	# barony = b_moray # No such barony
+	
+	character_modifier = {
+		name = holy_site_Cremia_effect_name
+		development_growth_factor = 0.75
+		domain_limit = 3
+	}
+}
+Rooma = {
+	county = c_roma
+	# barony = b_moray # No such barony
+	
+	character_modifier = {
+		name = holy_site_Rome_effect_name
+		levy_size = 2
+		skirmishers_pursuit_mult = 1
+	}
+}
+Zemi = {
+	county = c_zemigalians
+	
+	character_modifier = {
+		name = holy_site_Zemi_effect_name
+		domain_tax_mult = 0.25
+	}
+}
+Damietta = {
+	county = c_damietta
+	
+	character_modifier = {
+		name = holy_site_Damietta_effect_name
+		build_gold_cost = -0.15
+		same_faith_opinion = 15
+	}
+}
+Jitikul = {
+	county = c_jitikul
+	
+	character_modifier = {
+		name = holy_site_Jitikul_effect_name
+		archer_cavalry_toughness_mult = 0.5
+		archer_cavalry_damage_mult = 0.5
+		light_cavalry_toughness_mult = 0.5
+		light_cavalry_damage_mult = 0.5
+		heavy_cavalry_damage_mult = 0.5
+		heavy_cavalry_toughness_mult = 0.5
+	}
+}

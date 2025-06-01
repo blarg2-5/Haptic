@@ -1,0 +1,75 @@
+8316={
+	holding = none
+}
+8320={
+	holding = none
+}
+8321={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8322={
+	holding = none
+}
+8323={
+	holding = none
+}
+8327={
+	holding = none
+}
+8347={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8348={
+	holding = none
+}
+8349={
+	holding = none
+}
+8350={
+	holding = none
+}
+8351={
+	holding = none
+}
+8352={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8353={
+	holding = none
+}
+8366={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8367={
+	holding = none
+}
+8372={
+	holding = none
+}
+8378={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8386={
+	holding = none
+}
+8395={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8396={
+	holding = none
+}
+8397={
+	holding = none
+}

@@ -1,0 +1,49 @@
+k_IRTOCK3_D48={
+	91.1.1 = { holder = imperator178438 government = feudal_government }
+	138.7.3 = { holder = imperator178690 government = feudal_government }
+	168.2.23 = { holder = imperator186121 government = feudal_government }
+	210.10.29 = { holder = imperator210070 government = feudal_government }
+	282.11.11 = { holder = imperator230574 government = feudal_government }
+	337.4.25 = { holder = imperator249439 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_lower_silesia={
+	361.11.17 = { liege = 0 }
+}
+c_breslau={
+	337.4.25 = { liege = 0 holder = imperator249439 }
+	361.2.17 = { liege = k_IRTOCK3_D48 holder = imperator245191 change_development_level = 38 }
+}
+b_bardo={
+	361.2.17 = { holder = imperator245191 }
+}
+c_schweibus={
+	361.1.9 = { liege = 0 holder = imperator250797 }
+	361.2.17 = { change_development_level = 12 }
+}
+c_grunberg={
+	326.4.10 = { liege = 0 holder = imperator248705 }
+	361.2.17 = { liege = k_IRTOCK3_D16 holder = imperator247009 change_development_level = 26 }
+}
+b_gubin={
+	361.2.17 = { holder = imperator247009 }
+}
+c_sprottau={
+	337.4.25 = { liege = 0 holder = imperator249439 }
+	361.2.17 = { liege = k_IRTOCK3_D48 holder = imperator246893 change_development_level = 25 }
+}
+c_przemkow={
+	337.4.25 = { liege = 0 holder = imperator249439 }
+	361.2.17 = { change_development_level = 19 }
+}
+c_legnica={
+	337.4.25 = { liege = 0 holder = imperator249439 }
+	361.2.17 = { liege = k_IRTOCK3_D48 holder = imperator245191 change_development_level = 13 }
+}
+b_glogow={
+	361.2.17 = { holder = imperator240921 }
+}
+c_miliez={
+	361.1.9 = { liege = 0 holder = imperator250797 }
+	361.2.17 = { change_development_level = 5 }
+}

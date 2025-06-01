@@ -1,0 +1,68 @@
+k_IRTOCK3_ALB_colchis_region={
+	361.1.16 = { liege = e_IRTOCK3_ALB holder = imperator244356 government = administrative_government succession_laws = { appointment_succession_law } }
+}
+d_abkhazia={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_svaneti_holder liege = 0 }
+}
+c_acampse={
+	346.6.5 = { liege = 0 holder = imperator239785 }
+	361.2.17 = { change_development_level = 40 }
+}
+c_guria={
+	361.1.16 = { liege = 0 holder = imperator244356 }
+	361.2.17 = { change_development_level = 43 }
+}
+c_abkhazia={
+	361.1.16 = { liege = 0 holder = imperator244356 }
+	361.2.17 = { change_development_level = 47 }
+}
+c_odishi={
+	361.1.16 = { liege = 0 holder = imperator244356 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_svaneti={
+	361.2.17 = { liege = 0 change_development_level = 11 }
+	361.11.17 = { holder = IRToCK3_c_svaneti_holder }
+}
+d_georgia={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_lori_holder liege = 0 }
+}
+c_kartli={
+	361.1.16 = { liege = 0 holder = imperator244356 }
+	361.2.17 = { change_development_level = 38 }
+}
+b_tskhinvali={
+	361.2.17 = { holder = imperator244033 }
+}
+c_klarjeti={
+	361.1.16 = { liege = 0 holder = imperator244356 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_tbilisi={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { change_development_level = 37 }
+}
+c_lori={
+	361.2.17 = { liege = 0 change_development_level = 28 }
+	361.11.17 = { holder = IRToCK3_c_lori_holder liege = d_georgia }
+}
+c_kakheti={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { change_development_level = 40 }
+}
+d_western_armenia={
+	361.11.17 = { liege = 0 }
+}
+c_tao={
+	361.1.16 = { liege = 0 holder = imperator244356 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_vanand={
+	361.1.16 = { liege = 0 holder = imperator244356 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_turuberan={
+	361.1.8 = { liege = 0 holder = imperator248547 }
+	361.2.17 = { change_development_level = 43 }
+}

@@ -1,0 +1,73 @@
+k_mali={
+	361.11.17 = { liege = 0 }
+}
+d_manding={
+	361.11.17 = { liege = 0 }
+}
+c_niani={
+	361.1.1 = { holder = malinke_10 government = tribal_government change_development_level = 2 }
+}
+c_dakajalan={
+	361.1.1 = { holder = malinke_10 government = tribal_government change_development_level = 2 }
+}
+c_kankan={
+	361.1.1 = { holder = malinke_10 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sibi_mali={
+	361.1.1 = { holder = malinke_13 government = tribal_government change_development_level = 2 }
+}
+c_tabon={
+	361.1.1 = { holder = malinke_13 government = tribal_government change_development_level = 2 }
+}
+c_bure={
+	361.1.1 = { holder = malinke_13 government = tribal_government change_development_level = 2 }
+}
+d_bambuk={
+	361.11.17 = { liege = 0 }
+}
+c_bambuk={
+	361.1.1 = { holder = malinke_16 government = tribal_government change_development_level = 2 }
+}
+c_gangaran={
+	361.1.1 = { holder = malinke_16 government = tribal_government change_development_level = 2 }
+}
+c_konko={
+	361.1.1 = { holder = malinke_19 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_bundu={
+	361.1.1 = { holder = malinke_19 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_futa_jalon={
+	361.11.17 = { liege = 0 }
+}
+c_futa_jalon={
+	361.1.1 = { holder = malinke_22 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_timbi={
+	361.1.1 = { holder = mel_14 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kokoli={
+	361.1.1 = { holder = mel_14 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_loma={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { liege = 0 }
+}
+c_kuranko={
+	361.1.1 = { holder = mel_17 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}
+c_kisi={
+	361.1.1 = { holder = mel_17 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}
+c_solimana={
+	361.1.1 = { holder = malinke_22 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}

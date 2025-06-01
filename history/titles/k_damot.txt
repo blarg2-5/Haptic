@@ -1,0 +1,62 @@
+k_damot={
+	361.11.17 = { liege = 0 }
+}
+d_damot={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_damot_holder liege = 0 }
+}
+c_damot={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_damot_holder }
+}
+c_berta={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_damot_holder }
+}
+c_wellega={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_damot_holder }
+}
+c_innarya={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_damot_holder }
+}
+d_kaffa={
+	361.11.17 = { liege = 0 holder = IRToCK3_c_kaffa_holder government = tribal_government }
+}
+c_kaffa={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_kaffa_holder }
+}
+c_welamo={
+	361.2.17 = { liege = 0 change_development_level = 1 }
+	361.11.17 = { holder = IRToCK3_c_kaffa_holder }
+}
+c_gamo={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_kaffa_holder }
+}
+d_sharka={
+	361.11.17 = { liege = 0 holder = IRToCK3_c_waj_holder government = tribal_government }
+}
+c_waj={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_waj_holder }
+}
+c_sharka={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_waj_holder }
+}
+c_burji={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_waj_holder }
+}
+c_dara={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_waj_holder }
+}
+c_hadya={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_waj_holder }
+}

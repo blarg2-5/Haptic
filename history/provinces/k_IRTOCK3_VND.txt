@@ -1,0 +1,220 @@
+104={
+	culture = scythian
+	faith = scythian
+	holding = tribal_holding
+}
+105={
+	holding = none
+}
+106={
+	holding = none
+}
+107={
+	holding = none
+}
+110={
+	culture = dnieper
+	faith = baltic_pagan
+	holding = tribal_holding
+}
+111={
+	holding = none
+}
+112={
+	holding = none
+}
+113={
+	holding = none
+}
+114={
+	culture = aestian
+	faith = baltic_pagan
+	holding = tribal_holding
+}
+115={
+	culture = dnieper
+	faith = baltic_pagan
+	holding = tribal_holding
+}
+116={
+	holding = none
+}
+117={
+	holding = none
+}
+118={
+	culture = aestian
+	faith = baltic_pagan
+	holding = tribal_holding
+}
+119={
+	holding = none
+}
+120={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+121={
+	holding = none
+}
+123={
+	holding = church_holding
+}
+124={
+	culture = aestian
+	faith = baltic_pagan
+	holding = tribal_holding
+}
+125={
+	holding = none
+}
+126={
+	holding = none
+}
+127={
+	culture = aestian
+	faith = baltic_pagan
+	holding = tribal_holding
+}
+128={
+	holding = none
+}
+129={
+	holding = none
+}
+131={
+	holding = none
+}
+132={
+	holding = none
+}
+133={
+	culture = aestian
+	faith = baltic_pagan
+	holding = tribal_holding
+}
+150={
+	holding = none
+}
+152={
+	holding = none
+}
+2806={
+	holding = none
+}
+2807={
+	culture = aestian
+	faith = slavic_pagan
+	holding = tribal_holding
+}
+2808={
+	holding = none
+}
+2809={
+	culture = vandal
+	faith = slavic_pagan
+	holding = tribal_holding
+}
+2810={
+	holding = none
+}
+2811={
+	culture = aestian
+	faith = slavic_pagan
+	holding = tribal_holding
+}
+2812={
+	culture = vandal
+	faith = slavic_pagan
+	holding = tribal_holding
+}
+2813={
+	holding = none
+}
+2816={
+	holding = none
+}
+2817={
+	culture = vandal
+	faith = slavic_pagan
+	holding = tribal_holding
+}
+2818={
+	culture = aestian
+	faith = slavic_pagan
+	holding = tribal_holding
+}
+2819={
+	holding = none
+}
+2820={
+	holding = church_holding
+}
+2821={
+	holding = church_holding
+}
+2822={
+	holding = church_holding
+}
+2823={
+	culture = aestian
+	faith = slavic_pagan
+	holding = tribal_holding
+}
+2824={
+	holding = none
+}
+2825={
+	holding = none
+}
+2826={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+2836={
+	holding = none
+}
+3151={
+	holding = none
+}
+3152={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+3153={
+	holding = none
+}
+3154={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+3155={
+	holding = none
+}
+3156={
+	holding = none
+}
+3183={
+	holding = none
+}
+3184={
+	holding = none
+}
+3185={
+	holding = none
+}
+3186={
+	holding = none
+}
+3187={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+3188={
+	holding = none
+}

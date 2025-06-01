@@ -1,0 +1,507 @@
+6083={
+	culture = kemetic
+	faith = manichean
+	holding = castle_holding
+}
+6084={
+	holding = city_holding
+}
+6085={
+	culture = kemetic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+6086={
+	holding = none
+}
+6087={
+	holding = none
+}
+6088={
+	culture = aegyptian
+	faith = nicene
+	holding = castle_holding
+}
+6089={
+	culture = aegyptian
+	faith = nicene
+	holding = castle_holding
+}
+6090={
+	holding = city_holding
+}
+6091={
+	holding = none
+}
+6109={
+	culture = aegyptian
+	faith = nicene
+	holding = castle_holding
+}
+6118={
+	culture = aegyptian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+6119={
+	holding = none
+}
+6122={
+	holding = none
+}
+6232={
+	holding = none
+}
+6240={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6241={
+	holding = city_holding
+}
+6242={
+	holding = none
+}
+6243={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6244={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = castle_holding
+}
+6245={
+	holding = none
+}
+6246={
+	culture = adnanite
+	faith = rabbinism
+	holding = castle_holding
+}
+6247={
+	holding = none
+}
+6270={
+	holding = city_holding
+}
+6271={
+	holding = none
+}
+6272={
+	holding = none
+}
+6273={
+	holding = city_holding
+}
+6274={
+	holding = city_holding
+}
+6275={
+	holding = none
+}
+6276={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6278={
+	holding = none
+}
+6279={
+	holding = city_holding
+}
+6280={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6281={
+	holding = city_holding
+}
+6282={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6283={
+	holding = none
+}
+6284={
+	holding = none
+}
+6285={
+	holding = city_holding
+}
+6286={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6287={
+	holding = none
+}
+6288={
+	holding = none
+}
+6289={
+	holding = city_holding
+}
+6290={
+	holding = city_holding
+}
+6291={
+	culture = himyarite
+	faith = south_arabian_pagan
+	holding = castle_holding
+}
+6292={
+	holding = city_holding
+}
+6294={
+	holding = city_holding
+}
+6295={
+	holding = none
+}
+6296={
+	holding = city_holding
+}
+6297={
+	holding = none
+}
+6298={
+	holding = castle_holding
+}
+6299={
+	culture = himyarite
+	faith = south_arabian_pagan
+	holding = castle_holding
+	special_building_slot = marib_dam
+}
+6300={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6301={
+	holding = none
+}
+6329={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+	100.1.1 = { special_building_slot = TFE_royal_necropolis_of_ballana }
+}
+6330={
+	holding = none
+}
+6331={
+	holding = none
+}
+6332={
+	holding = none
+}
+6333={
+	holding = none
+}
+6334={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6335={
+	holding = none
+}
+6336={
+	culture = aegyptian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+6337={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+6338={
+	holding = none
+}
+6339={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+6340={
+	holding = none
+}
+6341={
+	holding = none
+}
+6342={
+	holding = city_holding
+}
+6343={
+	holding = none
+}
+6344={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6345={
+	holding = city_holding
+}
+6359={
+	holding = none
+}
+6361={
+	holding = city_holding
+}
+6362={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6376={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+6385={
+	holding = none
+}
+6386={
+	holding = none
+}
+6387={
+	holding = none
+}
+6400={
+	culture = meroitic
+	faith = kushitism_pagan
+	holding = castle_holding
+}
+6402={
+	holding = none
+}
+6403={
+	holding = none
+}
+6411={
+	holding = city_holding
+}
+6412={
+	culture = meroitic
+	faith = nicene
+	holding = castle_holding
+}
+6413={
+	holding = none
+}
+6414={
+	holding = none
+}
+6415={
+	culture = meroitic
+	faith = egyptian_pagan
+	holding = none
+}
+6427={
+	holding = none
+}
+6428={
+	holding = none
+}
+6429={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6430={
+	holding = none
+}
+6431={
+	holding = none
+}
+6432={
+	holding = none
+}
+6433={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+6434={
+	holding = none
+}
+6435={
+	holding = none
+}
+6437={
+	culture = meroitic
+	faith = dinka_pagan
+	holding = castle_holding
+}
+6438={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+6439={
+	holding = none
+}
+6440={
+	culture = meroitic
+	faith = egyptian_pagan
+	holding = none
+}
+6442={
+	holding = none
+}
+6443={
+	holding = none
+}
+6444={
+	holding = none
+}
+6896={
+	holding = none
+}
+8278={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+8279={
+	holding = church_holding
+}
+8280={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+8281={
+	holding = none
+}
+8282={
+	holding = none
+}
+8283={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+8284={
+	holding = none
+}
+8285={
+	holding = none
+}
+8286={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+8287={
+	holding = castle_holding
+}
+8288={
+	holding = city_holding
+}
+8289={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+8290={
+	holding = none
+}
+8291={
+	holding = none
+}
+8292={
+	holding = none
+}
+8293={
+	holding = none
+}
+8294={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+8295={
+	holding = city_holding
+}
+8296={
+	holding = castle_holding
+}
+8302={
+	holding = none
+}
+8303={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+8304={
+	holding = none
+}
+8305={
+	holding = none
+}
+8306={
+	holding = none
+}
+8307={
+	holding = city_holding
+}
+8309={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+8310={
+	holding = none
+}
+8311={
+	holding = none
+}
+8312={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+8313={
+	holding = city_holding
+}
+8314={
+	holding = none
+}
+8315={
+	holding = none
+}
+8317={
+	holding = none
+}
+8330={
+	holding = castle_holding
+}
+8371={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8514={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8515={
+	holding = none
+}
+8516={
+	holding = none
+}

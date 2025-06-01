@@ -1,0 +1,39 @@
+603={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+606={
+	holding = none
+}
+5296={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5297={
+	holding = city_holding
+}
+5298={
+	holding = none
+}
+5299={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5300={
+	holding = none
+}
+5301={
+	holding = city_holding
+}
+5302={
+	holding = none
+}
+5303={
+	holding = none
+}
+5344={
+	holding = none
+}

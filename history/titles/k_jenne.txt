@@ -1,0 +1,32 @@
+k_jenne={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+d_jenne={
+	361.11.17 = { liege = 0 }
+}
+c_jenne={
+	360.1.1 = { holder = awkar_17 government = tribal_government }
+	361.1.1 = { change_development_level = 6 }
+}
+c_dodugu={
+	361.1.1 = { holder = bozo_04 government = tribal_government change_development_level = 3 }
+}
+c_bindugu={
+	361.1.1 = { holder = bozo_04 government = tribal_government change_development_level = 3 }
+}
+c_kurmina={
+	361.1.1 = { holder = bozo_01 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+d_bobo={
+	361.11.17 = { liege = 0 }
+}
+c_sikasso={
+	361.1.1 = { holder = bobo_01 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_bena={
+	361.1.1 = { holder = bobo_01 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}

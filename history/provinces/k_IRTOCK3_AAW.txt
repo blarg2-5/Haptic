@@ -1,0 +1,439 @@
+618={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+621={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+624={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+625={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = none
+}
+627={
+	holding = none
+}
+631={
+	holding = none
+}
+1378={
+	holding = none
+}
+4010={
+	holding = none
+}
+4011={
+	holding = none
+}
+4012={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4013={
+	holding = none
+}
+4014={
+	culture = scythian_aral
+	faith = nicene
+	holding = city_holding
+}
+4015={
+	holding = none
+}
+4016={
+	holding = none
+}
+4017={
+	holding = church_holding
+}
+4018={
+	holding = none
+}
+4019={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4020={
+	holding = none
+}
+4021={
+	holding = city_holding
+}
+4022={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4023={
+	holding = none
+}
+4024={
+	holding = none
+}
+4025={
+	holding = none
+}
+4026={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4027={
+	holding = city_holding
+}
+4028={
+	holding = city_holding
+}
+4029={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4030={
+	holding = none
+	special_building_slot = great_wall_of_gorgan_01
+}
+4031={
+	holding = none
+}
+4032={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4033={
+	holding = none
+}
+4034={
+	holding = none
+}
+4035={
+	holding = none
+}
+4036={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4037={
+	holding = none
+}
+4038={
+	holding = none
+}
+4039={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4040={
+	holding = none
+}
+4041={
+	holding = city_holding
+}
+4042={
+	holding = none
+}
+4043={
+	holding = none
+}
+4044={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4310={
+	holding = city_holding
+}
+4311={
+	holding = city_holding
+}
+4312={
+	culture = scythian_aral
+	faith = nicene
+	holding = city_holding
+}
+4315={
+	holding = none
+}
+4316={
+	holding = none
+}
+4317={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4415={
+	holding = none
+}
+4440={
+	holding = none
+}
+4441={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4442={
+	holding = none
+}
+4443={
+	holding = none
+}
+4444={
+	holding = none
+}
+4445={
+	holding = none
+}
+4446={
+	holding = none
+}
+4447={
+	holding = none
+}
+4448={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4449={
+	holding = none
+}
+4450={
+	holding = none
+}
+4451={
+	holding = none
+}
+4452={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4453={
+	holding = none
+}
+4454={
+	holding = none
+}
+4455={
+	holding = none
+}
+4456={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4457={
+	holding = none
+}
+4458={
+	holding = none
+}
+4459={
+	holding = city_holding
+}
+4460={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4461={
+	holding = city_holding
+}
+4462={
+	holding = none
+}
+4524={
+	holding = none
+}
+4525={
+	holding = none
+}
+4526={
+	holding = none
+}
+4527={
+	holding = none
+}
+4528={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+4529={
+	holding = none
+}
+4530={
+	holding = city_holding
+}
+4531={
+	holding = church_holding
+}
+4532={
+	holding = none
+}
+4533={
+	holding = city_holding
+}
+7065={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+7066={
+	holding = none
+}
+7067={
+	holding = none
+}
+7068={
+	holding = city_holding
+}
+7069={
+	holding = city_holding
+}
+7070={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+7071={
+	holding = none
+}
+7072={
+	holding = none
+}
+7073={
+	holding = none
+}
+7074={
+	holding = none
+}
+7075={
+	holding = none
+}
+7076={
+	holding = none
+}
+7077={
+	holding = none
+}
+7078={
+	holding = none
+}
+7079={
+	holding = city_holding
+}
+7080={
+	holding = none
+}
+7081={
+	holding = none
+}
+7082={
+	holding = none
+}
+7083={
+	holding = city_holding
+}
+7084={
+	holding = none
+}
+7085={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+7086={
+	holding = none
+}
+7087={
+	holding = none
+}
+7088={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+7089={
+	holding = none
+}
+7093={
+	holding = city_holding
+}
+7221={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+7222={
+	holding = none
+}
+7223={
+	holding = none
+}
+7224={
+	holding = none
+}
+7225={
+	holding = none
+}
+7226={
+	holding = none
+}
+7227={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+7228={
+	holding = none
+}
+7229={
+	holding = none
+}
+7230={
+	holding = none
+}
+7231={
+	holding = city_holding
+}
+7232={
+	holding = none
+}
+7233={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}
+7234={
+	holding = none
+}
+7235={
+	holding = none
+}
+7236={
+	holding = none
+}
+7237={
+	holding = none
+}
+7238={
+	culture = scythian_aral
+	faith = scythian_aral
+	holding = city_holding
+}

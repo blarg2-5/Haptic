@@ -1,0 +1,150 @@
+k_IRTOCK3_D37={
+	71.3.6 = { holder = imperator175018 government = feudal_government }
+	76.3.6 = { holder = imperator174994 government = republic_government }
+	81.3.6 = { holder = imperator175005 government = republic_government }
+	86.3.6 = { holder = imperator175008 government = republic_government }
+	91.3.6 = { holder = imperator174998 government = republic_government }
+	96.3.6 = { holder = imperator174994 government = republic_government }
+	101.3.6 = { holder = imperator175018 government = republic_government }
+	106.3.6 = { holder = imperator174996 government = republic_government }
+	108.3.6 = { holder = imperator174998 government = republic_government }
+	110.3.6 = { holder = imperator174999 government = republic_government }
+	112.3.6 = { holder = imperator175035 government = republic_government }
+	114.3.6 = { holder = imperator174994 government = republic_government }
+	116.3.6 = { holder = imperator178179 government = republic_government }
+	118.3.6 = { holder = imperator175034 government = republic_government }
+	120.3.6 = { holder = imperator178089 government = republic_government }
+	122.3.6 = { holder = imperator183952 government = republic_government }
+	124.3.6 = { holder = imperator175508 government = republic_government }
+	126.3.6 = { holder = imperator179678 government = republic_government }
+	128.3.6 = { holder = imperator185045 government = republic_government }
+	130.3.6 = { holder = imperator178179 government = republic_government }
+	132.3.6 = { holder = imperator175378 government = republic_government }
+	134.3.6 = { holder = imperator175352 government = republic_government }
+	136.3.6 = { holder = imperator176306 government = republic_government }
+	138.3.6 = { holder = imperator176218 government = republic_government }
+	140.3.6 = { holder = imperator179678 government = republic_government }
+	142.3.6 = { holder = imperator175761 government = republic_government }
+	144.3.6 = { holder = imperator175465 government = republic_government }
+	145.4.13 = { liege = e_IRTOCK3_A39 }
+	146.3.6 = { holder = imperator181778 government = republic_government }
+	148.3.6 = { holder = imperator175352 government = republic_government }
+	150.3.6 = { holder = imperator176306 government = republic_government }
+	152.3.6 = { holder = imperator176565 government = republic_government }
+	154.3.6 = { holder = imperator179678 government = republic_government }
+	156.3.6 = { holder = imperator177664 government = republic_government }
+	158.3.6 = { holder = imperator180875 government = republic_government }
+	160.3.6 = { holder = imperator180408 government = republic_government }
+	162.3.6 = { holder = imperator182454 government = republic_government }
+	164.3.6 = { holder = imperator188223 government = republic_government }
+	166.3.6 = { holder = imperator179853 government = republic_government }
+	168.3.6 = { holder = imperator186568 government = republic_government }
+	170.3.6 = { holder = imperator184757 government = republic_government }
+	172.3.6 = { holder = imperator180875 government = republic_government }
+	174.3.6 = { holder = imperator184079 government = republic_government }
+	176.3.6 = { holder = imperator182454 government = republic_government }
+	178.3.6 = { holder = imperator183258 government = republic_government }
+	180.3.6 = { holder = imperator183194 government = republic_government }
+	182.3.6 = { holder = imperator186568 government = republic_government }
+	184.3.6 = { holder = imperator189277 government = republic_government }
+	186.3.6 = { holder = imperator185591 government = republic_government }
+	188.3.6 = { holder = imperator184079 government = republic_government }
+	190.3.6 = { holder = imperator192282 government = republic_government }
+	192.3.6 = { holder = imperator187775 government = republic_government }
+	194.3.6 = { holder = imperator187878 government = republic_government }
+	196.3.6 = { holder = imperator186568 government = republic_government }
+	198.3.6 = { holder = imperator189277 government = republic_government }
+	200.3.6 = { holder = imperator185591 government = republic_government }
+	202.3.6 = { holder = imperator198678 government = republic_government }
+	204.3.6 = { holder = imperator186318 government = republic_government }
+	206.3.6 = { holder = imperator204344 government = republic_government }
+	208.3.6 = { holder = imperator187878 government = republic_government }
+	210.3.6 = { holder = imperator186568 government = republic_government }
+	212.3.6 = { holder = imperator189277 government = republic_government }
+	214.3.6 = { holder = imperator189444 government = republic_government }
+	216.3.6 = { holder = imperator198678 government = republic_government }
+	218.3.6 = { holder = imperator192282 government = republic_government }
+	220.3.6 = { holder = imperator204344 government = republic_government }
+	222.3.6 = { holder = imperator190587 government = republic_government }
+	224.3.6 = { holder = imperator194167 government = republic_government }
+	226.3.6 = { holder = imperator189277 government = republic_government }
+	228.3.6 = { holder = imperator214133 government = republic_government }
+	230.3.6 = { holder = imperator198678 government = republic_government }
+	241.8.31 = { holder = imperator213630 government = feudal_government }
+	293.3.10 = { holder = imperator230523 government = feudal_government }
+	337.11.4 = { holder = imperator231390 government = feudal_government }
+	340.8.7 = { holder = imperator234244 government = feudal_government }
+	341.4.5 = { holder = imperator235476 government = feudal_government }
+	351.2.25 = { holder = imperator259792 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_istria={
+	361.11.17 = { liege = 0 }
+}
+c_pula={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 20 }
+}
+d_croatia={
+	361.11.17 = { liege = 0 }
+}
+c_gacka={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { liege = k_IRTOCK3_D37 holder = imperator242646 change_development_level = 16 }
+}
+b_brinje={
+	361.2.17 = { holder = imperator242646 }
+}
+c_lika={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_cherso={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_modrus={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 16 }
+}
+d_bosna={
+	361.11.17 = { liege = 0 }
+}
+c_rama={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_donjikraji={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 24 }
+}
+c_vhrbosna={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_pset={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 15 }
+}
+d_lower_bosna={
+	361.11.17 = { liege = 0 }
+}
+c_soli={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241650 change_development_level = 42 }
+}
+b_bijeljina={
+	361.2.17 = { holder = imperator241650 }
+}
+c_usora={
+	361.1.11 = { liege = 0 holder = imperator252025 }
+	361.2.17 = { change_development_level = 40 }
+}
+c_vodica={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_vrbas={
+	351.2.25 = { liege = 0 holder = imperator259792 }
+	361.2.17 = { change_development_level = 11 }
+}

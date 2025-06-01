@@ -1,2 +1,2 @@
-# Haptic
-the mod made for the ck3 megacampagin 
+# FallenEagle
+The Fallen Eagle CKIII mod

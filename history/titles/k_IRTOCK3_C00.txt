@@ -1,0 +1,21 @@
+k_IRTOCK3_C00={
+	-112.7.7 = { holder = imperator140057 government = feudal_government }
+	330.2.1 = { holder = imperator255724 government = republic_government }
+	361.2.17 = { succession_laws = { city_succession_law princely_elective_succession_law } }
+}
+d_hadramawt={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_ahqaf_holder liege = 0 }
+}
+c_hadramawt={
+	330.2.1 = { liege = 0 holder = imperator255724 }
+	361.2.17 = { change_development_level = 28 }
+}
+c_ahqaf={
+	360.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_ahqaf_holder }
+}
+c_kinda_sakun={
+	330.2.1 = { liege = 0 holder = imperator255724 }
+	361.2.17 = { liege = k_IRTOCK3_C00 holder = imperator255779 change_development_level = 24 }
+}

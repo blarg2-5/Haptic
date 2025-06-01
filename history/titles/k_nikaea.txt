@@ -1,0 +1,51 @@
+k_nikaea={
+	347.1.16 = { government = administrative_government holder = imperator241805 liege = e_IRTOCK3_A39 succession_laws = { appointment_succession_law } }
+}
+d_opsikion={
+	361.11.17 = { liege = 0 }
+}
+c_mysia={
+	361.1.8 = { liege = 0 holder = imperator245083 }
+	361.2.17 = { change_development_level = 23 }
+}
+b_appollonia={
+	361.2.17 = { holder = imperator239654 }
+}
+c_nikaea={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_prusa={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { change_development_level = 33 }
+}
+c_phrygia={
+	330.8.25 = { liege = 0 holder = imperator247576 }
+	361.2.17 = { holder = imperator257079 change_development_level = 35 }
+}
+b_soegud={
+	361.2.17 = { holder = imperator244485 }
+}
+d_paphlagonia={
+	361.11.17 = { liege = 0 }
+}
+c_paphlagonia={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_pompeiopolis={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { change_development_level = 36 }
+}
+d_optimatoi={
+	361.1.1 = { change_development_level = 5 }
+	361.11.17 = { liege = 0 }
+}
+c_bithynia={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_tarsos={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { change_development_level = 28 }
+}

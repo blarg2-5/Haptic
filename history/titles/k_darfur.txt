@@ -1,0 +1,66 @@
+k_darfur={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_darfur={
+	340.1.1 = { holder = tora_01 government = tribal_government }
+	361.1.1 = { change_development_level = 1 }
+}
+c_el_fasher={
+	340.1.1 = { holder = tora_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+c_dar_al-said={
+	340.1.1 = { holder = tora_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+c_dar-al-rih={
+	340.1.1 = { holder = tora_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+c_east_darfur={
+	340.1.1 = { holder = tora_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+d_west_darfur={
+	361.11.17 = { liege = 0 }
+}
+c_ayn_farah={
+	340.1.1 = { holder = tora_02 government = tribal_government liege = d_darfur }
+	361.11.17 = { change_development_level = 0 }
+}
+c_qimr={
+	340.1.1 = { holder = tora_02 government = tribal_government liege = d_darfur }
+	361.11.17 = { change_development_level = 0 }
+}
+c_masalit={
+	340.1.1 = { holder = tora_02 government = tribal_government liege = d_darfur }
+	361.11.17 = { change_development_level = 0 }
+}
+d_wadai={
+	361.11.17 = { liege = 0 }
+}
+c_wadai={
+	360.1.1 = { government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_dar_sila={
+	360.1.1 = { holder = sao_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kadam={
+	360.1.1 = { holder = sao_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_fitri={
+	360.1.1 = { government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_fellata={
+	360.1.1 = { holder = sao_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ghazzal={
+	360.1.1 = { government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

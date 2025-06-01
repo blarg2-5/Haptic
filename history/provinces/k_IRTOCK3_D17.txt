@@ -1,0 +1,130 @@
+1141={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1172={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1346={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1349={
+	culture = rajput
+	faith = manichean
+	holding = castle_holding
+}
+1350={
+	culture = rajput
+	faith = manichean
+	holding = castle_holding
+}
+1353={
+	culture = rajput
+	faith = manichean
+	holding = castle_holding
+}
+1354={
+	culture = rajput
+	faith = manichean
+	holding = castle_holding
+}
+1355={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1357={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+1359={
+	culture = rajput
+	faith = vaishnavism
+	holding = castle_holding
+}
+3338={
+	holding = none
+}
+3339={
+	holding = church_holding
+}
+3340={
+	holding = none
+}
+3341={
+	holding = none
+}
+3344={
+	holding = none
+}
+3346={
+	holding = none
+}
+3347={
+	holding = none
+}
+3348={
+	holding = city_holding
+}
+3349={
+	holding = church_holding
+}
+3460={
+	holding = city_holding
+}
+3461={
+	holding = none
+}
+3462={
+	holding = city_holding
+}
+3463={
+	holding = city_holding
+}
+3464={
+	holding = castle_holding
+}
+3465={
+	holding = none
+}
+3466={
+	holding = none
+}
+3476={
+	holding = none
+}
+3477={
+	holding = none
+}
+3478={
+	holding = none
+}
+3479={
+	holding = none
+}
+3480={
+	holding = none
+}
+3481={
+	holding = city_holding
+}
+3482={
+	holding = none
+}
+3483={
+	holding = none
+}
+3968={
+	culture = tamil
+	faith = vaishnavism
+	holding = castle_holding
+}
+3969={
+	holding = none
+}

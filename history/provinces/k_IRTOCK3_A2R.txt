@@ -1,0 +1,183 @@
+4087={
+	holding = none
+}
+4088={
+	culture = parthian
+	faith = nicene
+	holding = castle_holding
+}
+4092={
+	holding = none
+}
+4093={
+	culture = med
+	faith = nicene
+	holding = city_holding
+}
+4094={
+	holding = none
+}
+4095={
+	holding = none
+}
+4096={
+	culture = parthian
+	faith = scythian_asian
+	holding = castle_holding
+}
+4097={
+	holding = none
+}
+4098={
+	holding = none
+}
+4099={
+	holding = city_holding
+}
+4117={
+	holding = city_holding
+}
+4118={
+	culture = hellenistic
+	faith = nicene
+	holding = city_holding
+}
+4119={
+	holding = city_holding
+}
+4120={
+	holding = none
+}
+4124={
+	holding = none
+}
+4171={
+	culture = parthian
+	faith = nicene
+	holding = castle_holding
+}
+4172={
+	holding = none
+}
+4173={
+	holding = none
+}
+4174={
+	holding = none
+}
+4175={
+	holding = none
+}
+4176={
+	holding = none
+}
+4177={
+	culture = med
+	faith = nicene
+	holding = city_holding
+}
+4178={
+	holding = none
+}
+4179={
+	holding = city_holding
+}
+4180={
+	holding = none
+}
+4193={
+	culture = med
+	faith = nicene
+	holding = city_holding
+}
+4194={
+	holding = none
+}
+4195={
+	culture = med
+	faith = nicene
+	holding = city_holding
+}
+4196={
+	holding = none
+}
+4197={
+	holding = city_holding
+}
+4198={
+	holding = none
+}
+4199={
+	holding = none
+}
+4200={
+	holding = none
+}
+4256={
+	culture = hellenistic
+	faith = nicene
+	holding = city_holding
+}
+4257={
+	holding = none
+}
+4258={
+	holding = none
+}
+4259={
+	holding = none
+}
+4306={
+	holding = none
+}
+4307={
+	holding = none
+}
+4308={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+4309={
+	holding = none
+}
+4818={
+	holding = city_holding
+}
+6009={
+	holding = city_holding
+}
+6010={
+	holding = none
+}
+6011={
+	culture = arran
+	faith = nicene
+	holding = city_holding
+	345.1.1 = { special_building_slot = oblivion_prison }
+}
+6012={
+	holding = city_holding
+}
+6013={
+	holding = none
+}
+6014={
+	culture = med
+	faith = manichean
+	holding = city_holding
+}
+6015={
+	holding = city_holding
+}
+6016={
+	holding = castle_holding
+}
+6017={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+6018={
+	holding = none
+}

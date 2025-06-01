@@ -1,0 +1,22 @@
+d_sous={
+	361.11.17 = { liege = 0 }
+}
+c_sous={
+	333.5.21 = { liege = 0 holder = imperator240150 }
+	361.2.17 = { change_development_level = 13 }
+}
+b_igilliz={
+	361.2.17 = { holder = imperator241778 }
+}
+c_agadir={
+	333.5.21 = { liege = 0 holder = imperator240150 }
+	361.2.17 = { change_development_level = 19 }
+}
+c_ifni={
+	333.5.21 = { liege = 0 holder = imperator240150 }
+	361.2.17 = { liege = e_IRTOCK3_A2H holder = imperator241305 change_development_level = 2 }
+}
+c_draa={
+	333.5.21 = { liege = 0 holder = imperator240150 }
+	361.2.17 = { liege = e_IRTOCK3_A2H holder = imperator241305 change_development_level = 3 }
+}

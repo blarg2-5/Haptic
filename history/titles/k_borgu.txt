@@ -1,0 +1,46 @@
+k_borgu={
+	361.11.17 = { liege = 0 }
+}
+d_borgu={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+c_nikki={
+	360.1.1 = { holder = gur_01 }
+	361.1.1 = { change_development_level = 2 }
+}
+c_bussa={
+	360.1.1 = { holder = sorko_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+c_ilo={
+	360.1.1 = { holder = sorko_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+c_ilesa={
+	360.1.1 = { holder = yoruba_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+c_djugu={
+	360.1.1 = { holder = gur_01 }
+	361.11.17 = { change_development_level = 1 }
+}
+d_savalu={
+	361.11.17 = { liege = 0 }
+}
+c_savalu={
+	360.1.1 = { holder = ewe_01 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sokode={
+	360.1.1 = { holder = ewe_01 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_todo={
+	360.1.1 = { holder = ewe_01 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_shabe={
+	360.1.1 = { holder = yoruba_01 }
+	361.11.17 = { change_development_level = 0 }
+}

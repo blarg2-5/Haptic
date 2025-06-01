@@ -1,0 +1,80 @@
+k_khakassia={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_khakass_hollow={
+	361.11.17 = { liege = 0 }
+}
+c_abakan={
+	359.1.1 = { holder = dubo_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_julym={
+	359.1.1 = { holder = guligan_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_jerjul={
+	359.1.1 = { holder = guligan_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kizir={
+	359.1.1 = { holder = guligan_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_anja={
+	359.1.1 = { holder = guligan_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kyzylkul={
+	359.1.1 = { holder = tiele_18 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_shoria={
+	361.11.17 = { liege = 0 }
+}
+c_kuzbas={
+	359.1.1 = { holder = dubo_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_shor={
+	359.1.1 = { holder = dubo_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_uul_chors={
+	359.1.1 = { holder = dubo_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_kargassia={
+	361.11.17 = { liege = 0 }
+}
+c_burugu_aallar={
+	359.1.1 = { holder = tiele_12 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_chagdy_aallar={
+	359.1.1 = { holder = tiele_12 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_songuu_aallar={
+	359.1.1 = { holder = tiele_18 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_eastern_sayan={
+	361.11.17 = { liege = 0 }
+}
+c_karauda={
+	359.1.1 = { holder = tiele_12 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_shityy={
+	359.1.1 = { holder = tiele_08 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kropot={
+	359.1.1 = { holder = tiele_08 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_monkh_saridag={
+	359.1.1 = { holder = tiele_08 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}

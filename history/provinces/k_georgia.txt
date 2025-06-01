@@ -1,0 +1,25 @@
+673={
+	holding = church_holding
+}
+5768={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5769={
+	holding = church_holding
+}
+5770={
+	holding = none
+}
+5777={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5778={
+	holding = none
+}
+5779={
+	holding = none
+}

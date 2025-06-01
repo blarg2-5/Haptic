@@ -1,0 +1,56 @@
+k_gurma={
+	361.11.17 = { liege = 0 }
+}
+d_lower_gurma={
+	361.11.17 = { liege = 0 }
+}
+c_gurma={
+	361.1.1 = { holder = gur_12 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_bura={
+	361.1.1 = { holder = gur_14 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_say={
+	361.1.1 = { holder = gur_14 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_biun={
+	361.1.1 = { holder = gur_12 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_upper_gurma={
+	361.11.17 = { liege = 0 }
+}
+c_oudalan={
+	361.1.1 = { holder = gur_15 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kurumba={
+	361.1.1 = { holder = gur_18 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_upper_gurma={
+	361.1.1 = { holder = gur_15 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_yatenga={
+	361.11.17 = { liege = 0 }
+}
+c_yatenga={
+	361.1.1 = { holder = gur_08 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_gondo={
+	361.1.1 = { holder = gur_18 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_seno={
+	361.1.1 = { holder = gur_19 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_bandiagara={
+	361.1.1 = { holder = gur_19 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

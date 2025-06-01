@@ -1,0 +1,81 @@
+597={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+598={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+599={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+674={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+675={
+	holding = none
+}
+5288={
+	holding = city_holding
+}
+5289={
+	holding = none
+}
+5304={
+	holding = city_holding
+}
+5305={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5306={
+	holding = church_holding
+}
+5307={
+	holding = none
+}
+5308={
+	holding = none
+}
+5309={
+	holding = none
+}
+5310={
+	holding = none
+}
+5335={
+	holding = none
+}
+5336={
+	holding = none
+}
+5337={
+	holding = none
+}
+5338={
+	holding = none
+}
+5339={
+	holding = none
+}
+5340={
+	holding = city_holding
+}
+5341={
+	holding = church_holding
+}
+5342={
+	holding = none
+}
+5343={
+	culture = ciscaucasian
+	faith = caucasian_pagan
+	holding = castle_holding
+}

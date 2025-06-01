@@ -1,0 +1,33 @@
+k_IRTOCK3_C88={
+	8.12.1 = { holder = imperator163510 government = feudal_government }
+	17.10.20 = { holder = imperator163519 government = feudal_government }
+	50.12.26 = { holder = imperator165429 government = feudal_government }
+	96.10.14 = { holder = imperator170056 government = feudal_government }
+	115.1.22 = { holder = imperator177928 government = feudal_government }
+	168.1.20 = { holder = imperator179036 government = feudal_government }
+	169.3.12 = { holder = imperator182910 government = feudal_government }
+	194.3.11 = { holder = imperator184564 government = feudal_government }
+	200.6.5 = { holder = imperator188997 government = feudal_government }
+	219.5.22 = { holder = imperator208643 government = feudal_government }
+	280.3.14 = { holder = imperator211796 government = feudal_government }
+	287.4.27 = { holder = imperator232529 government = feudal_government }
+	335.7.30 = { holder = imperator247185 government = feudal_government }
+	343.9.23 = { holder = imperator250899 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_northern_isles={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_shetland_holder liege = 0 }
+}
+c_orkney={
+	343.9.23 = { liege = 0 holder = imperator250899 }
+	361.2.17 = { liege = k_IRTOCK3_C88 holder = imperator242696 change_development_level = 4 }
+}
+c_faereyar={
+	361.1.1 = { government = tribal_government liege = 0 }
+	361.11.17 = { holder = IRToCK3_c_faereyar_hermit government = eremitic_government change_development_level = 0 }
+}
+c_shetland={
+	361.1.1 = { government = tribal_government liege = 0 }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_shetland_holder }
+}

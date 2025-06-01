@@ -1,0 +1,212 @@
+scythian_blooded = {
+	opposites = {
+		dacian_blooded
+		cartage_blooded
+	}
+	physical = yes
+	martial = 4
+	prowess = 4
+	levy_toughness = 10
+	health = 0.25
+	inbreeding_chance = -0.1
+	
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	good = yes
+	
+	ruler_designer_cost = 50
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_scythian_blooded_desc
+			}
+			desc = trait_scythian_blooded_character_desc
+		}
+	}
+}
+
+dacian_blooded = {
+	opposites = {
+		scythian_blooded
+		Indian_blooded
+	}
+	physical = yes
+	stewardship = 4
+	domain_limit = 2
+	tax_mult = 0.05
+	health = 0.25
+	inbreeding_chance = -0.1
+	
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	good = yes
+	
+	ruler_designer_cost = 50
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_dacian_blooded_desc
+			}
+			desc = trait_dacian_blooded_character_desc
+		}
+	}
+}
+
+
+alban_blooded = {
+	physical = yes
+	diplomacy = 5
+	intrigue = 5
+	owned_hostile_scheme_success_chance_add = 10
+	health = 0.25
+	inbreeding_chance = -0.1
+	
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	good = yes
+	
+	ruler_designer_cost = 50
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_alban_blooded_desc
+			}
+			desc = trait_alban_blooded_character_desc
+		}
+	}
+}
+
+britonic_blooded = {
+	opposites = {
+		roman_blooded
+		cartage_blooded
+	}
+	physical = yes
+	stewardship = 2
+	martial = 2
+	defender_advantage = 5
+	health = 0.2
+	inbreeding_chance = -0.1
+	
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	good = yes
+	
+	ruler_designer_cost = 50
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_britonic_blooded_desc
+			}
+			desc = trait_britonic_blooded_character_desc
+		}
+	}
+}
+
+Indian_blooded = {
+	opposites = {
+		dacian_blooded
+	}
+	physical = yes
+	learning = 4
+	fertility = 0.25
+	levy_size = 0.5
+	health = 0.2
+	inbreeding_chance = -0.1
+	
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	good = yes
+	
+	ruler_designer_cost = 50
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_indian_blooded_desc
+			}
+			desc = trait_indian_blooded_character_desc
+		}
+	}
+}
+
+roman_blooded = {
+	opposites = {
+		britonic_blooded
+		cartage_blooded
+	}
+	physical = yes
+	stewardship = 2
+	martial = 4
+	levy_size = 0.05
+	domain_limit = 1
+	health = 0.2
+	
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	good = yes
+	
+	ruler_designer_cost = 50
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_roman_blooded_desc
+			}
+			desc = trait_roman_blooded_character_desc
+		}
+	}
+}
+
+cartage_blooded = {
+	opposites = {
+		roman_blooded
+		scythian_blooded
+		britonic_blooded
+	}
+	physical = yes
+	diplomacy = 2
+	intrigue = 3
+	vassal_tax_mult = 0.15
+	health = 0.25
+	
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	good = yes
+	
+	ruler_designer_cost = 50
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_cartage_blooded_desc
+			}
+			desc = trait_cartage_blooded_character_desc
+		}
+	}
+}

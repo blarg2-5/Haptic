@@ -1,0 +1,67 @@
+249={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+250={
+	holding = none
+}
+251={
+	holding = none
+}
+252={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+253={
+	holding = castle_holding
+}
+254={
+	holding = castle_holding
+}
+255={
+	holding = none
+}
+256={
+	holding = none
+}
+257={
+	culture = rugian
+	faith = norse_pagan
+	holding = none
+}
+258={
+	holding = none
+}
+259={
+	holding = none
+}
+260={
+	culture = rugian
+	faith = norse_pagan
+	holding = none
+}
+261={
+	holding = none
+}
+262={
+	holding = none
+}
+263={
+	holding = none
+}
+264={
+	holding = none
+}
+289={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+290={
+	holding = none
+}
+292={
+	holding = none
+}

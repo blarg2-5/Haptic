@@ -1,0 +1,34 @@
+k_anbiya={
+	361.1.1 = { change_development_level = 2 }
+	361.1.7 = { government = feudal_government holder = imperator260516 liege = e_IRTOCK3_D79 succession_laws = { high_partition_succession_law } }
+}
+d_tadmekka={
+	361.11.17 = { liege = 0 }
+}
+c_tadmekka={
+	360.1.1 = { holder = tuareg_23 }
+	361.11.17 = { change_development_level = 2 }
+}
+c_tessalit={
+	360.1.1 = { holder = tuareg_23 }
+	361.11.17 = { change_development_level = 2 }
+}
+c_djanet={
+	360.1.1 = { holder = tuareg_19 }
+	361.11.17 = { change_development_level = 2 }
+}
+b_eferi={
+	360.1.1 = { holder = tuareg_19 }
+}
+d_touat={
+	350.1.1 = { holder = tin_hinan_01 }
+	361.1.1 = { change_development_level = 3 }
+}
+c_touat={
+	350.1.1 = { holder = tin_hinan_01 }
+	361.2.17 = { change_development_level = 0 }
+}
+c_tamentit={
+	360.1.1 = { holder = tuareg_15 liege = 0 }
+	361.1.1 = { change_development_level = 3 }
+}

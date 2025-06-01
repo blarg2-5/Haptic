@@ -1,0 +1,35 @@
+k_IRTOCK3_A40={
+	-247.5.1 = { holder = imperator87333 government = feudal_government }
+	179.11.1 = { holder = imperator200342 government = feudal_government }
+	189.10.22 = { holder = imperator201011 government = feudal_government }
+	235.12.16 = { holder = imperator211475 government = feudal_government }
+	261.4.6 = { holder = imperator208605 government = feudal_government }
+	279.1.7 = { holder = imperator215919 government = feudal_government }
+	291.6.10 = { holder = imperator230562 government = feudal_government }
+	344.12.16 = { holder = imperator245858 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_kairouan={
+	361.1.1 = { change_development_level = 6 }
+	361.11.17 = { liege = 0 }
+}
+c_gabes={
+	309.11.2 = { liege = 0 holder = imperator245237 }
+	361.2.17 = { change_development_level = 5 }
+}
+c_sfax={
+	309.11.2 = { liege = 0 holder = imperator245237 }
+	361.2.17 = { change_development_level = 10 }
+}
+c_kairwan={
+	361.1.15 = { liege = 0 holder = imperator247681 }
+	361.2.17 = { change_development_level = 8 }
+}
+c_west_qamuda={
+	309.11.2 = { liege = 0 holder = imperator245237 }
+	361.2.17 = { change_development_level = 3 }
+}
+c_mahdiya={
+	309.11.2 = { liege = 0 holder = imperator245237 }
+	361.2.17 = { change_development_level = 11 }
+}

@@ -1,0 +1,119 @@
+323={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+324={
+	holding = none
+}
+326={
+	holding = none
+}
+345={
+	holding = none
+}
+346={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+347={
+	holding = none
+}
+348={
+	holding = none
+}
+349={
+	holding = none
+}
+350={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+351={
+	culture = norse
+	faith = central_pagan
+	holding = none
+}
+352={
+	holding = none
+}
+353={
+	holding = none
+}
+357={
+	holding = none
+}
+358={
+	holding = none
+}
+359={
+	holding = none
+}
+360={
+	culture = sitonian
+	religion = finnish_pagan
+	holding = tribal_holding
+	1066.1.1 = { culture = norse holding = castle_holding }
+	1085.1.1 = { religion = catholic }
+}
+361={
+	culture = sitonian
+	religion = finnish_pagan
+	holding = tribal_holding
+	1066.1.1 = { culture = norse holding = castle_holding }
+	1090.1.1 = { religion = catholic }
+}
+362={
+	holding = none
+}
+363={
+	holding = none
+}
+364={
+	holding = none
+}
+365={
+	holding = none
+}
+366={
+	culture = sitonian
+	religion = finnish_pagan
+	holding = tribal_holding
+	1066.1.1 = { culture = norse }
+	1090.1.1 = { religion = catholic }
+}
+367={
+	holding = none
+}
+368={
+	holding = none
+}
+369={
+	culture = norse
+	faith = norse_pagan
+	holding = tribal_holding
+	special_building_slot = visby_ringmur_01
+}
+370={
+	holding = church_holding
+}
+371={
+	holding = church_holding
+}
+372={
+	holding = church_holding
+}
+8728={
+	holding = none
+}
+8729={
+	holding = none
+}
+8730={
+	holding = none
+}
+8739={
+	holding = none
+}

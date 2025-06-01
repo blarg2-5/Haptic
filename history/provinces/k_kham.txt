@@ -1,0 +1,271 @@
+9277={
+	holding = none
+}
+9278={
+	holding = none
+}
+9279={
+	culture = sumpa
+	faith = old_bon
+	holding = none
+}
+9281={
+	culture = lhomon
+	religion = old_bon
+	holding = tribal_holding
+	1000.1.1 = { culture = bodpa religion = lamaism }
+}
+9282={
+	culture = lhomon
+	religion = old_bon
+	holding = tribal_holding
+	1050.1.1 = { culture = bodpa religion = lamaism }
+}
+9283={
+	holding = none
+}
+9284={
+	holding = none
+}
+9285={
+	holding = none
+}
+9286={
+	holding = none
+}
+9287={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9288={
+	holding = none
+}
+9289={
+	holding = none
+}
+9290={
+	holding = none
+}
+9291={
+	holding = none
+}
+9292={
+	holding = none
+}
+9293={
+	holding = none
+}
+9294={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9295={
+	holding = none
+}
+9296={
+	holding = none
+}
+9297={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9298={
+	holding = none
+}
+9299={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9300={
+	holding = none
+}
+9301={
+	holding = none
+}
+9302={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9303={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9304={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9305={
+	holding = none
+}
+9306={
+	culture = sumpa
+	faith = rrmeaism
+	holding = none
+}
+9307={
+	holding = none
+}
+9308={
+	holding = none
+}
+9309={
+	holding = none
+}
+9310={
+	culture = qiang
+	religion = old_bon
+	holding = tribal_holding
+	1000.1.1 = { culture = bodpa }
+	1050.1.1 = { religion = bon }
+	1100.1.1 = { religion = lamaism }
+}
+9311={
+	holding = none
+}
+9312={
+	culture = qiang
+	religion = old_bon
+	holding = tribal_holding
+	1000.1.1 = { culture = bodpa }
+	1050.1.1 = { religion = bon }
+	1100.1.1 = { religion = lamaism }
+}
+9313={
+	holding = none
+}
+9314={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	900.1.1 = { culture = bodpa religion = old_bon }
+	1050.1.1 = { religion = bon }
+	1100.1.1 = { religion = lamaism }
+}
+9315={
+	holding = none
+}
+9316={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	900.1.1 = { culture = bodpa religion = old_bon }
+	1050.1.1 = { religion = bon }
+	1300.1.1 = { religion = lamaism }
+}
+9317={
+	holding = none
+}
+9318={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	1050.1.1 = { culture = bodpa religion = lamaism }
+}
+9319={
+	holding = none
+}
+9320={
+	holding = none
+}
+9321={
+	holding = none
+}
+9322={
+	holding = none
+}
+9323={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	800.1.1 = { culture = bodpa religion = lamaism }
+}
+9324={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	1100.1.1 = { culture = bodpa religion = lamaism }
+}
+9325={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	800.1.1 = { culture = bodpa religion = lamaism }
+}
+9326={
+	holding = none
+}
+9327={
+	holding = none
+}
+9336={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	1200.1.1 = { culture = bodpa religion = lamaism }
+}
+9339={
+	holding = none
+}
+9340={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	900.1.1 = { religion = old_bon }
+	1050.1.1 = { religion = bon }
+	1300.1.1 = { religion = lamaism }
+}
+9343={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	800.1.1 = { culture = bodpa religion = lamaism }
+}
+9344={
+	holding = none
+}
+9345={
+	holding = none
+}
+9346={
+	holding = none
+}
+9347={
+	holding = none
+}
+9348={
+	holding = none
+}
+9349={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	800.1.1 = { culture = bodpa religion = lamaism }
+}
+9350={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	800.1.1 = { culture = bodpa religion = old_bon }
+	1050.1.1 = { religion = bon }
+}
+9351={
+	holding = none
+}
+9352={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	800.1.1 = { culture = bodpa religion = old_bon }
+	1050.1.1 = { religion = bon }
+	1100.1.1 = { religion = lamaism }
+}
+9353={
+	holding = none
+}

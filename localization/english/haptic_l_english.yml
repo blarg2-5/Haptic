@@ -1,0 +1,28 @@
+﻿l_english:
+ trait_scythian_blooded:0 "Scythian Heritage"
+ trait_scythian_blooded_desc:0 "This character is of pure scythian Heritage."
+ trait_scythian_blooded_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is of a pure scythian bloodline."
+ 
+ trait_dacian_blooded:0 "Dacian Heritage"
+ trait_dacian_blooded_desc:0 "This character is of pure Dacian Heritage."
+ trait_dacian_blooded_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is of a pure Dacian bloodline."
+ 
+ trait_alban_blooded:0 "Albanian Heritage"
+ trait_alban_blooded_desc:0 "This character is of pure Alban Heritage."
+ trait_alban_blooded_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is of a pure Albanian bloodline."
+ 
+ trait_britonic_blooded:0 "Britonic Heritage"
+ trait_britonic_blooded_desc:0 "This character is of pure Britonic Heritage."
+ trait_britonic_blooded_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is of a pure Britonic bloodline."
+ 
+ trait_Indian_blooded:0 "Indian Heritage"
+ trait_indian_blooded_desc:0 "This character is of pure Indi Heritage."
+ trait_indian_blooded_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is of a pure Indian bloodline."
+ 
+ trait_roman_blooded:0 "Roman Heritage"
+ trait_roman_blooded_desc:0 "This character is of pure Italic Heritage."
+ trait_roman_blooded_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is of a pure Roman bloodline."
+ 
+ trait_cartage_blooded:0 "Carthaginian Heritage"
+ trait_cartage_blooded_desc:0 "This character is of pure Carthaginian Heritage."
+ trait_cartage_blooded_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is of a pure Carthaginian bloodline."

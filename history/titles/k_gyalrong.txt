@@ -1,0 +1,99 @@
+k_gyalrong={
+	361.11.17 = { liege = 0 }
+}
+d_gyalrong={
+	361.11.17 = { liege = 0 }
+}
+c_barkam={
+	361.1.1 = { holder = qiang_33 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ngawa={
+	361.1.1 = { holder = qiang_33 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_maowun={
+	361.1.1 = { holder = qiang_34 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sungqu={
+	361.1.1 = { holder = qiang_34 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_zoige={
+	361.1.1 = { holder = qiang_24 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_quqen={
+	361.1.1 = { holder = qiang_33 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_chakla={
+	361.11.17 = { liege = 0 }
+}
+c_chakla={
+	361.1.1 = { holder = qiang_35 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_lhagang={
+	361.1.1 = { holder = qiang_35 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_dawu={
+	361.1.1 = { holder = qiang_20 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sertar={
+	361.1.1 = { holder = qiang_20 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_golog={
+	361.11.17 = { liege = 0 }
+}
+c_maqen={
+	361.1.1 = { holder = qiang_21 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_madoi={
+	361.1.1 = { holder = qiang_21 government = tribal_government liege = "d_qumarleb" }
+	361.11.17 = { change_development_level = 0 }
+}
+c_baima={
+	361.1.1 = { holder = qiang_21 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_malho={
+	361.11.17 = { liege = 0 }
+}
+c_rebgong={
+	351.1.1 = { liege = "d_xining" }
+	361.1.1 = { holder = qiang_22 government = tribal_government liege = "k_tuyuhun" }
+	361.11.17 = { change_development_level = 0 }
+}
+c_mangra={
+	361.1.1 = { holder = qiang_22 government = tribal_government liege = "k_tuyuhun" }
+	361.11.17 = { change_development_level = 0 }
+}
+c_zekog={
+	361.1.1 = { holder = qiang_22 government = tribal_government liege = "k_tuyuhun" }
+	361.11.17 = { change_development_level = 0 }
+}
+d_gainlho={
+	361.11.17 = { liege = 0 }
+}
+c_jone={
+	361.1.1 = { holder = qiang_23 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sangqu={
+	361.1.1 = { holder = qiang_23 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tewo={
+	361.1.1 = { holder = qiang_24 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_maqu={
+	361.1.1 = { holder = qiang_24 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

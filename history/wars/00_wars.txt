@@ -1,0 +1,90 @@
+﻿war = {
+	start_date = 345.11.20
+	end_date = 361.11.18
+	targeted_titles={ c_awjila c_barqa c_waddan }
+	casus_belli = claim_cb
+	attackers={ imperator245697 }
+	defenders={ imperator255067 }
+	claimant = imperator245697
+}
+war = {
+	start_date = 347.12.1
+	end_date = 361.11.18
+	targeted_titles={ c_dipalpur }
+	casus_belli = invasion_war
+	attackers={ imperator250041 }
+	defenders={ imperator257295 }
+	claimant = imperator250041
+}
+war = {
+	start_date = 357.7.4
+	end_date = 361.11.18
+	targeted_titles={ c_barbacadle }
+	casus_belli = claim_cb
+	attackers={ imperator242279 }
+	defenders={ imperator241618 }
+	claimant = imperator242279
+}
+war = {
+	start_date = 358.9.10
+	end_date = 361.11.18
+	targeted_titles={ c_awjila c_barqa c_waddan }
+	casus_belli = claim_cb
+	attackers={ imperator256422 }
+	defenders={ imperator255067 }
+	claimant = imperator256422
+}
+war = {
+	start_date = 359.2.3
+	end_date = 361.11.18
+	targeted_titles={ c_mallorca c_menorca }
+	casus_belli = claim_cb
+	attackers={ imperator240150 }
+	defenders={ imperator264044 }
+	claimant = imperator240150
+}
+war = {
+	start_date = 360.2.1
+	end_date = 361.11.18
+	targeted_titles={ c_messina }
+	casus_belli = invasion_war
+	attackers={ imperator260644 }
+	defenders={ imperator260642 }
+	claimant = imperator260644
+}
+war = {
+	start_date = 360.3.1
+	end_date = 361.11.18
+	targeted_titles={ c_tun c_behabad c_mafaza }
+	casus_belli = independence_faction_war
+	attackers={ imperator267373 }
+	defenders={ imperator245774 imperator244691 imperator246848 imperator263925 imperator245242 imperator241839 imperator241773 imperator248705 imperator249565 imperator251212 imperator242258 imperator259792 imperator241537 imperator253525 imperator255628 imperator244374 imperator257958 imperator258203 imperator245211 imperator252169 imperator259225 }
+	claimant = imperator267373
+}
+war = {
+	start_date = 360.3.1
+	end_date = 361.11.18
+	targeted_titles={ c_bampur c_kiz c_khawr }
+	casus_belli = independence_faction_war
+	attackers={ imperator267405 }
+	defenders={ imperator245774 imperator244691 imperator246848 imperator263925 imperator245242 imperator241839 imperator241773 imperator248705 imperator249565 imperator251212 imperator242258 imperator259792 imperator241537 imperator253525 imperator255628 imperator244374 imperator257958 imperator258203 imperator245211 imperator252169 imperator259225 }
+	claimant = imperator267405
+}
+war = {
+	start_date = 360.6.1
+	end_date = 361.11.18
+	targeted_titles={ c_rennes c_nantes c_anjou }
+	casus_belli = independence_faction_war
+	attackers={ imperator267513 }
+	defenders={ imperator245774 imperator255628 imperator246848 imperator263925 imperator245242 imperator241839 imperator241773 imperator244691 imperator248705 imperator249565 imperator251212 imperator242258 imperator259792 imperator241537 imperator253525 imperator244374 imperator257958 imperator258203 imperator245211 imperator252169 imperator259225 }
+	claimant = imperator267513
+}
+war = {
+	start_date = 360.12.22
+	end_date = 361.11.18
+	targeted_titles={ c_aswan c_kalabsha c_qurta c_qasr_ibrim }
+	casus_belli = claim_cb
+	attackers={ imperator258556 imperator254666 imperator250101 imperator249569 }
+	defenders={ imperator252324 }
+	claimant = imperator258556
+}

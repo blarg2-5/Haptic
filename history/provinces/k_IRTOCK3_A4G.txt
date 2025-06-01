@@ -1,0 +1,72 @@
+8297={
+	holding = city_holding
+}
+8298={
+	holding = none
+}
+8299={
+	holding = none
+}
+8300={
+	holding = city_holding
+}
+8301={
+	culture = meroitic
+	faith = nicene
+	holding = castle_holding
+}
+8308={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+8318={
+	holding = none
+}
+8319={
+	holding = none
+}
+8324={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8325={
+	holding = none
+}
+8326={
+	culture = meroitic
+	faith = nicene
+	holding = castle_holding
+}
+8328={
+	holding = none
+}
+8329={
+	holding = none
+}
+8336={
+	holding = none
+}
+8343={
+	holding = castle_holding
+}
+8344={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+8345={
+	holding = none
+}
+8346={
+	holding = none
+}
+8391={
+	holding = none
+}
+8392={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}

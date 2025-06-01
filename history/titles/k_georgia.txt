@@ -1,0 +1,15 @@
+k_georgia={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { liege = 0 }
+}
+d_albania={
+	361.11.17 = { liege = 0 }
+}
+c_hereti={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { change_development_level = 50 }
+}
+c_aran={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { change_development_level = 41 }
+}

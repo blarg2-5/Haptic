@@ -1,0 +1,53 @@
+k_hausaland={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+d_kano={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+c_kano={
+	361.1.1 = { holder = hausa_01 government = tribal_government change_development_level = 4 }
+}
+c_daura={
+	361.1.1 = { holder = hausa_01 government = tribal_government change_development_level = 3 }
+}
+c_rano={
+	361.1.1 = { holder = hausa_01 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+d_katsina={
+	361.11.17 = { liege = 0 }
+}
+c_katsina={
+	361.1.1 = { holder = hausa_02 government = tribal_government change_development_level = 3 }
+}
+c_zaria={
+	361.1.1 = { holder = hausa_02 government = tribal_government change_development_level = 3 }
+}
+c_kaduna={
+	361.1.1 = { holder = hausa_02 government = tribal_government change_development_level = 1 }
+}
+d_kebbi={
+	361.11.17 = { liege = 0 }
+}
+c_kebbi={
+	361.1.1 = { holder = hausa_03 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_sokoto={
+	361.1.1 = { holder = hausa_03 government = tribal_government change_development_level = 1 }
+}
+c_yauri={
+	361.1.1 = { holder = hausa_03 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+d_gobir={
+	361.11.17 = { liege = 0 }
+}
+c_gobir={
+	361.1.1 = { holder = mossi_01 government = tribal_government change_development_level = 0 }
+}
+c_tahoua={
+	361.1.1 = { holder = mossi_01 government = tribal_government change_development_level = 0 }
+}

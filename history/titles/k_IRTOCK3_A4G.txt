@@ -1,0 +1,38 @@
+k_IRTOCK3_A4G={
+	252.10.1 = { holder = imperator223974 government = feudal_government }
+	265.5.14 = { holder = imperator227295 government = feudal_government }
+	333.3.4 = { holder = imperator237918 government = feudal_government }
+	356.10.25 = { holder = imperator253972 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_lasta={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_amhara_holder liege = 0 }
+}
+c_lasta={
+	356.10.25 = { liege = 0 holder = imperator253972 }
+	361.2.17 = { change_development_level = 30 }
+}
+c_hayq={
+	356.10.25 = { liege = 0 holder = imperator253972 }
+	361.2.17 = { liege = k_IRTOCK3_A4G holder = imperator241284 change_development_level = 23 }
+}
+c_angot={
+	341.10.9 = { liege = 0 holder = imperator258556 }
+	361.2.17 = { change_development_level = 7 }
+}
+c_amhara={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_amhara_holder liege = d_lasta }
+}
+d_mora={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_sitti_holder liege = 0 }
+}
+c_awssa={
+	356.10.25 = { liege = 0 holder = imperator253972 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_sitti={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_sitti_holder }
+}

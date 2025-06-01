@@ -1,0 +1,137 @@
+k_kham={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+d_qamdo={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_qamdo_holder liege = 0 }
+}
+c_qamdo={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_qamdo_holder liege = "d_qamdo" }
+}
+c_dengqen={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_qamdo_holder liege = "d_qamdo" }
+}
+c_baqen={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_qamdo_holder }
+}
+c_sog={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_qamdo_holder }
+}
+c_banbar={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_qamdo_holder liege = "d_qamdo" }
+}
+d_boyul={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_bome_holder liege = 0 }
+}
+c_bome={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 4 }
+	361.11.17 = { holder = IRToCK3_c_bome_holder }
+}
+c_baxoi={
+	361.1.1 = { holder = lhomon_01 government = tribal_government }
+	361.2.17 = { change_development_level = 0 }
+}
+c_zogang={
+	361.1.1 = { holder = lhomon_01 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+d_nangqen={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_nangqen_holder liege = 0 }
+}
+c_nangqen={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_nangqen_holder }
+}
+c_gyegumdo={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_nangqen_holder }
+}
+d_lhatok={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_lhatok_holder liege = 0 }
+}
+c_lhatok={
+	361.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_lhatok_holder }
+}
+c_zhagyab={
+	361.1.1 = { holder = qiang_109 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_gonjo={
+	361.1.1 = { holder = qiang_109 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+d_lingtsang={
+	361.11.17 = { liege = 0 }
+}
+c_lingtsang={
+	361.1.1 = { holder = qiang_112 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_ariksar={
+	361.1.1 = { holder = qiang_115 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+d_dege={
+	361.11.17 = { liege = 0 }
+}
+c_dege={
+	361.1.1 = { holder = qiang_112 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_pelyul={
+	361.1.1 = { holder = qiang_118 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_garze={
+	361.1.1 = { holder = qiang_115 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+d_batang={
+	361.11.17 = { liege = 0 }
+}
+c_batang={
+	361.1.1 = { holder = qiang_121 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_markam={
+	361.1.1 = { holder = qiang_109 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_deqen={
+	361.1.1 = { holder = qiang_109 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_gyaitang={
+	361.1.1 = { holder = qiang_121 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+d_litang={
+	361.11.17 = { liege = 0 }
+}
+c_litang={
+	361.1.1 = { holder = qiang_118 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_lenggu={
+	361.1.1 = { holder = qiang_121 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_nyagrong={
+	361.1.1 = { holder = qiang_118 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}

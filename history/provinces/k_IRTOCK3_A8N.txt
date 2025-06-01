@@ -1,0 +1,68 @@
+2526={
+	holding = none
+}
+2527={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2528={
+	holding = city_holding
+}
+2529={
+	holding = none
+}
+2540={
+	holding = none
+}
+2542={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2545={
+	holding = none
+}
+2546={
+	culture = scythian
+	faith = scythian_italian
+	holding = city_holding
+	303.1.1 = { special_building_slot = apollinare_nuovo }
+}
+2547={
+	holding = church_holding
+}
+2548={
+	holding = church_holding
+}
+2549={
+	holding = none
+}
+2550={
+	holding = city_holding
+}
+2551={
+	holding = none
+}
+2552={
+	holding = none
+}
+2553={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2555={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2556={
+	holding = none
+}
+9676={
+	culture = roman
+	religion = nicene
+	holding = church_holding
+	451.1.1 = { religion = chalcedonian }
+}

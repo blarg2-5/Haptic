@@ -1,0 +1,414 @@
+9={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+10={
+	holding = none
+}
+11={
+	holding = none
+}
+12={
+	holding = none
+}
+13={
+	holding = none
+}
+14={
+	holding = none
+}
+15={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+17={
+	holding = none
+}
+18={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+19={
+	holding = none
+}
+20={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+21={
+	holding = none
+}
+22={
+	holding = none
+}
+23={
+	holding = none
+}
+24={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+25={
+	holding = none
+}
+26={
+	holding = city_holding
+}
+27={
+	holding = none
+}
+28={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+29={
+	holding = none
+}
+30={
+	holding = none
+}
+31={
+	holding = none
+}
+32={
+	holding = none
+}
+33={
+	holding = none
+}
+34={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+35={
+	holding = city_holding
+}
+36={
+	holding = none
+}
+37={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+38={
+	holding = none
+}
+39={
+	holding = church_holding
+}
+40={
+	holding = church_holding
+}
+41={
+	holding = city_holding
+}
+42={
+	holding = city_holding
+}
+43={
+	culture = briton
+	faith = irish_druidism
+	holding = castle_holding
+}
+44={
+	holding = city_holding
+}
+1675={
+	holding = none
+}
+1676={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1677={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1678={
+	holding = none
+}
+1679={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1680={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1681={
+	holding = none
+}
+1682={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1683={
+	holding = none
+}
+1684={
+	holding = none
+}
+1685={
+	holding = none
+}
+1686={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1687={
+	holding = none
+}
+1688={
+	holding = none
+}
+1689={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1690={
+	holding = none
+}
+1691={
+	holding = none
+}
+1692={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1693={
+	holding = none
+}
+1694={
+	holding = none
+}
+1695={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1696={
+	holding = none
+}
+1697={
+	holding = none
+}
+1698={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1699={
+	holding = church_holding
+}
+1700={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1701={
+	holding = none
+}
+1702={
+	holding = none
+}
+1703={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1704={
+	holding = city_holding
+}
+1705={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1706={
+	holding = none
+}
+1707={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1708={
+	holding = none
+}
+1709={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1710={
+	holding = none
+}
+1711={
+	holding = city_holding
+}
+1712={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1713={
+	holding = none
+}
+1714={
+	holding = none
+}
+1715={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1716={
+	holding = none
+}
+1717={
+	holding = none
+}
+1718={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1719={
+	holding = none
+}
+1720={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1721={
+	holding = none
+}
+1722={
+	holding = none
+}
+1723={
+	holding = none
+}
+1724={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1725={
+	holding = none
+}
+1726={
+	holding = none
+}
+1727={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1728={
+	holding = none
+}
+1729={
+	holding = none
+}
+1730={
+	holding = none
+}
+1731={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1732={
+	holding = none
+}
+1733={
+	holding = none
+}
+1734={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1735={
+	holding = none
+}
+1736={
+	holding = none
+}
+1737={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1738={
+	holding = none
+}
+1739={
+	holding = none
+}
+1740={
+	holding = none
+}
+1741={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1742={
+	holding = none
+}
+1743={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+1744={
+	holding = none
+}
+1745={
+	holding = none
+}
+8741={
+	holding = none
+}
+8742={
+	holding = none
+}
+8743={
+	holding = none
+}
+8744={
+	holding = castle_holding
+}
+8745={
+	culture = briton
+	faith = pictish_druidism
+	holding = castle_holding
+}
+8746={
+	holding = none
+}
+8747={
+	holding = none
+}
+8748={
+	holding = none
+}

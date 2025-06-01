@@ -1,0 +1,109 @@
+k_IRTOCK3_AAQ={
+	341.8.17 = { holder = imperator260688 government = feudal_government liege = e_IRTOCK3_A39 }
+	346.8.17 = { holder = imperator260664 government = republic_government }
+	351.8.17 = { holder = imperator260671 government = republic_government }
+	356.8.17 = { holder = imperator260673 government = republic_government }
+	361.2.17 = { succession_laws = { city_succession_law } }
+}
+d_swabia={
+	361.11.17 = { liege = 0 }
+}
+c_breisgau={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_ulm={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 10 }
+}
+c_wurttemberg={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 13 }
+}
+c_baden={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_zollern={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { liege = k_IRTOCK3_AAQ holder = imperator260675 change_development_level = 17 }
+}
+c_hohenberg={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_furstenberg={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_grunningen={
+	361.1.15 = { liege = 0 holder = imperator263659 }
+	361.2.17 = { change_development_level = 17 }
+}
+d_nordgau={
+	361.11.17 = { liege = 0 }
+}
+c_eichstadt={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 15 }
+}
+c_leuchtenburg={
+	359.3.22 = { liege = 0 holder = imperator253475 }
+	361.2.17 = { liege = k_IRTOCK3_E25 holder = imperator251329 change_development_level = 15 }
+}
+c_parsberg={
+	359.3.22 = { liege = 0 holder = imperator253475 }
+	361.2.17 = { change_development_level = 19 }
+}
+c_ingolstadt={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_hohenburg={
+	326.9.7 = { liege = 0 holder = imperator248916 }
+	361.2.17 = { change_development_level = 21 }
+}
+d_upper_lorraine={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_trier={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 5 }
+}
+c_nancy={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_metz={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_saarbrucken={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 8 }
+}
+c_puttlingen={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_neufchateau={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { liege = k_IRTOCK3_AAQ holder = imperator260671 change_development_level = 19 }
+}
+d_alsace={
+	361.1.1 = { change_development_level = 5 }
+	361.11.17 = { liege = 0 }
+}
+c_sundgau={
+	361.1.14 = { liege = 0 holder = imperator261244 }
+	361.2.17 = { change_development_level = 13 }
+}
+c_strassburg={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 6 }
+}
+c_colmar={
+	356.8.17 = { liege = 0 holder = imperator260673 }
+	361.2.17 = { change_development_level = 15 }
+}

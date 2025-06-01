@@ -1,0 +1,47 @@
+k_kanem={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+d_kanem={
+	361.11.17 = { liege = 0 }
+}
+c_kanem={
+	361.1.1 = { holder = kanuri_01 government = tribal_government change_development_level = 2 }
+}
+c_jimi={
+	361.1.1 = { holder = kanuri_01 government = tribal_government change_development_level = 4 }
+}
+d_bornu={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { liege = 0 }
+}
+c_bornu={
+	361.1.1 = { government = tribal_government change_development_level = 3 }
+	439.1.1 = { holder = kanuri_06 }
+}
+c_garumele={
+	361.1.1 = { holder = kanuri_04 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}
+c_yau={
+	361.1.1 = { holder = kanuri_04 government = tribal_government change_development_level = 3 }
+}
+c_munio={
+	361.1.1 = { holder = hausa_09 government = tribal_government }
+	361.11.17 = { change_development_level = 2 }
+}
+d_kagha={
+	361.11.17 = { liege = 0 }
+}
+c_kagha={
+	361.1.1 = { government = tribal_government change_development_level = 2 }
+	439.1.1 = { holder = kanuri_06 }
+}
+c_fika={
+	361.1.1 = { government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+	439.1.1 = { holder = kanuri_06 }
+}
+c_katagum={
+	361.1.1 = { holder = hausa_09 government = tribal_government change_development_level = 3 }
+}

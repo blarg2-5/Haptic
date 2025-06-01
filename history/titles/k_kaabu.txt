@@ -1,0 +1,46 @@
+k_kaabu={
+	361.11.17 = { liege = 0 }
+}
+d_kaabu={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+c_kaabu={
+	361.1.1 = { holder = mel_11 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_jara={
+	361.1.1 = { holder = wolof_01 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+d_wuli={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+c_wuli={
+	361.1.1 = { holder = wolof_04 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_saalum={
+	361.1.1 = { holder = wolof_04 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_niomi={
+	361.1.1 = { holder = wolof_01 government = tribal_government change_development_level = 0 }
+}
+d_kasa={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+c_kasa={
+	361.1.1 = { holder = mel_11 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_jame={
+	361.1.1 = { holder = wolof_01 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_geba={
+	361.1.1 = { holder = mel_11 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}

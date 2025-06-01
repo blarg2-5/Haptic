@@ -1,0 +1,550 @@
+622={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+623={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+900={
+	culture = alan
+	faith = manichean
+	holding = city_holding
+}
+901={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+903={
+	holding = city_holding
+}
+1181={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+1186={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+1423={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+1424={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+1431={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+1432={
+	holding = none
+}
+4242={
+	holding = city_holding
+}
+4243={
+	holding = none
+}
+4244={
+	holding = none
+}
+4248={
+	holding = city_holding
+}
+4384={
+	holding = none
+}
+4385={
+	holding = none
+}
+4386={
+	holding = none
+}
+4387={
+	holding = none
+}
+4388={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4389={
+	holding = none
+}
+4390={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4391={
+	holding = none
+}
+4392={
+	holding = castle_holding
+}
+4393={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4394={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+	special_building_slot = ark_of_bukhara_01
+}
+4395={
+	holding = city_holding
+}
+4396={
+	holding = city_holding
+}
+4397={
+	holding = none
+}
+4398={
+	holding = none
+}
+4399={
+	holding = none
+}
+4400={
+	holding = none
+}
+4401={
+	holding = none
+}
+4402={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4403={
+	holding = none
+}
+4404={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4405={
+	holding = none
+}
+4406={
+	holding = none
+}
+4407={
+	holding = city_holding
+}
+4408={
+	holding = none
+}
+4409={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+	100.1.1 = { special_building_slot = temples_of_panikant }
+}
+4410={
+	holding = city_holding
+}
+4411={
+	holding = none
+}
+4412={
+	holding = none
+}
+4413={
+	holding = none
+}
+4414={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4416={
+	holding = city_holding
+}
+4417={
+	holding = none
+}
+4418={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4419={
+	holding = none
+}
+4420={
+	holding = none
+}
+4421={
+	holding = none
+}
+4422={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4423={
+	holding = none
+}
+4424={
+	holding = none
+}
+4425={
+	holding = none
+}
+4426={
+	holding = church_holding
+}
+4427={
+	holding = church_holding
+}
+4428={
+	holding = none
+}
+4429={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4430={
+	holding = city_holding
+}
+4431={
+	holding = church_holding
+}
+4432={
+	holding = city_holding
+}
+4433={
+	holding = none
+}
+4434={
+	holding = none
+}
+4435={
+	holding = none
+}
+4436={
+	holding = city_holding
+}
+4437={
+	holding = city_holding
+}
+4438={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+4439={
+	holding = city_holding
+}
+7090={
+	holding = none
+}
+7091={
+	holding = none
+}
+7092={
+	holding = city_holding
+}
+7094={
+	holding = city_holding
+}
+7095={
+	holding = none
+}
+7096={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7097={
+	holding = none
+}
+7098={
+	holding = city_holding
+}
+7099={
+	holding = none
+}
+7100={
+	holding = none
+}
+7101={
+	holding = none
+}
+7102={
+	holding = none
+}
+7103={
+	culture = alan
+	faith = scythian_aral
+	holding = city_holding
+}
+7104={
+	culture = alan
+	faith = scythian_aral
+	holding = city_holding
+}
+7105={
+	holding = none
+}
+7106={
+	holding = none
+}
+7107={
+	holding = none
+}
+7108={
+	holding = none
+}
+7109={
+	holding = city_holding
+}
+7110={
+	holding = city_holding
+}
+7111={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7112={
+	holding = none
+}
+7113={
+	holding = city_holding
+}
+7114={
+	holding = none
+}
+7115={
+	holding = none
+}
+7116={
+	holding = none
+}
+7117={
+	holding = none
+}
+7118={
+	holding = city_holding
+}
+7119={
+	holding = none
+}
+7120={
+	holding = none
+}
+7121={
+	holding = none
+}
+7122={
+	holding = none
+}
+7123={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7124={
+	holding = none
+}
+7125={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7126={
+	holding = none
+}
+7127={
+	holding = none
+}
+7128={
+	holding = city_holding
+}
+7129={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7130={
+	holding = none
+}
+7131={
+	holding = none
+}
+7132={
+	holding = none
+}
+7133={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7134={
+	holding = none
+}
+7135={
+	holding = none
+}
+7136={
+	holding = none
+}
+7137={
+	holding = none
+}
+7138={
+	holding = none
+}
+7139={
+	holding = none
+}
+7140={
+	holding = city_holding
+}
+7141={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7142={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7143={
+	holding = none
+}
+7144={
+	holding = none
+}
+7145={
+	holding = none
+}
+7146={
+	holding = none
+}
+7147={
+	holding = none
+}
+7148={
+	holding = none
+}
+7149={
+	holding = none
+}
+7150={
+	holding = none
+}
+7151={
+	culture = tocharian
+	faith = tengri_pagan
+	holding = none
+}
+7152={
+	holding = none
+}
+7153={
+	holding = city_holding
+}
+7154={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7155={
+	holding = none
+}
+7156={
+	holding = none
+}
+7157={
+	culture = scythian
+	faith = scythian_aral
+	holding = none
+}
+7158={
+	holding = none
+}
+7159={
+	holding = none
+}
+7160={
+	holding = none
+}
+7161={
+	holding = city_holding
+}
+7162={
+	culture = scythian
+	faith = scythian_aral
+	holding = none
+}
+7163={
+	culture = tocharian
+	faith = tengri_pagan
+	holding = none
+}
+7164={
+	culture = scythian
+	faith = scythian_aral
+	holding = city_holding
+}
+7165={
+	holding = none
+}
+7166={
+	holding = none
+}
+7167={
+	holding = none
+}
+7168={
+	culture = tocharian
+	faith = tengri_pagan
+	holding = none
+}
+7169={
+	holding = none
+}
+7170={
+	holding = none
+}
+7171={
+	holding = none
+}
+7172={
+	holding = none
+}
+7173={
+	culture = tiele
+	religion = tengri_pagan
+	holding = tribal_holding
+	934.1.1 = { religion = sunni }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7174={
+	holding = none
+}
+7216={
+	holding = city_holding
+}
+7217={
+	holding = city_holding
+}

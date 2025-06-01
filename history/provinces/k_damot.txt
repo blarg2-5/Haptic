@@ -1,0 +1,132 @@
+8355={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8356={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8357={
+	holding = none
+}
+8358={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8359={
+	holding = none
+}
+8360={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8361={
+	holding = none
+}
+8362={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8363={
+	holding = none
+}
+8364={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8365={
+	holding = none
+}
+8368={
+	holding = none
+}
+8369={
+	holding = none
+}
+8370={
+	holding = none
+}
+8373={
+	holding = none
+}
+8374={
+	holding = none
+}
+8375={
+	holding = none
+}
+8376={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8377={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8379={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8380={
+	holding = none
+}
+8381={
+	holding = none
+}
+8385={
+	holding = none
+}
+8387={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8388={
+	holding = none
+}
+8389={
+	holding = none
+}
+8390={
+	holding = none
+}
+8433={
+	holding = none
+}
+8434={
+	holding = none
+}
+8435={
+	culture = ethiopian
+	faith = egyptian_pagan
+	holding = none
+}
+8436={
+	holding = none
+}
+8437={
+	holding = none
+}
+8438={
+	holding = none
+}
+8450={
+	holding = none
+}
+8517={
+	culture = himyarite
+	faith = arabic_pagan
+	holding = none
+}
+8518={
+	holding = none
+}

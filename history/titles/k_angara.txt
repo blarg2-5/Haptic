@@ -1,0 +1,76 @@
+k_angara={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_yenisei_kan={
+	361.11.17 = { liege = 0 }
+}
+c_krasnoyarsk={
+	361.1.1 = { holder = yeniseian_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_mana={
+	361.1.1 = { holder = yeniseian_03 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_shishina={
+	361.1.1 = { holder = yeniseian_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kansk={
+	361.1.1 = { holder = yeniseian_03 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tagul={
+	361.1.1 = { holder = yeniseian_03 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_chuna_valley={
+	361.11.17 = { liege = 0 }
+}
+c_chuna={
+	361.1.1 = { holder = yeniseian_03 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_bratsk={
+	361.1.1 = { holder = yeniseian_06 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tulun={
+	361.1.1 = { holder = yeniseian_06 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_lena={
+	361.11.17 = { liege = 0 }
+}
+c_lena={
+	361.1.1 = { holder = yeniseian_12 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ilga={
+	361.1.1 = { holder = yeniseian_12 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_gatsuurgazar={
+	361.1.1 = { holder = yeniseian_12 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_angara={
+	361.11.17 = { liege = 0 }
+}
+c_kitoi={
+	361.1.1 = { holder = yeniseian_09 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kymyl_tey={
+	361.1.1 = { holder = yeniseian_06 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_okangara={
+	361.1.1 = { holder = yeniseian_06 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kada={
+	361.1.1 = { holder = yeniseian_09 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

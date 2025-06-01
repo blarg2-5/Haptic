@@ -1,0 +1,42 @@
+k_takrur={
+	361.11.17 = { liege = 0 }
+}
+d_takrur={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_takrur_holder liege = 0 }
+}
+c_takrur={
+	361.11.17 = { holder = IRToCK3_c_takrur_holder change_development_level = 0 }
+}
+c_podor={
+	361.11.17 = { holder = IRToCK3_c_takrur_holder change_development_level = 0 }
+}
+c_dhraina={
+	361.11.17 = { holder = IRToCK3_c_takrur_holder change_development_level = 0 }
+}
+d_silla={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_silla_holder liege = 0 }
+}
+c_silla={
+	361.11.17 = { holder = IRToCK3_c_silla_holder change_development_level = 0 }
+}
+c_jowol={
+	361.11.17 = { holder = IRToCK3_c_silla_holder change_development_level = 0 }
+}
+c_galam={
+	361.11.17 = { holder = IRToCK3_c_silla_holder change_development_level = 0 }
+}
+d_djolof={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_jolof_holder liege = 0 }
+}
+c_jolof={
+	361.11.17 = { holder = IRToCK3_c_jolof_holder change_development_level = 0 }
+}
+c_namandiru={
+	361.11.17 = { holder = IRToCK3_c_jolof_holder change_development_level = 0 }
+}
+c_kayor={
+	361.11.17 = { holder = IRToCK3_c_jolof_holder change_development_level = 0 }
+}
+c_baol={
+	361.11.17 = { holder = IRToCK3_c_jolof_holder change_development_level = 0 }
+}

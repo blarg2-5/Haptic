@@ -1,0 +1,267 @@
+1760={
+	holding = none
+}
+1761={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1762={
+	holding = none
+}
+1763={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1764={
+	holding = none
+}
+1765={
+	holding = none
+}
+1766={
+	holding = none
+}
+1767={
+	holding = church_holding
+}
+1781={
+	holding = church_holding
+}
+1782={
+	holding = church_holding
+}
+1783={
+	holding = none
+}
+1784={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+1785={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1786={
+	holding = none
+}
+1787={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+	100.1.1 = { special_building_slot = tower_of_hercules }
+}
+1788={
+	holding = none
+}
+1789={
+	holding = city_holding
+}
+1790={
+	holding = none
+}
+1791={
+	holding = none
+}
+1792={
+	holding = city_holding
+	special_building_slot = roman_wall_of_lugo_01
+}
+1793={
+	holding = none
+}
+1794={
+	holding = none
+}
+1795={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+1796={
+	holding = city_holding
+}
+1797={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+1798={
+	holding = none
+}
+1799={
+	holding = none
+}
+1800={
+	holding = none
+}
+1801={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1802={
+	holding = none
+}
+1812={
+	holding = none
+}
+1813={
+	holding = none
+}
+1814={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1815={
+	holding = city_holding
+}
+1816={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1817={
+	holding = church_holding
+}
+1818={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1819={
+	holding = none
+}
+1820={
+	holding = none
+}
+1821={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1822={
+	holding = city_holding
+}
+1823={
+	holding = none
+}
+1824={
+	holding = none
+}
+1825={
+	holding = none
+}
+1826={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+1827={
+	holding = city_holding
+}
+1828={
+	holding = castle_holding
+}
+1829={
+	holding = none
+}
+1894={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1895={
+	holding = none
+}
+1896={
+	holding = castle_holding
+}
+1897={
+	culture = cantabrian
+	faith = carthage_pagan
+	holding = castle_holding
+}
+1898={
+	holding = castle_holding
+}
+1899={
+	holding = church_holding
+}
+1900={
+	holding = city_holding
+}
+1901={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1904={
+	holding = none
+}
+1905={
+	holding = none
+}
+1906={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1907={
+	holding = church_holding
+}
+1908={
+	holding = none
+}
+1909={
+	holding = none
+}
+1910={
+	holding = none
+}
+1911={
+	holding = none
+}
+1912={
+	culture = lusoiberian
+	faith = druidism
+	holding = castle_holding
+}
+1913={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1914={
+	holding = none
+}
+1915={
+	culture = cantabrian
+	faith = nicene
+	holding = castle_holding
+}
+1916={
+	holding = none
+}
+1921={
+	holding = none
+}
+1922={
+	holding = none
+}
+1924={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+	special_building_slot = alcazar_of_segovia_01
+}
+1925={
+	holding = none
+}
+1926={
+	holding = none
+}

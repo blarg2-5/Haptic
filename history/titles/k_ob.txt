@@ -1,0 +1,142 @@
+k_ob={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_salair={
+	361.11.17 = { liege = 0 }
+}
+c_ob={
+	361.1.1 = { holder = ob_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_biia={
+	360.1.1 = { holder = hun_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_torema={
+	361.1.1 = { holder = ob_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sorok={
+	360.1.1 = { holder = hun_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kondoma={
+	360.1.1 = { holder = hun_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kyin={
+	360.1.1 = { holder = hun_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_aley={
+	360.1.1 = { holder = turuhe_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_korgon={
+	360.1.1 = { holder = turuhe_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_terektai={
+	360.1.1 = { holder = turuhe_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tavan_bogd={
+	360.1.1 = { holder = turuhe_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_ala_tau={
+	361.11.17 = { liege = 0 }
+}
+c_tomsk={
+	361.1.1 = { holder = ob_04 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kiia={
+	360.1.1 = { holder = mengchan_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_taskyl={
+	360.1.1 = { holder = mengchan_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kojuk={
+	360.1.1 = { holder = mengchan_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_chulym={
+	360.1.1 = { holder = mengchan_1 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_narim={
+	361.1.1 = { holder = ob_04 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sochur={
+	361.1.1 = { holder = ob_04 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_yenisei={
+	361.1.1 = { holder = yeniseian_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_vasyugan_mire={
+	361.11.17 = { liege = 0 }
+}
+c_vasyugan={
+	361.1.1 = { holder = ob_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_umiai={
+	361.1.1 = { holder = ob_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tartas_SIB={
+	361.1.1 = { holder = ob_10 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_chich={
+	361.1.1 = { holder = ob_10 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_baraba_steppe={
+	361.11.17 = { liege = 0 }
+}
+c_kolyvan={
+	361.1.1 = { holder = ob_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sartlan={
+	361.1.1 = { holder = ob_13 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ubins={
+	361.1.1 = { holder = ob_13 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_igaran={
+	361.1.1 = { holder = ob_07 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_konda_ob={
+	361.1.1 = { holder = ob_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_kulyndy_steppe={
+	361.11.17 = { liege = 0 holder = IRToCK3_c_kuchuk_holder government = tribal_government }
+}
+c_kulunda={
+	361.1.1 = { holder = ob_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_barnaul={
+	361.1.1 = { holder = ob_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kachu={
+	361.1.1 = { holder = ob_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kuchuk={
+	361.11.17 = { holder = IRToCK3_c_kuchuk_holder change_development_level = 0 }
+}

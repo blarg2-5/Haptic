@@ -1,0 +1,108 @@
+k_hellas={
+	361.1.12 = { government = administrative_government holder = imperator244029 liege = e_IRTOCK3_GTE succession_laws = { appointment_succession_law } }
+}
+d_athens={
+	361.1.1 = { change_development_level = 6 }
+	361.11.17 = { liege = 0 }
+}
+c_attica={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 38 }
+}
+c_boeotia={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 33 }
+}
+b_amfissa={
+	361.2.17 = { holder = imperator254659 }
+}
+c_euboea={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 37 }
+}
+d_achaia={
+	361.11.17 = { liege = 0 }
+}
+c_achaia={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 37 }
+}
+c_korinthos={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 38 }
+}
+c_messenia={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_laconia={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 34 }
+}
+d_aegean_islands={
+	361.11.17 = { liege = 0 }
+}
+c_naxos={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 38 }
+}
+c_abydos={
+	345.7.8 = { liege = 0 holder = imperator259225 }
+	361.2.17 = { change_development_level = 28 }
+}
+b_ilion={
+	361.2.17 = { holder = imperator258870 }
+}
+b_alexandriatroas={
+	361.2.17 = { holder = imperator258885 }
+}
+c_lesbos={
+	345.7.8 = { liege = 0 holder = imperator259225 }
+	361.2.17 = { change_development_level = 31 }
+}
+c_chios={
+	347.7.1 = { liege = 0 holder = imperator262889 }
+	361.2.17 = { change_development_level = 31 }
+}
+b_samos={
+	361.2.17 = { holder = imperator244388 }
+}
+c_rhodos={
+	359.11.14 = { liege = 0 holder = imperator250538 }
+	361.2.17 = { change_development_level = 42 }
+}
+d_epirus={
+	330.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_nicopolis={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 48 }
+}
+c_epeiros={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator242680 change_development_level = 42 }
+}
+b_konitsa={
+	361.2.17 = { holder = imperator242680 }
+}
+c_aetolia={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 28 }
+}
+c_metzovo={
+	361.1.9 = { liege = 0 holder = imperator245439 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator256528 change_development_level = 43 }
+}
+d_cephalonia={
+	330.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_cephalonia={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 40 }
+}
+c_buthrotum={
+	361.1.12 = { liege = 0 holder = imperator244029 }
+	361.2.17 = { change_development_level = 44 }
+}

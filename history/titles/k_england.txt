@@ -1,0 +1,152 @@
+k_england={
+	361.11.17 = { liege = 0 }
+}
+d_bedford={
+	361.11.17 = { liege = 0 }
+}
+c_middlesex={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_essex={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_bedford={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 12 }
+}
+c_hertfordshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 11 }
+}
+c_buckinghamshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 13 }
+}
+c_huntingdonshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 7 }
+}
+d_northumberland={
+	361.11.17 = { liege = 0 }
+}
+c_durham={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator243046 change_development_level = 11 }
+}
+c_cumberland={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 9 }
+}
+c_northumberland={
+	361.1.8 = { liege = 0 holder = imperator245727 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator243046 change_development_level = 14 }
+}
+d_lancaster={
+	361.11.17 = { liege = 0 }
+}
+c_cheshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 16 }
+}
+c_derby={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 9 }
+}
+c_lancashire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 11 }
+}
+c_westmorland={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 8 }
+}
+d_york={
+	361.11.17 = { liege = 0 }
+}
+c_lincolnshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 11 }
+}
+c_north_riding={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 12 }
+}
+c_east_riding={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 13 }
+}
+c_west_riding={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 9 }
+}
+d_norfolk={
+	361.11.17 = { liege = 0 }
+}
+c_norfolk={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_suffolk={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 16 }
+}
+c_cambridgeshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 8 }
+}
+d_hereford={
+	361.11.17 = { liege = 0 }
+}
+c_worcestershire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 16 }
+}
+c_shropshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 16 }
+}
+c_warwickshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_leicestershire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 19 }
+}
+c_nottinghamshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator242548 change_development_level = 12 }
+}
+c_staffordshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_northamptonshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 10 }
+}
+d_gloucester={
+	361.11.17 = { liege = 0 }
+}
+c_hereford={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 13 }
+}
+c_berkshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_gloucestershire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 15 }
+}
+c_wiltshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { change_development_level = 17 }
+}
+c_oxfordshire={
+	350.3.4 = { liege = 0 holder = imperator246272 }
+	361.2.17 = { liege = e_IRTOCK3_D79 holder = imperator248478 change_development_level = 14 }
+}

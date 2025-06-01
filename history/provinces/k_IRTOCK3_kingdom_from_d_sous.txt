@@ -1,0 +1,53 @@
+4723={
+	culture = briton
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4724={
+	culture = roman
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4725={
+	holding = city_holding
+}
+4726={
+	holding = none
+}
+4727={
+	culture = briton
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4728={
+	holding = none
+}
+4729={
+	holding = none
+}
+4730={
+	holding = none
+}
+4732={
+	holding = none
+}
+4735={
+	culture = briton
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4741={
+	holding = none
+}
+4755={
+	holding = none
+}
+4756={
+	holding = none
+}
+4757={
+	holding = none
+}
+4758={
+	holding = none
+}

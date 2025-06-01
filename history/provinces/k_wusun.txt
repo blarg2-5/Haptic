@@ -1,0 +1,45 @@
+1425={
+	holding = none
+}
+7199={
+	culture = wusun
+	religion = tengri_pagan
+	holding = tribal_holding
+	450.1.1 = { culture = tiele }
+	934.1.1 = { religion = sunni }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7200={
+	holding = none
+}
+7201={
+	holding = none
+}
+7202={
+	culture = wusun
+	religion = tengri_pagan
+	holding = tribal_holding
+	450.1.1 = { culture = tiele }
+	934.1.1 = { religion = sunni }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7203={
+	culture = wusun
+	religion = tengri_pagan
+	holding = tribal_holding
+	450.1.1 = { culture = tiele }
+	934.1.1 = { religion = sunni }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7204={
+	holding = none
+}
+7205={
+	holding = none
+}
+7206={
+	holding = none
+}
+7207={
+	holding = none
+}

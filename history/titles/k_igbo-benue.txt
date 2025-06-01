@@ -1,0 +1,56 @@
+k_igbo-benue={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_igboland={
+	361.11.17 = { liege = 0 }
+}
+c_igbo={
+	361.1.1 = { holder = igbo_01 government = tribal_government change_development_level = 1 }
+}
+c_idoma={
+	361.1.1 = { holder = igbo_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_igala={
+	361.1.1 = { holder = igbo_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ijaw={
+	361.1.1 = { holder = edo_01 government = tribal_government change_development_level = 1 }
+}
+c_ibibo={
+	361.1.1 = { holder = igbo_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_nupe={
+	361.11.17 = { liege = 0 }
+}
+c_nupe={
+	361.1.1 = { holder = nupe_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_guwari={
+	361.1.1 = { holder = nupe_02 government = tribal_government change_development_level = 1 }
+}
+c_opanda={
+	361.1.1 = { holder = nupe_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kyadya={
+	361.1.1 = { holder = nupe_02 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_kwararafa={
+	361.11.17 = { liege = 0 }
+}
+c_kwararafa={
+	361.1.1 = { holder = hausa_07 government = tribal_government change_development_level = 1 }
+}
+c_keffi={
+	361.1.1 = { holder = nupe_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_bauchi={
+	361.1.1 = { holder = hausa_07 government = tribal_government change_development_level = 1 }
+}

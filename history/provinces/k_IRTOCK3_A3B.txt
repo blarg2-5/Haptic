@@ -1,0 +1,25 @@
+5969={
+	culture = himyarite
+	faith = nicene
+	holding = city_holding
+}
+5971={
+	holding = city_holding
+}
+5972={
+	holding = none
+}
+5973={
+	holding = city_holding
+}
+5978={
+	holding = city_holding
+}
+5979={
+	holding = city_holding
+}
+5980={
+	culture = himyarite
+	faith = nicene
+	holding = city_holding
+}

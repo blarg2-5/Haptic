@@ -1,0 +1,26 @@
+k_IRTOCK3_AAI={
+	337.7.25 = { holder = imperator243487 government = feudal_government }
+	337.10.8 = { liege = e_IRTOCK3_A39 }
+	343.1.14 = { holder = imperator258957 government = feudal_government }
+	345.7.8 = { holder = imperator259225 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_thracesia={
+	361.11.17 = { liege = 0 }
+}
+c_lydia={
+	345.7.8 = { liege = 0 holder = imperator259225 }
+	361.2.17 = { change_development_level = 26 }
+}
+c_thyatira={
+	361.1.8 = { liege = 0 holder = imperator245083 }
+	361.2.17 = { liege = k_IRTOCK3_A7Q holder = imperator243978 change_development_level = 24 }
+}
+c_hadrianeia={
+	361.1.6 = { liege = 0 holder = imperator256904 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_chonae={
+	361.1.6 = { liege = 0 holder = imperator256904 }
+	361.2.17 = { change_development_level = 29 }
+}

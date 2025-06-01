@@ -1,0 +1,106 @@
+1426={
+	holding = none
+}
+1427={
+	holding = none
+}
+7175={
+	holding = none
+}
+7176={
+	holding = none
+}
+7177={
+	holding = none
+}
+7178={
+	culture = tiele
+	religion = tengri_pagan
+	holding = tribal_holding
+	1066.1.1 = { culture = mongol }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7179={
+	holding = none
+}
+7180={
+	holding = none
+}
+7181={
+	culture = tiele
+	religion = tengri_pagan
+	holding = tribal_holding
+	1066.1.1 = { culture = mongol }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7182={
+	holding = none
+}
+7183={
+	culture = tiele
+	religion = tengri_pagan
+	holding = tribal_holding
+	934.1.1 = { religion = sunni }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7184={
+	holding = none
+}
+7185={
+	culture = tiele
+	religion = tengri_pagan
+	holding = tribal_holding
+	934.1.1 = { religion = sunni }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7186={
+	holding = none
+}
+7187={
+	culture = tiele
+	religion = tengri_pagan
+	holding = tribal_holding
+	1066.1.1 = { culture = mongol }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7188={
+	holding = none
+}
+7189={
+	holding = none
+}
+7190={
+	holding = none
+}
+7191={
+	holding = none
+}
+7192={
+	culture = tiele
+	religion = tengri_pagan
+	holding = tribal_holding
+	1066.1.1 = { culture = mongol }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7193={
+	holding = none
+}
+7194={
+	holding = none
+}
+7195={
+	holding = none
+}
+7196={
+	holding = none
+}
+7197={
+	culture = tiele
+	religion = tengri_pagan
+	holding = tribal_holding
+	1066.1.1 = { culture = mongol }
+	1134.1.1 = { culture = khitan religion = vajrayana }
+}
+7198={
+	holding = none
+}

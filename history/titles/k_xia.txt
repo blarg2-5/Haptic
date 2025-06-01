@@ -1,0 +1,216 @@
+k_xia={
+	320.1.1 = { change_development_level = 5 }
+	320.6.25 = { government = feudal_government }
+	355.9.11 = { holder = former_liang_013 }
+}
+d_xia={
+	361.11.17 = { liege = 0 }
+}
+c_xingqing={
+	360.1.1 = { holder = liang_007 government = feudal_government liege = k_xia }
+	361.11.17 = { change_development_level = 5 }
+}
+c_shunzhou={
+	355.9.11 = { holder = former_liang_013 }
+	361.11.17 = { change_development_level = 5 }
+}
+d_wuluhai={
+	320.1.1 = { government = nomadic_government }
+	349.3.22 = { holder = xianbei_033 }
+	361.11.17 = { holder = IRToCK3_c_wuluhai_holder government = tribal_government }
+}
+c_wuluhai={
+	361.11.17 = { holder = IRToCK3_c_wuluhai_holder change_development_level = 5 }
+}
+c_wuda={
+	320.1.1 = { government = nomadic_government }
+	349.3.22 = { holder = xianbei_033 }
+	361.11.17 = { change_development_level = 5 }
+}
+d_zhenfan={
+	350.1.1 = { holder = han_misc_5 }
+	355.9.11 = { liege = k_xia }
+	361.11.17 = { holder = IRToCK3_c_tenggeli_holder government = tribal_government }
+}
+c_zhenfan={
+	350.1.1 = { holder = han_misc_5 }
+	355.9.11 = { liege = k_xia }
+	361.11.17 = { change_development_level = 5 }
+}
+c_tenggeli={
+	361.11.17 = { holder = IRToCK3_c_tenggeli_holder change_development_level = 5 }
+}
+c_alxa={
+	361.11.17 = { holder = IRToCK3_c_tenggeli_holder change_development_level = 5 }
+}
+d_liangzhou={
+	301.1.1 = { government = feudal_government }
+	355.9.11 = { holder = former_liang_013 liege = "k_xia" }
+	356.1.1 = { holder = xianbei_001 liege = 0 }
+	361.11.17 = { holder = IRToCK3_c_fanhe_holder government = feudal_government }
+}
+c_liangzhou={
+	301.1.1 = { government = feudal_government }
+	355.9.11 = { holder = former_liang_013 liege = "k_xia" }
+	356.1.1 = { holder = xianbei_001 liege = 0 }
+	361.1.1 = { change_development_level = 8 }
+}
+c_fanhe={
+	361.11.17 = { holder = IRToCK3_c_fanhe_holder change_development_level = 5 }
+}
+c_dajing={
+	355.9.11 = { holder = former_liang_013 }
+	356.1.1 = { holder = xianbei_018 liege = d_liangzhou }
+	361.11.17 = { change_development_level = 5 }
+}
+c_baiyin={
+	350.1.1 = { holder = han_misc_8 government = feudal_government }
+	361.11.17 = { change_development_level = 5 }
+}
+c_yongdeng={
+	355.9.11 = { holder = former_liang_013 }
+	356.1.1 = { holder = xianbei_015 liege = d_liangzhou }
+	361.11.17 = { change_development_level = 5 }
+}
+d_shanzhou={
+	301.1.1 = { government = feudal_government }
+	355.9.11 = { holder = former_liang_013 liege = "k_xia" }
+	360.1.1 = { holder = xianbei_028 government = tribal_government liege = 0 }
+	361.11.17 = { holder = IRToCK3_c_kuozhou_holder government = tribal_government }
+}
+c_shanzhou={
+	301.1.1 = { government = feudal_government }
+	355.9.11 = { holder = former_liang_013 liege = "k_xia" }
+	360.1.1 = { holder = xianbei_028 government = tribal_government liege = 0 }
+	361.11.17 = { change_development_level = 5 }
+}
+c_kuozhou={
+	355.9.11 = { liege = "d_shanzhou" }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_kuozhou_holder }
+}
+d_qilin={
+	361.11.17 = { liege = 0 }
+}
+c_qilin={
+	320.1.1 = { government = nomadic_government }
+	357.8.10 = { holder = xiongnu_002 government = feudal_government liege = d_ganzhou }
+	361.11.17 = { change_development_level = 5 }
+}
+c_yalong={
+	320.1.1 = { government = nomadic_government }
+	357.8.10 = { holder = xiongnu_002 government = feudal_government liege = d_ganzhou }
+	361.11.17 = { change_development_level = 5 }
+}
+d_ganzhou={
+	301.1.1 = { government = feudal_government }
+	355.9.11 = { holder = former_liang_013 liege = "k_xia" }
+	361.11.1 = { holder = former_liang_011 }
+	361.11.17 = { holder = IRToCK3_c_jinta_holder government = feudal_government }
+}
+c_ganzhou={
+	301.1.1 = { government = feudal_government }
+	355.9.11 = { holder = former_liang_013 liege = "k_xia" }
+	361.11.1 = { holder = former_liang_011 }
+	361.11.17 = { change_development_level = 5 }
+}
+c_linze={
+	361.1.1 = { holder = han_misc_7 government = feudal_government liege = d_ganzhou }
+	361.11.17 = { change_development_level = 5 }
+}
+c_gaotai={
+	350.1.1 = { holder = han_misc_6 government = feudal_government }
+	355.9.11 = { liege = d_ganzhou }
+	361.11.17 = { change_development_level = 5 }
+}
+c_jinta={
+	361.11.17 = { holder = IRToCK3_c_jinta_holder change_development_level = 5 }
+}
+c_suzhou={
+	361.1.1 = { holder = han_misc_4 government = feudal_government liege = d_ganzhou }
+	361.11.17 = { change_development_level = 5 }
+}
+c_yumen={
+	361.11.17 = { holder = IRToCK3_c_jinta_holder change_development_level = 5 }
+}
+d_yijinai={
+	361.11.17 = { government = feudal_government holder = IRToCK3_c_heihe_holder liege = 0 }
+}
+c_yijinai={
+	320.1.1 = { government = nomadic_government }
+	349.3.22 = { holder = xianbei_033 liege = d_wuluhai }
+	361.11.17 = { change_development_level = 5 }
+}
+c_wentugaole={
+	320.1.1 = { government = nomadic_government }
+	349.3.22 = { holder = xianbei_033 liege = d_wuluhai }
+	361.11.17 = { change_development_level = 5 }
+}
+c_heihe={
+	361.11.17 = { holder = IRToCK3_c_heihe_holder change_development_level = 5 }
+}
+c_mazongshan={
+	361.1.1 = { holder = western_liang_003 government = feudal_government liege = d_guiyi }
+	361.11.17 = { change_development_level = 5 }
+}
+d_guiyi={
+	301.1.1 = { government = feudal_government }
+	350.1.1 = { holder = yin_001 }
+	355.9.11 = { liege = "k_xia" }
+	361.11.17 = { holder = IRToCK3_c_changma_holder government = feudal_government }
+}
+c_guazhou={
+	301.1.1 = { government = feudal_government }
+	350.1.1 = { holder = yin_001 }
+	355.9.11 = { liege = "k_xia" }
+	361.11.17 = { change_development_level = 5 }
+}
+c_changma={
+	361.11.17 = { holder = IRToCK3_c_changma_holder change_development_level = 5 }
+}
+c_hongliuyuan={
+	361.1.1 = { holder = western_liang_043 government = feudal_government liege = d_guiyi }
+	361.11.17 = { change_development_level = 5 }
+}
+c_shazhou={
+	361.1.1 = { holder = western_liang_043 government = feudal_government liege = d_guiyi change_development_level = 8 }
+}
+c_yumenguan={
+	350.1.1 = { holder = western_liang_038 government = feudal_government liege = d_guiyi }
+	361.11.17 = { change_development_level = 5 }
+}
+c_subei={
+	361.11.17 = { holder = IRToCK3_c_changma_holder change_development_level = 5 }
+}
+d_aksay={
+	361.11.17 = { liege = 0 }
+}
+c_aksay={
+	350.1.1 = { holder = western_liang_038 government = feudal_government liege = d_guiyi }
+	361.11.17 = { change_development_level = 5 }
+}
+c_haltang={
+	350.1.1 = { holder = western_liang_038 government = feudal_government liege = d_guiyi }
+	361.11.17 = { change_development_level = 5 }
+}
+d_kara_khoja={
+	361.1.1 = { holder = yin_001 government = trade_city_state_government liege = k_xia }
+}
+c_kara_khoja={
+	361.1.1 = { holder = gaochang_placeholder_01 government = trade_city_state_government liege = d_kara_khoja change_development_level = 6 }
+}
+c_beshbalik={
+	361.1.1 = { holder = qibi_01 government = nomadic_government change_development_level = 3 }
+}
+c_yangjibaliq={
+	361.1.1 = { holder = bolouzhi_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_barkul={
+	361.1.1 = { holder = qibi_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_chamil={
+	361.1.1 = { holder = yin_001 liege = d_guiyi }
+	361.11.17 = { change_development_level = 0 }
+}

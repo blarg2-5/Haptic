@@ -1,0 +1,75 @@
+1544={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+1545={
+	holding = castle_holding
+}
+1546={
+	holding = city_holding
+}
+1547={
+	holding = none
+}
+1548={
+	holding = none
+}
+1549={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+1565={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+1566={
+	holding = none
+}
+1567={
+	holding = castle_holding
+}
+1568={
+	holding = none
+}
+1569={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+1570={
+	holding = castle_holding
+}
+1571={
+	holding = none
+}
+1572={
+	holding = none
+}
+1573={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+1574={
+	holding = none
+}
+1575={
+	holding = none
+}
+1576={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+1577={
+	holding = none
+}
+1578={
+	holding = none
+}
+1579={
+	holding = none
+}

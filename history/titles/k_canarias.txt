@@ -1,0 +1,19 @@
+k_canarias={
+	361.11.17 = { liege = 0 }
+}
+d_canarias={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+c_canarias={
+	361.1.1 = { holder = guanche_01 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_fuerteventura={
+	361.1.1 = { holder = guanche_03 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_madeira={
+	361.1.1 = { holder = guanche_05 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}

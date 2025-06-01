@@ -1,0 +1,97 @@
+740={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+753={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+755={
+	holding = city_holding
+	100.1.1 = { special_building_slot = theater_of_aspendos }
+}
+5571={
+	holding = none
+}
+5572={
+	holding = church_holding
+}
+5573={
+	holding = castle_holding
+}
+5574={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5575={
+	holding = none
+}
+5576={
+	holding = none
+}
+5577={
+	holding = castle_holding
+}
+5578={
+	holding = none
+}
+5579={
+	holding = none
+}
+5637={
+	culture = hellenistic
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5638={
+	holding = city_holding
+}
+5639={
+	holding = none
+}
+5640={
+	holding = none
+}
+5641={
+	holding = city_holding
+}
+5642={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5643={
+	holding = none
+}
+5644={
+	holding = city_holding
+}
+5645={
+	holding = city_holding
+}
+5646={
+	holding = city_holding
+}
+5647={
+	culture = isaurian
+	faith = caucasian_pagan
+	holding = city_holding
+}
+5648={
+	holding = city_holding
+}
+5649={
+	holding = city_holding
+}
+5650={
+	holding = city_holding
+}
+5683={
+	holding = none
+}
+5684={
+	holding = none
+}

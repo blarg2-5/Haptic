@@ -1,0 +1,104 @@
+k_syria={
+	361.1.1 = { change_development_level = 5 }
+	361.1.9 = { government = administrative_government holder = imperator248537 liege = e_IRTOCK3_ALB succession_laws = { appointment_succession_law } }
+}
+d_aleppo={
+	361.11.17 = { liege = 0 }
+}
+c_sukhna={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_samosata={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 45 }
+}
+c_marash={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_aintab={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { liege = k_syria holder = imperator241037 change_development_level = 51 }
+}
+b_tall_bashir={
+	361.2.17 = { holder = imperator241037 }
+}
+c_aleppo={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 45 }
+}
+c_syrrusafa={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 36 }
+}
+d_antioch={
+	361.1.1 = { change_development_level = 6 }
+	361.11.17 = { liege = 0 }
+}
+c_qinnasrin={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_antiocheia={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 39 }
+}
+d_homs={
+	361.11.17 = { liege = 0 }
+}
+c_suriya={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_shayzar={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 50 }
+}
+c_hama={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 41 }
+}
+d_palmyra={
+	361.1.1 = { change_development_level = 3 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_juwair_holder liege = 0 }
+}
+c_damascus={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 40 }
+}
+c_juwair={
+	361.2.17 = { liege = 0 change_development_level = 28 }
+	361.11.17 = { holder = IRToCK3_c_juwair_holder }
+}
+c_baalbek={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { liege = k_syria holder = imperator241493 change_development_level = 38 }
+}
+c_homs={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 46 }
+}
+c_palmyra={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { liege = k_syria holder = imperator241493 change_development_level = 41 }
+}
+c_qaryatan={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { liege = k_syria holder = imperator241493 change_development_level = 43 }
+}
+d_diyarmudar={
+	361.11.17 = { liege = 0 }
+}
+c_raqqa={
+	361.1.9 = { liege = 0 holder = imperator248537 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_harran={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_dausar={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 36 }
+}

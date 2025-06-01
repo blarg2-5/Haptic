@@ -1,0 +1,33 @@
+k_caucasus={
+	361.11.17 = { liege = 0 }
+}
+d_azov={
+	361.11.17 = { liege = 0 }
+}
+c_tmutarakan={
+	335.5.12 = { liege = 0 holder = imperator245774 }
+	361.2.17 = { liege = e_IRTOCK3_A39 holder = imperator244471 change_development_level = 39 }
+}
+c_khumar={
+	335.5.12 = { liege = 0 holder = imperator245774 }
+	361.2.17 = { change_development_level = 36 }
+}
+c_azov={
+	335.5.12 = { liege = 0 holder = imperator245774 }
+	361.2.17 = { liege = e_IRTOCK3_A39 holder = imperator244471 change_development_level = 37 }
+}
+d_ciscaucasia={
+	361.11.17 = { liege = 0 }
+}
+c_derbent={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { liege = e_IRTOCK3_ALB holder = imperator244300 change_development_level = 51 }
+}
+c_samander={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_samiran={
+	344.5.3 = { liege = 0 holder = imperator255484 }
+	361.2.17 = { change_development_level = 38 }
+}

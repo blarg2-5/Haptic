@@ -1,0 +1,32 @@
+k_IRTOCK3_D64={
+	123.2.25 = { holder = imperator184301 government = feudal_government liege = e_IRTOCK3_ALB }
+	173.2.25 = { holder = imperator185741 government = republic_government }
+	205.12.21 = { holder = imperator186407 government = republic_government }
+	207.12.5 = { holder = imperator188430 government = republic_government }
+	219.10.13 = { holder = imperator189844 government = republic_government }
+	227.11.5 = { holder = imperator193194 government = republic_government }
+	245.1.3 = { holder = imperator216206 government = republic_government }
+	273.6.27 = { holder = imperator220529 government = republic_government }
+	284.5.10 = { holder = imperator220960 government = republic_government }
+	316.9.11 = { holder = imperator223334 government = republic_government }
+	330.1.11 = { holder = imperator255179 government = republic_government }
+	337.3.19 = { holder = imperator237125 government = republic_government }
+	350.7.7 = { holder = imperator237739 government = republic_government }
+	360.7.1 = { holder = imperator247448 government = republic_government }
+	361.2.17 = { succession_laws = { city_succession_law princely_elective_succession_law } }
+}
+d_kurdistan={
+	361.11.17 = { liege = 0 }
+}
+c_irbil={
+	360.7.1 = { liege = 0 holder = imperator247448 }
+	361.2.17 = { change_development_level = 40 }
+}
+c_kurdistan={
+	360.7.1 = { liege = 0 holder = imperator247448 }
+	361.2.17 = { change_development_level = 31 }
+}
+c_shahrazur={
+	361.1.12 = { liege = 0 holder = imperator247996 }
+	361.2.17 = { change_development_level = 46 }
+}

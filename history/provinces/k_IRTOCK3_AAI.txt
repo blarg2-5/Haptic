@@ -1,0 +1,59 @@
+748={
+	holding = none
+}
+5535={
+	holding = city_holding
+}
+5536={
+	holding = city_holding
+}
+5537={
+	holding = city_holding
+}
+5538={
+	holding = city_holding
+}
+5539={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5540={
+	holding = none
+}
+5541={
+	holding = city_holding
+}
+5542={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5543={
+	holding = none
+}
+5544={
+	holding = none
+}
+5545={
+	holding = city_holding
+}
+5546={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5547={
+	holding = city_holding
+}
+5548={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5549={
+	holding = city_holding
+}
+5550={
+	holding = none
+}

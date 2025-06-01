@@ -1,0 +1,91 @@
+9399={
+	culture = qiang
+	religion = rrmeaism
+	holding = tribal_holding
+	370.1.1 = { culture = tuyuhun religion = tengri_pagan }
+}
+9402={
+	holding = none
+}
+9403={
+	culture = tuyuhun
+	religion = tengri_pagan
+	holding = tribal_holding
+	800.1.1 = { religion = lamaism }
+}
+9404={
+	culture = tuyuhun
+	religion = tengri_pagan
+	holding = tribal_holding
+	800.1.1 = { religion = lamaism }
+}
+9405={
+	holding = none
+}
+9406={
+	culture = tuyuhun
+	religion = tengri_pagan
+	holding = castle_holding
+	800.1.1 = { religion = lamaism }
+	1200.1.1 = { culture = bodpa }
+}
+9407={
+	holding = city_holding
+}
+9408={
+	holding = none
+}
+9409={
+	holding = none
+}
+9410={
+	holding = none
+}
+9411={
+	holding = none
+}
+9412={
+	holding = church_holding
+}
+9413={
+	culture = xiao_yuezhi
+	religion = rrmeaism
+	holding = castle_holding
+	400.1.1 = { culture = tuyuhun religion = tengri_pagan }
+	800.1.1 = { religion = lamaism }
+}
+9414={
+	holding = church_holding
+}
+9421={
+	culture = xiao_yuezhi
+	religion = rrmeaism
+	holding = castle_holding
+	400.1.1 = { culture = tuyuhun religion = tengri_pagan }
+	763.1.1 = { culture = bodpa religion = lamaism }
+	1104.1.1 = { culture = han religion = mahayana }
+}
+9422={
+	holding = city_holding
+}
+9423={
+	culture = tuyuhun
+	religion = tengri_pagan
+	holding = castle_holding
+	800.1.1 = { culture = bodpa religion = lamaism }
+}
+9426={
+	holding = city_holding
+}
+9427={
+	culture = tuyuhun
+	religion = tengri_pagan
+	holding = castle_holding
+	800.1.1 = { culture = bodpa religion = lamaism }
+}
+9428={
+	holding = church_holding
+}
+9468={
+	holding = none
+}

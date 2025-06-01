@@ -1,0 +1,222 @@
+472={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+473={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+474={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+475={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+476={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+	250.1.1 = { special_building_slot = patras_castle }
+}
+477={
+	holding = none
+}
+478={
+	holding = none
+}
+481={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+482={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+483={
+	culture = hellenistic
+	faith = nicene
+	holding = city_holding
+}
+484={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+485={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+486={
+	culture = scythian
+	faith = scythian_lunitic
+	holding = castle_holding
+}
+487={
+	culture = hellenistic
+	faith = scythian_lunitic
+	holding = castle_holding
+}
+744={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+3696={
+	holding = none
+}
+3697={
+	holding = none
+}
+3698={
+	holding = city_holding
+}
+3699={
+	holding = city_holding
+}
+3700={
+	holding = none
+}
+3701={
+	holding = none
+}
+3702={
+	culture = getian
+	faith = macedonianism
+	holding = castle_holding
+}
+3703={
+	holding = none
+}
+3704={
+	holding = city_holding
+}
+3705={
+	holding = none
+}
+3706={
+	holding = castle_holding
+}
+3707={
+	holding = castle_holding
+}
+3708={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3709={
+	holding = none
+}
+3710={
+	holding = city_holding
+	303.1.1 = { special_building_slot = kassiopi_castle }
+}
+3725={
+	holding = none
+}
+3726={
+	holding = city_holding
+}
+3727={
+	holding = none
+}
+3728={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3729={
+	holding = city_holding
+	303.1.1 = { special_building_slot = hosios_loukas }
+}
+3730={
+	holding = city_holding
+}
+3731={
+	holding = city_holding
+}
+3732={
+	holding = city_holding
+}
+3733={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3734={
+	holding = city_holding
+}
+3735={
+	holding = castle_holding
+}
+3736={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3737={
+	holding = city_holding
+}
+3738={
+	holding = city_holding
+}
+3740={
+	holding = church_holding
+}
+3741={
+	holding = none
+}
+3742={
+	holding = none
+}
+3748={
+	holding = none
+}
+3749={
+	holding = city_holding
+}
+3750={
+	holding = city_holding
+}
+3751={
+	holding = city_holding
+}
+3752={
+	holding = city_holding
+}
+3753={
+	holding = none
+}
+3754={
+	holding = city_holding
+}
+3755={
+	holding = city_holding
+}
+3756={
+	holding = church_holding
+}
+3757={
+	holding = none
+}
+3798={
+	holding = city_holding
+}
+3799={
+	holding = city_holding
+}
+3800={
+	holding = city_holding
+}
+3801={
+	holding = none
+}

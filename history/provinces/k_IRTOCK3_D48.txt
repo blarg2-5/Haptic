@@ -1,0 +1,71 @@
+3045={
+	culture = belgae
+	faith = druidism
+	holding = castle_holding
+}
+3057={
+	holding = castle_holding
+}
+3058={
+	culture = belgae
+	faith = druidism
+	holding = castle_holding
+}
+3059={
+	holding = none
+}
+3060={
+	holding = city_holding
+}
+3061={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+3062={
+	holding = castle_holding
+}
+3063={
+	holding = city_holding
+}
+3064={
+	culture = belgae
+	faith = druidism
+	holding = castle_holding
+}
+3065={
+	holding = castle_holding
+}
+3066={
+	holding = none
+}
+3067={
+	culture = belgae
+	faith = druidism
+	holding = castle_holding
+}
+3068={
+	culture = belgae
+	faith = druidism
+	holding = castle_holding
+}
+3069={
+	holding = none
+}
+3070={
+	holding = none
+}
+3139={
+	holding = city_holding
+}
+3144={
+	holding = none
+}
+3145={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+3146={
+	holding = none
+}

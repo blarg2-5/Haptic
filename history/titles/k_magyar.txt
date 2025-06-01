@@ -1,0 +1,24 @@
+k_magyar={
+	350.1.1 = { holder = magyar_01 government = nomadic_government }
+}
+d_saryarka={
+	361.1.1 = { holder = magyar_01 government = nomadic_government }
+	361.11.17 = { holder = IRToCK3_c_ulytau_holder government = tribal_government }
+}
+c_teniz={
+	361.1.1 = { holder = magyar_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_eghiz_kara={
+	361.1.1 = { holder = magyar_01 government = nomadic_government }
+	361.2.17 = { change_development_level = 0 }
+}
+c_ulytau={
+	361.1.1 = { holder = magyar_01 government = nomadic_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_ulytau_holder }
+}
+c_kaska={
+	361.1.1 = { holder = magyar_01 government = nomadic_government }
+	361.2.17 = { change_development_level = 0 }
+}

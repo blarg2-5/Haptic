@@ -1,0 +1,629 @@
+2080={
+	holding = none
+}
+2081={
+	holding = none
+}
+2082={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2085={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2089={
+	holding = none
+}
+2090={
+	holding = none
+}
+2091={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2092={
+	holding = none
+}
+2093={
+	holding = castle_holding
+}
+2094={
+	holding = castle_holding
+}
+2095={
+	holding = none
+}
+2096={
+	holding = none
+}
+2097={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2098={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2099={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2100={
+	holding = none
+}
+2101={
+	holding = none
+}
+2102={
+	holding = none
+}
+2104={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2110={
+	holding = none
+}
+2116={
+	holding = none
+}
+2122={
+	holding = none
+}
+2352={
+	culture = gallo_roman
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2355={
+	holding = castle_holding
+}
+2359={
+	culture = gallo_roman
+	faith = nicene
+	holding = castle_holding
+}
+2361={
+	holding = none
+}
+2362={
+	holding = none
+}
+2363={
+	culture = gallo_roman
+	faith = nicene
+	holding = castle_holding
+}
+2364={
+	holding = none
+}
+2365={
+	holding = none
+}
+2366={
+	holding = none
+}
+2367={
+	holding = none
+}
+2368={
+	holding = none
+}
+2369={
+	holding = none
+}
+2370={
+	holding = none
+}
+2371={
+	culture = belgae
+	faith = nicene
+	holding = tribal_holding
+}
+2372={
+	holding = none
+}
+2373={
+	holding = none
+}
+2375={
+	holding = none
+}
+2387={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2388={
+	holding = none
+}
+2389={
+	holding = none
+}
+2390={
+	culture = briton
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2391={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2392={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2393={
+	culture = gallo_roman
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2394={
+	holding = castle_holding
+}
+2395={
+	holding = none
+}
+2396={
+	holding = none
+}
+2448={
+	holding = castle_holding
+}
+2449={
+	holding = city_holding
+}
+2683={
+	holding = none
+}
+2684={
+	holding = none
+}
+2686={
+	holding = none
+}
+2687={
+	holding = none
+}
+2692={
+	holding = none
+}
+2693={
+	holding = none
+}
+2694={
+	culture = ripurian
+	faith = central_pagan
+	holding = city_holding
+}
+2695={
+	holding = none
+}
+2699={
+	holding = city_holding
+}
+2701={
+	holding = none
+}
+2706={
+	culture = scythian
+	faith = gaulish_pagan
+	holding = castle_holding
+}
+2707={
+	holding = none
+}
+2724={
+	holding = city_holding
+}
+2727={
+	holding = none
+}
+2728={
+	holding = none
+}
+2729={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2730={
+	holding = none
+}
+2731={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2732={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2733={
+	holding = none
+}
+2735={
+	holding = city_holding
+}
+2736={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2737={
+	holding = none
+}
+2738={
+	holding = none
+}
+2739={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2741={
+	holding = none
+}
+2742={
+	holding = none
+}
+2743={
+	holding = none
+}
+2744={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2745={
+	holding = none
+}
+2772={
+	holding = none
+}
+2851={
+	holding = none
+}
+2852={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2853={
+	holding = none
+}
+2854={
+	holding = none
+}
+2855={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2856={
+	holding = none
+}
+2857={
+	holding = none
+}
+2858={
+	holding = none
+}
+2859={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2860={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2861={
+	holding = none
+}
+2862={
+	culture = scythian
+	faith = druidism
+	holding = castle_holding
+}
+2863={
+	holding = none
+}
+2864={
+	holding = none
+}
+2865={
+	holding = none
+}
+2866={
+	holding = none
+}
+2867={
+	holding = none
+}
+2868={
+	holding = none
+}
+2869={
+	holding = none
+}
+2870={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2871={
+	holding = none
+}
+2872={
+	holding = none
+}
+2873={
+	holding = none
+}
+2874={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2875={
+	culture = belgae
+	faith = scythian_germanic
+	holding = castle_holding
+}
+2876={
+	holding = city_holding
+}
+2877={
+	culture = ripurian
+	faith = druidism
+	holding = castle_holding
+}
+2880={
+	holding = city_holding
+}
+2885={
+	holding = none
+}
+2886={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2887={
+	holding = none
+}
+2888={
+	holding = none
+}
+2889={
+	culture = scythian
+	faith = scythian_germanic
+	holding = city_holding
+}
+2890={
+	holding = none
+}
+2891={
+	holding = none
+}
+2892={
+	holding = city_holding
+}
+2906={
+	culture = old_suebi
+	faith = central_pagan
+	holding = castle_holding
+}
+2915={
+	holding = none
+}
+2916={
+	culture = old_suebi
+	faith = central_pagan
+	holding = castle_holding
+}
+2917={
+	holding = none
+}
+2918={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+	361.1.1 = { special_building_slot = rammelsberg_mines_01 }
+}
+2919={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2920={
+	holding = none
+}
+2921={
+	holding = none
+}
+2922={
+	holding = none
+}
+2923={
+	holding = none
+}
+2924={
+	culture = ripurian
+	faith = druidism
+	holding = castle_holding
+}
+2925={
+	holding = none
+}
+2926={
+	holding = none
+}
+2927={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2928={
+	holding = none
+}
+2931={
+	holding = none
+}
+2932={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2933={
+	holding = none
+}
+2934={
+	holding = none
+}
+2935={
+	holding = none
+}
+2936={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+2992={
+	holding = none
+}
+2995={
+	holding = none
+}
+2997={
+	holding = castle_holding
+}
+2998={
+	culture = ripurian
+	faith = druidism
+	holding = castle_holding
+}
+2999={
+	holding = none
+}
+3000={
+	holding = castle_holding
+}
+3001={
+	holding = none
+}
+3003={
+	culture = ripurian
+	faith = druidism
+	holding = castle_holding
+}
+3004={
+	holding = none
+}
+3005={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+3006={
+	holding = none
+}
+3007={
+	holding = none
+}
+3008={
+	holding = none
+}
+3009={
+	holding = none
+}
+3010={
+	culture = ripurian
+	faith = druidism
+	holding = castle_holding
+}
+3012={
+	culture = ripurian
+	faith = druidism
+	holding = castle_holding
+}
+3013={
+	holding = none
+}
+3014={
+	holding = none
+}
+3015={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+3016={
+	holding = none
+}
+3017={
+	holding = none
+}
+3018={
+	holding = none
+}
+3019={
+	holding = none
+}
+3020={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+3021={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+3023={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+3024={
+	holding = none
+}
+3025={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+3027={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}
+3028={
+	holding = none
+}
+3030={
+	culture = ripurian
+	faith = druidism
+	holding = castle_holding
+}
+3038={
+	holding = none
+}
+3039={
+	culture = gallo_roman
+	faith = druidism
+	holding = castle_holding
+}

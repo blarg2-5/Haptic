@@ -1,0 +1,57 @@
+511={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+513={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+541={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5019={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5020={
+	holding = none
+}
+5021={
+	culture = scythian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5022={
+	holding = none
+}
+5023={
+	holding = none
+}
+5024={
+	holding = none
+}
+5025={
+	holding = none
+}
+5026={
+	holding = none
+}
+5027={
+	holding = none
+}
+5028={
+	holding = none
+}
+5029={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5030={
+	holding = none
+}

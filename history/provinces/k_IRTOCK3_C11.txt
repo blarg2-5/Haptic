@@ -1,0 +1,330 @@
+2968={
+	holding = none
+}
+2969={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+3040={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3041={
+	holding = none
+}
+3042={
+	culture = old_suebi
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3043={
+	holding = none
+}
+3044={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3046={
+	holding = none
+}
+3047={
+	holding = none
+}
+3048={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+3049={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+3050={
+	holding = none
+}
+3051={
+	holding = none
+}
+3052={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3053={
+	holding = castle_holding
+}
+3054={
+	holding = none
+}
+3055={
+	holding = castle_holding
+}
+3056={
+	holding = castle_holding
+}
+3072={
+	holding = castle_holding
+}
+3073={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+3074={
+	holding = none
+}
+3075={
+	holding = city_holding
+}
+3076={
+	holding = city_holding
+}
+3077={
+	holding = city_holding
+}
+3078={
+	holding = city_holding
+}
+3079={
+	holding = none
+}
+3080={
+	holding = none
+}
+3081={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+3082={
+	holding = none
+}
+3084={
+	holding = city_holding
+}
+3085={
+	holding = none
+}
+3086={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+3087={
+	holding = castle_holding
+}
+3088={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+3089={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+3090={
+	holding = castle_holding
+}
+3091={
+	holding = city_holding
+}
+3093={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+3094={
+	holding = none
+}
+3122={
+	holding = none
+}
+3124={
+	holding = none
+}
+4125={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4126={
+	holding = none
+}
+4127={
+	holding = none
+}
+4128={
+	holding = none
+}
+4129={
+	culture = ripurian
+	faith = central_pagan
+	holding = castle_holding
+}
+4130={
+	holding = none
+}
+4131={
+	holding = none
+}
+4132={
+	holding = none
+}
+4133={
+	holding = city_holding
+}
+4134={
+	holding = city_holding
+}
+4135={
+	holding = none
+}
+4136={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4137={
+	holding = none
+}
+4138={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4139={
+	holding = none
+}
+4140={
+	holding = none
+}
+4141={
+	holding = none
+}
+4142={
+	holding = none
+}
+4143={
+	holding = none
+}
+4144={
+	holding = city_holding
+}
+4145={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4146={
+	holding = city_holding
+}
+4147={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4148={
+	holding = none
+}
+4149={
+	holding = city_holding
+}
+4150={
+	holding = city_holding
+}
+4151={
+	holding = castle_holding
+}
+4152={
+	holding = city_holding
+}
+4153={
+	holding = none
+}
+4154={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4155={
+	holding = none
+}
+4156={
+	holding = none
+}
+4157={
+	holding = castle_holding
+}
+4158={
+	holding = city_holding
+}
+4159={
+	holding = none
+}
+4160={
+	holding = city_holding
+}
+4161={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4162={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4163={
+	holding = none
+}
+4164={
+	holding = none
+}
+4165={
+	culture = old_suebi
+	faith = central_pagan
+	holding = castle_holding
+}
+4166={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4167={
+	holding = none
+}
+4168={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+4169={
+	holding = none
+}
+4170={
+	holding = none
+}
+4181={
+	holding = castle_holding
+}
+4182={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4183={
+	holding = none
+}
+4184={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+8999={
+	holding = none
+}

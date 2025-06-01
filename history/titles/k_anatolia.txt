@@ -1,0 +1,43 @@
+k_anatolia={
+	361.1.1 = { change_development_level = 5 }
+	361.1.6 = { government = administrative_government holder = imperator256904 liege = e_IRTOCK3_ALB succession_laws = { appointment_succession_law } }
+}
+d_cibyrrhaeot={
+	361.11.17 = { liege = 0 }
+}
+c_pamphylia={
+	361.1.6 = { liege = 0 holder = imperator256904 }
+	361.2.17 = { change_development_level = 40 }
+}
+b_anemurium={
+	361.2.17 = { holder = imperator259924 }
+}
+c_lycia={
+	361.1.7 = { liege = 0 holder = imperator256903 }
+	361.2.17 = { change_development_level = 34 }
+}
+b_olbasa={
+	361.2.17 = { holder = imperator259176 }
+}
+c_caria={
+	360.9.20 = { liege = 0 holder = imperator258417 }
+	361.2.17 = { change_development_level = 31 }
+}
+b_cibyra={
+	361.2.17 = { holder = imperator247059 }
+}
+d_bucellaria={
+	361.11.17 = { liege = 0 }
+}
+c_honorias={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { change_development_level = 37 }
+}
+c_hadrianopolis={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { change_development_level = 35 }
+}
+c_galatia={
+	361.1.6 = { liege = 0 holder = imperator256904 }
+	361.2.17 = { change_development_level = 42 }
+}

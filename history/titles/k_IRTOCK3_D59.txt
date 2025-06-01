@@ -1,0 +1,37 @@
+k_IRTOCK3_D59={
+	104.4.1 = { holder = imperator180925 government = feudal_government }
+	149.8.10 = { holder = imperator183032 government = feudal_government }
+	161.10.9 = { holder = imperator186095 government = feudal_government }
+	203.4.6 = { holder = imperator199709 government = feudal_government }
+	255.12.8 = { holder = imperator206357 government = feudal_government }
+	256.5.22 = { holder = imperator213188 government = feudal_government }
+	273.9.9 = { holder = imperator232652 government = feudal_government }
+	345.11.3 = { holder = imperator239567 government = feudal_government }
+	353.4.18 = { holder = imperator251250 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_jylland={
+	361.11.17 = { liege = 0 }
+}
+c_aarhus={
+	353.4.18 = { liege = 0 holder = imperator251250 }
+	361.2.17 = { change_development_level = 11 }
+}
+b_jelling={
+	361.2.17 = { holder = imperator239999 }
+}
+c_viborg={
+	353.4.18 = { liege = 0 holder = imperator251250 }
+	361.2.17 = { change_development_level = 45 }
+}
+c_ringkobing={
+	353.4.18 = { liege = 0 holder = imperator251250 }
+	361.2.17 = { liege = k_IRTOCK3_D59 holder = imperator243043 change_development_level = 39 }
+}
+c_aalborg={
+	353.4.18 = { liege = 0 holder = imperator251250 }
+	361.2.17 = { change_development_level = 39 }
+}
+b_lindholm={
+	361.2.17 = { holder = imperator242900 }
+}

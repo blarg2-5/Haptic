@@ -1,0 +1,121 @@
+k_IRTOCK3_E18={
+	169.12.2 = { holder = imperator183066 government = feudal_government }
+	195.7.12 = { holder = imperator194478 government = feudal_government }
+	208.12.16 = { holder = imperator204244 government = feudal_government }
+	262.2.13 = { holder = imperator219168 government = feudal_government }
+	306.6.19 = { holder = imperator243113 government = feudal_government }
+	340.8.12 = { holder = imperator255095 government = feudal_government }
+	347.5.28 = { holder = imperator234602 government = feudal_government }
+	350.10.26 = { holder = imperator242752 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_nepal={
+	361.1.1 = { change_development_level = 6 }
+	361.11.17 = { liege = 0 }
+}
+c_kathmandu={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { change_development_level = 21 }
+}
+c_bhaktapur={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_janakpur={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator241820 change_development_level = 19 }
+}
+d_limbuwan={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { liege = 0 }
+}
+c_ilam={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { change_development_level = 19 }
+}
+c_yangwarok={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator241820 change_development_level = 20 }
+}
+c_khotang={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator241820 change_development_level = 19 }
+}
+d_gauda={
+	361.1.1 = { change_development_level = 7 }
+	361.11.17 = { liege = 0 }
+}
+c_laksmanavati={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator241820 change_development_level = 28 }
+}
+c_kotivarsa={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator241820 change_development_level = 25 }
+}
+b_devkot={
+	361.2.17 = { holder = imperator241820 }
+}
+c_gauda={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator243047 change_development_level = 30 }
+}
+c_radha={
+	361.1.9 = { liege = 0 holder = imperator240537 }
+	361.2.17 = { liege = k_IRTOCK3_A66 holder = imperator241163 change_development_level = 27 }
+}
+d_varendra={
+	361.1.1 = { change_development_level = 6 }
+	361.11.17 = { liege = 0 }
+}
+c_pundravardhana={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { change_development_level = 26 }
+}
+c_suvarnagram={
+	319.4.22 = { liege = 0 holder = imperator250220 }
+	361.2.17 = { change_development_level = 24 }
+}
+c_madhupur={
+	319.4.22 = { liege = 0 holder = imperator250220 }
+	361.2.17 = { change_development_level = 42 }
+}
+d_tirabhukti={
+	361.1.1 = { change_development_level = 8 }
+	361.11.17 = { liege = 0 }
+}
+c_mithila={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { change_development_level = 29 }
+}
+c_simaramapura={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator241873 change_development_level = 34 }
+}
+c_kusinagara={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { change_development_level = 28 }
+}
+c_bangaon={
+	361.1.9 = { liege = 0 holder = imperator240537 }
+	361.2.17 = { change_development_level = 32 }
+}
+d_paro={
+	361.11.17 = { liege = 0 }
+}
+c_paro={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator243047 change_development_level = 25 }
+}
+c_punakha={
+	326.3.6 = { liege = 0 holder = imperator245741 }
+	361.2.17 = { liege = k_lhomon holder = imperator244548 change_development_level = 14 }
+}
+c_daramdin={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator241820 change_development_level = 16 }
+}
+c_chungthang={
+	350.10.26 = { liege = 0 holder = imperator242752 }
+	361.2.17 = { liege = k_IRTOCK3_E18 holder = imperator243047 change_development_level = 25 }
+}

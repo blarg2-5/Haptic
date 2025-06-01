@@ -1,0 +1,30 @@
+9212={
+	culture = sumpa
+	faith = old_bon
+	holding = none
+}
+9213={
+	holding = none
+}
+9214={
+	holding = none
+}
+9215={
+	culture = sumpa
+	faith = old_bon
+	holding = none
+}
+9216={
+	culture = sumpa
+	faith = old_bon
+	holding = none
+}
+9217={
+	holding = none
+}
+9218={
+	holding = none
+}
+9222={
+	holding = none
+}

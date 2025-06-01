@@ -1,0 +1,19 @@
+1746={
+	holding = none
+}
+1747={
+	culture = briton
+	faith = nicene
+	holding = castle_holding
+}
+1748={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}
+1749={
+	holding = none
+}
+1750={
+	holding = none
+}

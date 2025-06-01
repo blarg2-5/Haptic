@@ -1,0 +1,291 @@
+550={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+551={
+	holding = none
+}
+552={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+553={
+	holding = none
+}
+554={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+555={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+567={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+568={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+569={
+	holding = city_holding
+}
+576={
+	holding = none
+}
+587={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+933={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5102={
+	holding = none
+}
+5103={
+	holding = none
+}
+5104={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5105={
+	holding = city_holding
+}
+5106={
+	holding = none
+}
+5107={
+	holding = city_holding
+}
+5108={
+	holding = castle_holding
+}
+5109={
+	culture = dnieper
+	faith = scythian
+	holding = castle_holding
+}
+5110={
+	holding = church_holding
+}
+5111={
+	holding = city_holding
+}
+5123={
+	holding = none
+}
+5124={
+	holding = none
+}
+5125={
+	holding = none
+}
+5126={
+	holding = none
+}
+5127={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5128={
+	holding = city_holding
+}
+5170={
+	culture = dnieper
+	faith = scythian
+	holding = city_holding
+}
+5171={
+	holding = none
+}
+5172={
+	holding = none
+}
+5178={
+	holding = none
+}
+5179={
+	holding = none
+}
+5180={
+	holding = castle_holding
+}
+5181={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5182={
+	holding = church_holding
+}
+5183={
+	holding = none
+}
+5184={
+	holding = none
+}
+5185={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5186={
+	holding = none
+}
+5187={
+	holding = none
+}
+5188={
+	holding = none
+}
+5189={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5190={
+	holding = none
+}
+5191={
+	holding = none
+}
+5192={
+	holding = city_holding
+}
+5193={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5194={
+	holding = none
+}
+5195={
+	holding = none
+}
+5196={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5197={
+	holding = none
+}
+5198={
+	holding = city_holding
+}
+5199={
+	holding = none
+}
+5200={
+	holding = none
+}
+5201={
+	holding = none
+}
+5202={
+	holding = none
+}
+5203={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5204={
+	holding = none
+}
+5205={
+	holding = none
+}
+5206={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5207={
+	holding = none
+}
+5208={
+	holding = none
+}
+5209={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5210={
+	holding = city_holding
+}
+5211={
+	holding = none
+}
+5212={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5213={
+	holding = none
+}
+5214={
+	holding = none
+}
+5215={
+	culture = dnieper
+	faith = scythian
+	holding = castle_holding
+}
+5216={
+	holding = city_holding
+}
+5217={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+5218={
+	holding = none
+}
+5219={
+	holding = none
+}
+5220={
+	holding = none
+}
+5221={
+	culture = dnieper
+	faith = scythian
+	holding = city_holding
+}
+5222={
+	holding = none
+}
+5223={
+	holding = none
+}
+5224={
+	holding = none
+}
+5225={
+	holding = none
+}
+5226={
+	holding = city_holding
+}
+5227={
+	holding = city_holding
+}

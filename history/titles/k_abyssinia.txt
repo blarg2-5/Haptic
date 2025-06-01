@@ -1,0 +1,38 @@
+k_abyssinia={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+d_gojjam={
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_gojjam_holder liege = 0 }
+}
+c_gojjam={
+	342.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_gojjam_holder }
+}
+c_gafat={
+	342.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_gojjam_holder }
+}
+d_showa={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_gabal_holder liege = 0 }
+}
+c_gabal={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_gabal_holder }
+}
+c_showa={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_gabal_holder }
+}
+c_fetegar={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_gabal_holder }
+}
+c_ifat={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_gabal_holder }
+}

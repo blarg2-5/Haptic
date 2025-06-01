@@ -1,0 +1,105 @@
+6129={
+	holding = none
+}
+6130={
+	holding = none
+}
+6131={
+	culture = rajput
+	faith = manichean
+	holding = castle_holding
+}
+6132={
+	holding = castle_holding
+}
+6133={
+	holding = church_holding
+}
+6134={
+	culture = rajput
+	faith = manichean
+	holding = castle_holding
+	100.1.1 = { special_building_slot = aflag_irrigation_systems }
+}
+6135={
+	holding = city_holding
+}
+6136={
+	holding = none
+}
+6137={
+	culture = rajput
+	faith = manichean
+	holding = castle_holding
+}
+6138={
+	holding = none
+}
+6139={
+	holding = none
+}
+6140={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+	100.1.1 = { special_building_slot = aflag_irrigation_systems }
+}
+6141={
+	holding = city_holding
+}
+6143={
+	holding = castle_holding
+}
+6144={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+	100.1.1 = { special_building_slot = aflag_irrigation_systems }
+}
+6145={
+	holding = none
+}
+6146={
+	holding = none
+}
+6147={
+	holding = none
+}
+6268={
+	holding = city_holding
+}
+6269={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6293={
+	holding = none
+}
+6311={
+	holding = none
+}
+6312={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6313={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6314={
+	culture = himyarite
+	faith = nicene
+	holding = castle_holding
+}
+6315={
+	holding = castle_holding
+}
+6316={
+	holding = castle_holding
+}
+6317={
+	holding = none
+}

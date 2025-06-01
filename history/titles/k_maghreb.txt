@@ -1,0 +1,69 @@
+k_maghreb={
+	361.1.1 = { change_development_level = 3 }
+	361.1.6 = { government = feudal_government holder = imperator250464 liege = e_IRTOCK3_D79 succession_laws = { high_partition_succession_law } }
+}
+d_rif={
+	361.11.17 = { liege = 0 }
+}
+c_tangiers={
+	361.1.6 = { liege = 0 holder = imperator250464 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_ceuta={
+	361.1.6 = { liege = 0 holder = imperator250464 }
+	361.2.17 = { change_development_level = 19 }
+}
+c_melilla={
+	343.2.19 = { liege = 0 holder = imperator252730 }
+	361.2.17 = { change_development_level = 12 }
+}
+c_fes={
+	361.1.6 = { liege = 0 holder = imperator250464 }
+	361.2.17 = { liege = k_maghreb holder = imperator248478 change_development_level = 14 }
+}
+c_muluya={
+	361.1.7 = { liege = 0 holder = imperator260516 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_taza={
+	343.2.19 = { liege = 0 holder = imperator252730 }
+	361.2.17 = { change_development_level = 9 }
+}
+c_meknes={
+	361.1.6 = { liege = 0 holder = imperator250464 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_gharb={
+	361.1.6 = { liege = 0 holder = imperator250464 }
+	361.2.17 = { change_development_level = 19 }
+}
+d_marrakesh={
+	361.11.17 = { liege = 0 }
+}
+c_marrakesh={
+	333.5.21 = { liege = 0 holder = imperator240150 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_tadla={
+	361.1.7 = { liege = 0 holder = imperator260516 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_fazaz={
+	361.1.6 = { liege = 0 holder = imperator250464 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_tamasna={
+	361.1.6 = { liege = 0 holder = imperator250464 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_asfi={
+	361.1.6 = { liege = 0 holder = imperator250464 }
+	361.2.17 = { change_development_level = 12 }
+}
+b_aghuz={
+	361.2.17 = { holder = imperator244528 }
+}
+c_tinmallal={
+	333.5.21 = { liege = 0 holder = imperator240150 }
+	361.2.17 = { liege = e_IRTOCK3_A2H holder = imperator241305 change_development_level = 11 }
+}

@@ -1,0 +1,261 @@
+171={
+	holding = none
+	terrain = forest
+}
+172={
+	culture = finnish
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+173={
+	holding = none
+	terrain = forest
+}
+174={
+	culture = finnish
+	religion = finnish_pagan
+	holding = tribal_holding
+	terrain = forest
+	500.1.1 = { culture = karelian religion = finnish_pagan }
+}
+175={
+	culture = finnish
+	faith = finnish_pagan
+	holding = none
+}
+176={
+	holding = none
+}
+177={
+	holding = none
+}
+178={
+	holding = none
+}
+179={
+	culture = finnish
+	faith = finnish_pagan
+	holding = none
+}
+180={
+	holding = none
+}
+181={
+	holding = none
+	terrain = forest
+}
+182={
+	culture = finnish
+	faith = finnish_pagan
+	holding = none
+}
+183={
+	holding = none
+	terrain = forest
+}
+184={
+	holding = none
+	terrain = forest
+}
+185={
+	culture = finnish
+	religion = finnish_pagan
+	holding = tribal_holding
+	1158.1.1 = { religion = catholic }
+}
+186={
+	holding = none
+	terrain = forest
+}
+187={
+	holding = none
+	terrain = forest
+}
+188={
+	holding = none
+	terrain = forest
+}
+189={
+	holding = none
+	terrain = forest
+}
+190={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	500.1.1 = { culture = finnish religion = finnish_pagan }
+}
+191={
+	holding = none
+	terrain = forest
+}
+192={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	500.1.1 = { culture = karelian religion = finnish_pagan }
+}
+193={
+	holding = none
+}
+194={
+	holding = none
+}
+195={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	500.1.1 = { culture = karelian religion = finnish_pagan }
+}
+196={
+	holding = none
+}
+197={
+	holding = none
+}
+198={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	500.1.1 = { culture = karelian religion = finnish_pagan }
+}
+199={
+	holding = none
+}
+200={
+	holding = none
+	terrain = forest
+}
+201={
+	holding = none
+}
+202={
+	holding = none
+}
+203={
+	holding = none
+	terrain = forest
+}
+204={
+	holding = none
+	terrain = forest
+}
+205={
+	culture = finnish
+	religion = finnish_pagan
+	holding = tribal_holding
+	1250.1.1 = { religion = catholic }
+}
+206={
+	holding = none
+	terrain = forest
+}
+207={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	500.1.1 = { culture = finnish religion = finnish_pagan }
+	1250.1.1 = { religion = catholic }
+}
+208={
+	holding = none
+	terrain = forest
+}
+209={
+	holding = none
+	terrain = forest
+}
+210={
+	holding = none
+	terrain = forest
+}
+211={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	500.1.1 = { culture = finnish religion = finnish_pagan }
+	1158.1.1 = { religion = catholic }
+}
+212={
+	holding = none
+	terrain = forest
+}
+213={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	500.1.1 = { culture = finnish religion = finnish_pagan }
+	1250.1.1 = { religion = catholic }
+}
+214={
+	holding = none
+	terrain = forest
+}
+215={
+	holding = none
+	terrain = forest
+}
+218={
+	holding = none
+}
+219={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	550.1.1 = { culture = karelian religion = finnish_pagan }
+}
+442={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	500.1.1 = { culture = finnish religion = finnish_pagan }
+}
+443={
+	holding = none
+	terrain = forest
+}
+444={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	550.1.1 = { culture = finnish religion = finnish_pagan }
+}
+445={
+	holding = none
+	terrain = forest
+}
+446={
+	holding = none
+	terrain = forest
+}
+447={
+	holding = none
+	terrain = forest
+}
+448={
+	holding = none
+	terrain = forest
+}
+449={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	500.1.1 = { culture = finnish religion = finnish_pagan }
+	1250.1.1 = { religion = catholic }
+}
+450={
+	culture = sami
+	religion = sami_pagan
+	holding = tribal_holding
+	550.1.1 = { culture = finnish religion = finnish_pagan }
+}
+451={
+	holding = none
+	terrain = forest
+}
+452={
+	holding = none
+}
+453={
+	holding = none
+}

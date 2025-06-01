@@ -1,0 +1,37 @@
+4263={
+	holding = city_holding
+}
+4264={
+	holding = none
+}
+4265={
+	culture = med
+	faith = manichean
+	holding = castle_holding
+}
+4266={
+	holding = none
+}
+4267={
+	holding = castle_holding
+}
+4268={
+	culture = hellenistic
+	faith = scythian_asian
+	holding = castle_holding
+}
+4269={
+	holding = none
+}
+4270={
+	holding = city_holding
+}
+4271={
+	holding = none
+}
+4272={
+	holding = none
+}
+4273={
+	holding = castle_holding
+}

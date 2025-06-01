@@ -1,0 +1,397 @@
+9081={
+	holding = city_holding
+}
+9082={
+	holding = city_holding
+}
+9083={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+9143={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+9144={
+	holding = none
+}
+9145={
+	culture = lhomon
+	faith = old_bon
+	holding = tribal_holding
+}
+9146={
+	holding = none
+}
+9147={
+	holding = none
+}
+9148={
+	holding = none
+}
+9149={
+	culture = magadhi
+	faith = vaishnavism
+	holding = castle_holding
+}
+9150={
+	culture = lhomon
+	faith = old_bon
+	holding = tribal_holding
+}
+9151={
+	holding = none
+}
+9152={
+	culture = lhomon
+	faith = old_bon
+	holding = tribal_holding
+}
+9153={
+	holding = none
+}
+9154={
+	culture = lhomon
+	faith = old_bon
+	holding = tribal_holding
+}
+9155={
+	holding = city_holding
+}
+9156={
+	holding = none
+}
+9157={
+	culture = assamese
+	faith = vaishnavism
+	holding = none
+}
+9158={
+	holding = none
+}
+9159={
+	holding = none
+}
+9160={
+	culture = assamese
+	faith = donyipoloism
+	holding = none
+}
+9161={
+	holding = none
+}
+9162={
+	holding = none
+}
+9163={
+	holding = none
+}
+9169={
+	holding = none
+}
+9170={
+	culture = lhomon
+	faith = old_bon
+	holding = tribal_holding
+}
+9171={
+	holding = none
+}
+9172={
+	culture = lhomon
+	faith = old_bon
+	holding = tribal_holding
+}
+9179={
+	holding = none
+}
+9180={
+	culture = nepali
+	faith = old_bon
+	holding = none
+}
+9181={
+	holding = none
+}
+9182={
+	holding = city_holding
+}
+9183={
+	culture = nepali
+	faith = old_bon
+	holding = none
+}
+9184={
+	holding = none
+}
+9185={
+	holding = none
+}
+9186={
+	holding = none
+}
+9187={
+	holding = none
+}
+9188={
+	holding = none
+}
+9189={
+	holding = none
+}
+9190={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9191={
+	holding = none
+}
+9192={
+	holding = none
+}
+9193={
+	holding = none
+}
+9194={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9195={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9196={
+	holding = none
+}
+9197={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9198={
+	holding = none
+}
+9199={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9200={
+	holding = none
+}
+9201={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+9203={
+	holding = none
+}
+9204={
+	holding = none
+}
+9205={
+	holding = none
+}
+9206={
+	holding = none
+}
+9207={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9208={
+	holding = none
+}
+9209={
+	holding = church_holding
+}
+9210={
+	holding = church_holding
+}
+9211={
+	holding = church_holding
+}
+9223={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9224={
+	holding = none
+}
+9225={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9226={
+	holding = none
+}
+9227={
+	holding = none
+}
+9228={
+	holding = none
+}
+9229={
+	holding = none
+}
+9230={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9231={
+	holding = none
+}
+9232={
+	holding = none
+}
+9233={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9234={
+	holding = none
+}
+9235={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9236={
+	holding = none
+}
+9237={
+	holding = church_holding
+}
+9238={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9239={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9240={
+	holding = none
+}
+9241={
+	holding = none
+}
+9242={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9243={
+	holding = none
+}
+9244={
+	holding = none
+}
+9245={
+	holding = none
+}
+9246={
+	holding = none
+}
+9247={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9248={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9249={
+	holding = none
+}
+9250={
+	holding = none
+}
+9251={
+	holding = none
+}
+9252={
+	holding = none
+}
+9253={
+	culture = sumpa
+	faith = old_bon
+	holding = none
+}
+9254={
+	holding = none
+}
+9255={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9256={
+	holding = none
+}
+9257={
+	holding = none
+}
+9258={
+	holding = none
+}
+9265={
+	holding = none
+}
+9266={
+	holding = none
+}
+9267={
+	holding = none
+}
+9268={
+	holding = none
+}
+9269={
+	holding = none
+}
+9270={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9271={
+	holding = none
+}
+9272={
+	holding = none
+}
+9273={
+	culture = sumpa
+	faith = rrmeaism
+	holding = tribal_holding
+}
+9274={
+	holding = none
+}
+9275={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9276={
+	holding = none
+}
+9280={
+	holding = none
+}

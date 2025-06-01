@@ -1,0 +1,50 @@
+2653={
+	culture = scythian
+	faith = nicene
+	holding = city_holding
+}
+2654={
+	holding = city_holding
+	special_building_slot = argentiera_mines_01
+}
+2655={
+	holding = none
+}
+2656={
+	culture = scythian
+	faith = nicene
+	holding = city_holding
+}
+2657={
+	holding = none
+}
+2658={
+	culture = scythian
+	faith = nicene
+	holding = city_holding
+}
+2659={
+	culture = scythian
+	faith = scythian_italian
+	holding = city_holding
+}
+2660={
+	holding = none
+}
+2661={
+	holding = none
+}
+2662={
+	culture = scythian
+	faith = nicene
+	holding = city_holding
+}
+2663={
+	holding = city_holding
+}
+2664={
+	holding = none
+}
+2665={
+	holding = none
+}

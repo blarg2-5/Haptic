@@ -1,0 +1,161 @@
+k_IRTOCK3_VND={
+	-304.10.1 = { holder = imperator26547 government = nomadic_government }
+	-252.12.12 = { holder = imperator41271 government = nomadic_government }
+	-228.1.11 = { holder = imperator59757 government = nomadic_government }
+	-220.12.21 = { holder = imperator67228 government = nomadic_government }
+	-216.10.21 = { holder = imperator62462 government = nomadic_government }
+	-210.10.29 = { holder = imperator70590 government = nomadic_government }
+	-198.1.4 = { holder = imperator86087 government = nomadic_government }
+	-191.7.1 = { holder = imperator80203 government = nomadic_government }
+	-183.9.14 = { holder = imperator96492 government = nomadic_government }
+	-159.4.13 = { holder = imperator103626 government = nomadic_government }
+	-147.1.25 = { holder = imperator117944 government = nomadic_government }
+	-113.6.15 = { holder = imperator117106 government = nomadic_government }
+	-113.8.20 = { holder = imperator122566 government = nomadic_government }
+	-109.3.24 = { holder = imperator122432 government = nomadic_government }
+	-102.7.14 = { holder = imperator126538 government = nomadic_government }
+	-93.5.28 = { holder = imperator132614 government = nomadic_government }
+	-72.9.15 = { holder = imperator133667 government = nomadic_government }
+	-60.10.27 = { holder = imperator134992 government = nomadic_government }
+	-54.10.19 = { holder = imperator138821 government = nomadic_government }
+	-45.2.26 = { holder = imperator139100 government = nomadic_government }
+	-44.4.21 = { holder = imperator139307 government = nomadic_government }
+	-38.12.25 = { holder = imperator148873 government = nomadic_government }
+	-8.4.28 = { liege = e_IRTOCK3_A39 }
+	3.2.26 = { holder = imperator150847 government = nomadic_government }
+	6.6.8 = { holder = imperator151212 government = nomadic_government }
+	8.3.26 = { holder = imperator149552 government = nomadic_government }
+	15.6.3 = { holder = imperator159044 government = nomadic_government }
+	50.8.15 = { holder = imperator161566 government = nomadic_government }
+	70.1.26 = { holder = imperator161433 government = nomadic_government }
+	71.11.4 = { holder = imperator162263 government = nomadic_government }
+	76.11.24 = { holder = imperator162140 government = nomadic_government }
+	85.11.21 = { holder = imperator167123 government = nomadic_government }
+	88.10.3 = { holder = imperator165907 government = nomadic_government }
+	99.10.27 = { holder = imperator167833 government = nomadic_government }
+	105.9.14 = { holder = imperator169021 government = nomadic_government }
+	116.10.10 = { holder = imperator170656 government = nomadic_government }
+	117.12.2 = { holder = imperator171231 government = nomadic_government }
+	122.5.19 = { holder = imperator173693 government = nomadic_government }
+	140.12.1 = { holder = imperator177301 government = nomadic_government }
+	158.2.6 = { holder = imperator180029 government = nomadic_government }
+	175.1.13 = { holder = imperator182863 government = nomadic_government }
+	185.5.26 = { holder = imperator183969 government = nomadic_government }
+	188.10.16 = { holder = imperator184129 government = nomadic_government }
+	193.4.20 = { holder = imperator186813 government = nomadic_government }
+	211.12.8 = { holder = imperator187105 government = nomadic_government }
+	217.4.26 = { holder = imperator188562 government = nomadic_government }
+	219.2.11 = { holder = imperator189267 government = nomadic_government }
+	221.6.28 = { holder = imperator188692 government = nomadic_government }
+	222.3.27 = { holder = imperator188941 government = nomadic_government }
+	229.7.28 = { holder = imperator191674 government = nomadic_government }
+	231.11.5 = { holder = imperator196908 government = nomadic_government }
+	253.7.28 = { holder = imperator203387 government = nomadic_government }
+	263.12.28 = { holder = imperator208607 government = nomadic_government }
+	277.11.18 = { holder = imperator209794 government = nomadic_government }
+	285.10.18 = { holder = imperator216637 government = nomadic_government }
+	300.10.10 = { holder = imperator217740 government = nomadic_government }
+	302.12.28 = { holder = imperator219585 government = nomadic_government }
+	312.6.16 = { holder = imperator218986 government = nomadic_government }
+	314.3.1 = { holder = imperator231241 government = nomadic_government }
+	342.11.2 = { holder = imperator234243 government = nomadic_government }
+	347.10.8 = { holder = imperator238447 government = nomadic_government }
+	352.11.8 = { holder = imperator237844 government = nomadic_government }
+	353.4.5 = { holder = imperator238109 government = nomadic_government }
+	353.5.30 = { holder = imperator239220 government = nomadic_government }
+	359.8.25 = { holder = imperator241808 government = nomadic_government }
+	361.2.17 = { succession_laws = { high_partition_succession_law } }
+}
+d_pommerania={
+	361.11.17 = { liege = 0 }
+}
+c_stettin={
+	359.8.25 = { liege = 0 holder = imperator241808 }
+	361.2.17 = { change_development_level = 9 }
+}
+c_kolobrzeg={
+	359.8.25 = { liege = 0 holder = imperator241808 }
+	361.2.17 = { change_development_level = 3 }
+}
+c_soldin={
+	361.1.9 = { liege = 0 holder = imperator250797 }
+	361.2.17 = { change_development_level = 0 }
+}
+c_cammin={
+	361.1.9 = { liege = 0 holder = imperator250797 }
+	361.2.17 = { change_development_level = 0 }
+}
+c_pila={
+	361.1.9 = { liege = 0 holder = imperator250797 }
+	361.2.17 = { change_development_level = 0 }
+}
+c_landsberg={
+	361.1.9 = { liege = 0 holder = imperator250797 }
+	361.2.17 = { change_development_level = 0 }
+}
+d_nordmark={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+c_mecklenburg={
+	359.8.25 = { liege = 0 holder = imperator241808 }
+	361.2.17 = { change_development_level = 5 }
+}
+c_wolgast={
+	359.8.25 = { liege = 0 holder = imperator241808 }
+	361.2.17 = { liege = k_IRTOCK3_VND holder = imperator242590 change_development_level = 16 }
+}
+c_rugen={
+	359.8.25 = { liege = 0 holder = imperator241808 }
+	361.2.17 = { liege = k_IRTOCK3_VND holder = imperator242590 change_development_level = 12 }
+}
+c_rostock={
+	359.8.25 = { liege = 0 holder = imperator241808 }
+	361.2.17 = { change_development_level = 13 }
+}
+c_werle={
+	359.8.25 = { liege = 0 holder = imperator241808 }
+	361.2.17 = { change_development_level = 18 }
+}
+d_samogitia={
+	361.11.17 = { liege = 0 }
+}
+c_raseiniai={
+	361.1.10 = { liege = 0 holder = imperator257968 }
+	361.2.17 = { change_development_level = 7 }
+}
+c_palanga={
+	361.1.10 = { liege = 0 holder = imperator257968 }
+	361.2.17 = { liege = k_IRTOCK3_VND holder = imperator242590 change_development_level = 14 }
+}
+c_siauliai={
+	361.1.10 = { liege = 0 holder = imperator257968 }
+	361.2.17 = { liege = k_IRTOCK3_VND holder = imperator243263 change_development_level = 7 }
+}
+c_memel={
+	361.1.10 = { liege = 0 holder = imperator257968 }
+	361.2.17 = { liege = k_IRTOCK3_VND holder = imperator243263 change_development_level = 17 }
+}
+c_scalovia={
+	361.1.9 = { liege = 0 holder = imperator250797 }
+	361.2.17 = { change_development_level = 0 }
+}
+d_courland={
+	361.11.17 = { liege = 0 }
+}
+c_zemigalians={
+	361.1.10 = { liege = 0 holder = imperator257968 }
+	361.2.17 = { change_development_level = 15 }
+}
+c_vanemane={
+	361.1.10 = { liege = 0 holder = imperator257968 }
+	361.2.17 = { change_development_level = 17 }
+}
+c_grobin={
+	361.1.10 = { liege = 0 holder = imperator257968 }
+	361.2.17 = { change_development_level = 14 }
+}
+c_selpils={
+	361.1.10 = { liege = 0 holder = imperator257968 }
+	361.2.17 = { change_development_level = 14 }
+}

@@ -1,0 +1,183 @@
+465={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+466={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = tribal_holding
+}
+467={
+	holding = city_holding
+	special_building_slot = palace_diocletian
+}
+468={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = tribal_holding
+}
+469={
+	culture = illyro_roman
+	faith = hellenic_pagan
+	holding = tribal_holding
+}
+502={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+503={
+	holding = city_holding
+}
+3500={
+	holding = none
+}
+3501={
+	culture = illyrian
+	faith = nicene
+	holding = castle_holding
+}
+3502={
+	holding = none
+}
+3503={
+	holding = none
+}
+3545={
+	holding = none
+}
+3546={
+	holding = none
+}
+3547={
+	holding = none
+}
+3548={
+	culture = illyrian
+	faith = nicene
+	holding = castle_holding
+}
+3549={
+	holding = none
+}
+3550={
+	holding = none
+}
+3551={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = tribal_holding
+}
+3552={
+	holding = none
+}
+3553={
+	holding = none
+}
+3555={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = tribal_holding
+}
+3556={
+	holding = city_holding
+}
+3557={
+	holding = none
+}
+3558={
+	holding = none
+}
+3559={
+	holding = none
+}
+3560={
+	culture = illyrian
+	faith = nicene
+	holding = castle_holding
+}
+3561={
+	holding = none
+}
+3562={
+	holding = none
+}
+3563={
+	holding = none
+}
+3569={
+	holding = none
+}
+3571={
+	holding = none
+}
+3572={
+	culture = illyrian
+	faith = hellenic_pagan
+	holding = tribal_holding
+}
+3573={
+	holding = none
+}
+3574={
+	holding = none
+}
+3575={
+	culture = getian
+	faith = nicene
+	holding = tribal_holding
+}
+3576={
+	holding = city_holding
+}
+3577={
+	holding = none
+}
+3578={
+	holding = none
+}
+3579={
+	holding = city_holding
+}
+3580={
+	holding = city_holding
+}
+3581={
+	holding = city_holding
+}
+3582={
+	holding = none
+}
+3583={
+	culture = illyrian
+	faith = nicene
+	holding = castle_holding
+}
+3584={
+	holding = none
+}
+3585={
+	holding = none
+}
+3586={
+	holding = city_holding
+}
+3587={
+	holding = none
+}
+3588={
+	holding = castle_holding
+}
+3589={
+	holding = none
+}
+3590={
+	holding = none
+}
+3591={
+	holding = none
+}
+3592={
+	holding = none
+}

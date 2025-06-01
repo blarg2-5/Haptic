@@ -1,0 +1,123 @@
+741={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+742={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+743={
+	holding = city_holding
+	100.1.1 = { special_building_slot = temple_of_hadrian }
+}
+749={
+	holding = city_holding
+}
+750={
+	culture = scythian
+	faith = nicene
+	holding = castle_holding
+}
+751={
+	holding = none
+}
+3747={
+	holding = none
+}
+5551={
+	holding = none
+}
+5552={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5553={
+	holding = city_holding
+}
+5554={
+	holding = none
+}
+5555={
+	holding = none
+}
+5556={
+	holding = city_holding
+}
+5557={
+	holding = city_holding
+}
+5558={
+	holding = none
+}
+5559={
+	holding = none
+}
+5560={
+	holding = castle_holding
+}
+5561={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5562={
+	holding = none
+}
+5563={
+	holding = none
+}
+5564={
+	holding = none
+}
+5565={
+	holding = city_holding
+	303.1.1 = { special_building_slot = maiden_tower }
+}
+5566={
+	holding = none
+}
+5567={
+	holding = none
+}
+5568={
+	holding = castle_holding
+}
+5569={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5570={
+	holding = city_holding
+}
+5580={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5581={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5582={
+	holding = none
+}
+5583={
+	holding = none
+}
+5584={
+	holding = none
+}
+5585={
+	holding = none
+}
+5586={
+	holding = none
+}
+5587={
+	holding = none
+}

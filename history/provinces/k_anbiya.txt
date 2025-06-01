@@ -1,0 +1,63 @@
+4612={
+	holding = none
+}
+6463={
+	culture = tuareg
+	religion = tuareg_pagan
+	holding = tribal_holding
+	1050.1.1 = { culture = butr religion = ibadi }
+}
+6464={
+	holding = tribal_holding
+}
+6465={
+	holding = none
+}
+6466={
+	culture = tuareg
+	religion = tuareg_pagan
+	holding = tribal_holding
+	768.1.1 = { religion = ibadi }
+}
+6467={
+	culture = tuareg
+	religion = tuareg_pagan
+	holding = tribal_holding
+	768.1.1 = { religion = ibadi }
+}
+6468={
+	holding = none
+}
+6564={
+	culture = tuareg
+	religion = tuareg_pagan
+	holding = tribal_holding
+	1083.1.1 = { religion = sunni }
+}
+6565={
+	holding = none
+}
+6566={
+	culture = tuareg
+	religion = tuareg_pagan
+	holding = tribal_holding
+	1083.1.1 = { religion = sunni }
+}
+6567={
+	holding = none
+}
+6590={
+	holding = none
+}
+6591={
+	holding = none
+}
+6662={
+	holding = none
+}
+6663={
+	holding = none
+}
+6664={
+	holding = none
+}

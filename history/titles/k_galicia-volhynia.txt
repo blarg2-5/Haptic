@@ -1,0 +1,69 @@
+k_galicia-volhynia={
+	361.1.1 = { change_development_level = 0 }
+	361.1.15 = { government = administrative_government holder = imperator252197 liege = e_IRTOCK3_GTE succession_laws = { appointment_succession_law } }
+}
+d_halych={
+	361.11.17 = { liege = 0 }
+}
+c_halych={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = k_galicia-volhynia holder = imperator241985 change_development_level = 31 }
+}
+c_lviv={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { change_development_level = 43 }
+}
+c_terebovl={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = k_galicia-volhynia holder = imperator247425 change_development_level = 41 }
+}
+c_zaslavl={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { change_development_level = 39 }
+}
+d_cherven_cities={
+	361.11.17 = { liege = 0 }
+}
+c_cherven={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { change_development_level = 34 }
+}
+c_belz={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = k_galicia-volhynia holder = imperator241134 change_development_level = 33 }
+}
+c_peremyshl={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = k_galicia-volhynia holder = imperator241985 change_development_level = 34 }
+}
+d_lesser_poland={
+	361.11.17 = { liege = 0 }
+}
+c_krakowska={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241134 change_development_level = 12 }
+}
+c_sacz={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 6 }
+}
+c_sandomierska={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator247425 change_development_level = 25 }
+}
+c_radomska={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { change_development_level = 26 }
+}
+c_lubelska={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator242680 change_development_level = 33 }
+}
+c_tarnowska={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241134 change_development_level = 7 }
+}
+c_stezycka={
+	361.1.15 = { liege = 0 holder = imperator252197 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator247425 change_development_level = 41 }
+}

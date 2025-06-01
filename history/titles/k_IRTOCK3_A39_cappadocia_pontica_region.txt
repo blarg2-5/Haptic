@@ -1,0 +1,37 @@
+k_IRTOCK3_A39_cappadocia_pontica_region={
+	346.6.5 = { liege = e_IRTOCK3_A39 holder = imperator239785 government = administrative_government succession_laws = { appointment_succession_law } }
+}
+d_armeniac={
+	361.11.17 = { liege = 0 }
+}
+c_helenopontus={
+	346.6.5 = { liege = 0 holder = imperator239785 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_sinope={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { change_development_level = 43 }
+}
+c_euchaita={
+	347.1.16 = { liege = 0 holder = imperator241805 }
+	361.2.17 = { holder = imperator242084 change_development_level = 33 }
+}
+c_zela={
+	346.6.5 = { liege = 0 holder = imperator239785 }
+	361.2.17 = { change_development_level = 30 }
+}
+d_chaldia={
+	361.11.17 = { liege = 0 }
+}
+c_trebizond={
+	346.6.5 = { liege = 0 holder = imperator239785 }
+	361.2.17 = { change_development_level = 33 }
+}
+c_cerasus={
+	346.6.5 = { liege = 0 holder = imperator239785 }
+	361.2.17 = { change_development_level = 28 }
+}
+c_colonea={
+	361.1.7 = { liege = 0 holder = imperator238417 }
+	361.2.17 = { change_development_level = 30 }
+}

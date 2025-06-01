@@ -1,0 +1,42 @@
+5955={
+	culture = syrian
+	faith = nicene
+	holding = city_holding
+	100.1.1 = { special_building_slot = theater_of_bosra }
+}
+5956={
+	holding = none
+}
+5957={
+	holding = none
+}
+5981={
+	holding = none
+}
+5982={
+	holding = city_holding
+}
+5983={
+	holding = church_holding
+}
+5984={
+	culture = himyarite
+	faith = nicene
+	holding = city_holding
+}
+5986={
+	culture = hebrew
+	faith = carthage_pagan
+	holding = none
+}
+5987={
+	holding = none
+}
+5988={
+	culture = hebrew
+	faith = carthage_pagan
+	holding = none
+}
+6179={
+	holding = none
+}

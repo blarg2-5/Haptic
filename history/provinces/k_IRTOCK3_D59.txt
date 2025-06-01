@@ -1,0 +1,44 @@
+55={
+	holding = city_holding
+}
+56={
+	culture = vandal
+	faith = finnish_pagan
+	holding = castle_holding
+}
+57={
+	culture = vandal
+	faith = finnish_pagan
+	holding = castle_holding
+}
+58={
+	holding = city_holding
+}
+81={
+	culture = vandal
+	faith = finnish_pagan
+	holding = castle_holding
+}
+82={
+	culture = vandal
+	faith = finnish_pagan
+	holding = castle_holding
+}
+221={
+	holding = none
+}
+222={
+	holding = none
+}
+223={
+	holding = none
+}
+224={
+	holding = none
+}
+225={
+	holding = none
+}
+226={
+	holding = none
+}

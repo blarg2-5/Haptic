@@ -1,0 +1,546 @@
+1803={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1804={
+	holding = none
+}
+1805={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1806={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1807={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1808={
+	holding = none
+}
+1809={
+	holding = none
+}
+1810={
+	holding = none
+}
+1811={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1837={
+	culture = punic
+	faith = carthage_pagan
+	holding = castle_holding
+}
+1838={
+	holding = none
+}
+1839={
+	holding = castle_holding
+}
+1840={
+	holding = castle_holding
+}
+1841={
+	holding = none
+}
+1842={
+	holding = city_holding
+}
+1843={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1844={
+	holding = city_holding
+}
+1845={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1846={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1847={
+	holding = none
+}
+1848={
+	holding = none
+}
+1849={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1850={
+	holding = none
+}
+1851={
+	holding = city_holding
+}
+1852={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1853={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1854={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1855={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1856={
+	holding = city_holding
+}
+1857={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1858={
+	holding = none
+}
+1859={
+	holding = city_holding
+}
+1860={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1861={
+	holding = none
+}
+1862={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1863={
+	holding = city_holding
+}
+1864={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1865={
+	holding = city_holding
+}
+1866={
+	culture = scythian
+	faith = scythian_spanish
+	holding = castle_holding
+}
+1867={
+	holding = none
+}
+1868={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1869={
+	holding = none
+}
+1870={
+	holding = none
+}
+1871={
+	holding = none
+}
+1872={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1873={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1874={
+	holding = none
+}
+1875={
+	holding = none
+}
+1876={
+	holding = none
+}
+1877={
+	holding = none
+}
+1878={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1879={
+	holding = none
+}
+1880={
+	holding = none
+}
+1881={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1882={
+	holding = none
+}
+1883={
+	holding = none
+}
+1884={
+	holding = none
+}
+1885={
+	holding = none
+}
+1886={
+	holding = city_holding
+}
+1887={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+	special_building_slot = aljaferia_palace_01
+}
+1888={
+	holding = city_holding
+}
+1889={
+	holding = city_holding
+}
+1890={
+	holding = none
+}
+1891={
+	holding = none
+}
+1892={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1893={
+	holding = city_holding
+}
+1902={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1903={
+	holding = none
+}
+1918={
+	holding = none
+}
+1919={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+	special_building_slot = city_wall_of_toledo_01
+}
+1920={
+	holding = none
+}
+1923={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1927={
+	holding = city_holding
+}
+1928={
+	holding = none
+}
+1929={
+	holding = none
+}
+1930={
+	holding = none
+}
+1931={
+	holding = city_holding
+}
+1932={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1933={
+	holding = none
+}
+1934={
+	holding = city_holding
+}
+1935={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1936={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1937={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1938={
+	holding = none
+}
+1939={
+	holding = none
+}
+1940={
+	holding = none
+}
+1941={
+	holding = city_holding
+}
+1942={
+	holding = city_holding
+}
+1943={
+	holding = none
+}
+1944={
+	holding = city_holding
+}
+1945={
+	holding = none
+}
+1946={
+	holding = none
+}
+1947={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1948={
+	holding = none
+}
+1949={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1950={
+	holding = none
+}
+1951={
+	holding = none
+}
+1952={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1953={
+	holding = none
+}
+1957={
+	holding = none
+}
+1958={
+	holding = none
+}
+1959={
+	holding = city_holding
+}
+1960={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1961={
+	holding = none
+}
+1962={
+	holding = city_holding
+}
+1963={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1964={
+	holding = none
+}
+1965={
+	holding = none
+}
+1966={
+	holding = none
+}
+1967={
+	culture = scythian
+	faith = nicene
+	holding = city_holding
+}
+1968={
+	holding = none
+}
+1969={
+	holding = none
+}
+1970={
+	holding = none
+}
+1971={
+	holding = none
+}
+1972={
+	holding = none
+}
+1973={
+	holding = none
+}
+1974={
+	holding = none
+}
+1975={
+	holding = city_holding
+}
+1976={
+	holding = none
+}
+1977={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1978={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+	special_building_slot = alhambra_01
+}
+1979={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1980={
+	holding = city_holding
+}
+1981={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1982={
+	holding = city_holding
+}
+1983={
+	holding = city_holding
+}
+1984={
+	holding = none
+}
+1985={
+	holding = city_holding
+}
+1986={
+	holding = none
+}
+1987={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1988={
+	holding = none
+}
+1989={
+	holding = none
+}
+1991={
+	culture = lusoiberian
+	faith = nicene
+	holding = tribal_holding
+}
+1992={
+	holding = none
+}
+1993={
+	holding = city_holding
+}
+1994={
+	holding = none
+}
+1995={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+1999={
+	holding = city_holding
+}
+2004={
+	holding = none
+}
+3221={
+	holding = none
+}
+8793={
+	holding = none
+}
+8794={
+	holding = none
+}
+8795={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+8796={
+	holding = none
+}
+8797={
+	holding = city_holding
+}
+8798={
+	holding = city_holding
+}
+8799={
+	culture = scythian
+	faith = scythian_spanish
+	holding = city_holding
+}
+8800={
+	holding = none
+}
+8801={
+	holding = none
+}

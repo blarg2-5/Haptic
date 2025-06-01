@@ -1,0 +1,35 @@
+k_IRTOCK3_D63={
+	122.4.1 = { holder = imperator184132 government = feudal_government }
+	140.8.27 = { holder = imperator184142 government = feudal_government }
+	169.6.3 = { holder = imperator188743 government = feudal_government }
+	218.12.28 = { holder = imperator197943 government = feudal_government }
+	244.3.9 = { holder = imperator219946 government = feudal_government }
+	315.12.2 = { holder = imperator237763 government = feudal_government }
+	325.7.25 = { holder = imperator249079 government = feudal_government }
+	361.2.17 = { succession_laws = { male_preference_law single_heir_succession_law } }
+}
+d_munster={
+	361.11.17 = { liege = 0 }
+}
+c_thomond={
+	325.7.25 = { liege = 0 holder = imperator249079 }
+	361.2.17 = { change_development_level = 11 }
+}
+c_ennis={
+	325.7.25 = { liege = 0 holder = imperator249079 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_ormond={
+	361.1.8 = { liege = 0 holder = imperator245727 }
+	361.2.17 = { change_development_level = 26 }
+}
+b_emly={
+	361.2.17 = { holder = imperator250812 }
+}
+c_desmond={
+	325.7.25 = { liege = 0 holder = imperator249079 }
+	361.2.17 = { change_development_level = 7 }
+}
+b_cork={
+	361.2.17 = { holder = imperator250328 }
+}

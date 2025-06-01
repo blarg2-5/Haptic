@@ -1,0 +1,35 @@
+k_IRTOCK3_A8N={
+	284.2.24 = { holder = imperator239546 government = feudal_government liege = e_IRTOCK3_A39 }
+	328.10.10 = { holder = imperator240966 government = republic_government }
+	333.12.4 = { holder = imperator241806 government = republic_government }
+	345.8.7 = { holder = imperator240091 government = republic_government }
+	361.2.17 = { succession_laws = { city_succession_law princely_elective_succession_law } }
+}
+d_romagna={
+	361.1.1 = { change_development_level = 5 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_san_marino_holder liege = 0 }
+}
+c_urbino={
+	345.8.6 = { liege = 0 holder = imperator257958 }
+	361.2.17 = { change_development_level = 19 }
+}
+c_ravenna={
+	345.8.7 = { liege = 0 holder = imperator240091 }
+	361.2.17 = { change_development_level = 28 }
+}
+c_bologna={
+	361.1.11 = { liege = 0 holder = imperator262792 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_ferrara={
+	361.1.11 = { liege = 0 holder = imperator262792 }
+	361.2.17 = { change_development_level = 16 }
+}
+c_casentino={
+	345.8.6 = { liege = 0 holder = imperator257958 }
+	361.2.17 = { change_development_level = 15 }
+}
+c_san_marino={
+	301.1.1 = { government = republic_government }
+	361.11.17 = { holder = IRToCK3_c_san_marino_holder liege = d_romagna change_development_level = 5 }
+}

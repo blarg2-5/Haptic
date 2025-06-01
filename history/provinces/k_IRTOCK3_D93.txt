@@ -1,0 +1,116 @@
+707={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+735={
+	culture = arran
+	faith = nicene
+	holding = castle_holding
+}
+737={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+	200.1.1 = { special_building_slot = fairy_chimneys }
+}
+752={
+	holding = city_holding
+}
+760={
+	culture = hellenistic
+	faith = caucasian_pagan
+	holding = castle_holding
+	1.1.1 = { special_building_slot = cilician_gates }
+}
+5604={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5605={
+	holding = none
+}
+5606={
+	holding = none
+}
+5607={
+	holding = castle_holding
+}
+5608={
+	holding = city_holding
+}
+5609={
+	holding = none
+}
+5613={
+	holding = none
+}
+5614={
+	holding = none
+}
+5615={
+	holding = city_holding
+}
+5616={
+	holding = city_holding
+}
+5617={
+	culture = hellenistic
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5618={
+	holding = none
+}
+5619={
+	holding = none
+}
+5620={
+	holding = none
+}
+5621={
+	holding = none
+}
+5622={
+	holding = church_holding
+}
+5623={
+	culture = hellenistic
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5628={
+	holding = none
+}
+5629={
+	holding = none
+}
+5630={
+	holding = city_holding
+}
+5631={
+	holding = none
+}
+5632={
+	culture = hellenistic
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5633={
+	holding = city_holding
+}
+5634={
+	holding = castle_holding
+}
+5706={
+	culture = cappadocian
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5707={
+	holding = none
+}
+5708={
+	holding = none
+}

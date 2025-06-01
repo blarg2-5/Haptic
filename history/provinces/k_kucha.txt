@@ -1,0 +1,85 @@
+1443={
+	culture = tocharian
+	religion = sarvastivada
+	holding = castle_holding
+	900.1.1 = { culture = uyghur religion = mahayana }
+}
+1444={
+	culture = tocharian
+	religion = sarvastivada
+	holding = castle_holding
+	100.1.1 = { special_building_slot = kizil_caves special_building = kizil_caves }
+	900.1.1 = { culture = uyghur religion = mahayana }
+}
+1445={
+	culture = scythian
+	faith = scythian_asian
+	holding = city_holding
+}
+7970={
+	holding = city_holding
+}
+7971={
+	holding = church_holding
+}
+7972={
+	holding = none
+}
+7973={
+	holding = none
+}
+7974={
+	holding = church_holding
+}
+7975={
+	holding = church_holding
+}
+7976={
+	holding = none
+}
+7977={
+	holding = none
+}
+7978={
+	holding = none
+}
+7979={
+	holding = none
+}
+7980={
+	culture = tocharian
+	religion = sarvastivada
+	holding = castle_holding
+	900.1.1 = { culture = uyghur religion = mahayana }
+}
+7981={
+	holding = none
+}
+7982={
+	holding = none
+}
+7983={
+	holding = none
+}
+7984={
+	holding = none
+}
+7985={
+	culture = tocharian
+	religion = sarvastivada
+	holding = castle_holding
+	900.1.1 = { culture = uyghur religion = mahayana }
+}
+7986={
+	holding = castle_holding
+	100.1.1 = { special_building_slot = bezeklik_caves special_building = bezeklik_caves }
+}
+7987={
+	holding = none
+}
+7988={
+	holding = none
+}
+7989={
+	holding = none
+}

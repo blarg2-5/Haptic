@@ -1,0 +1,57 @@
+k_dzungaria={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_altay={
+	361.11.17 = { liege = 0 }
+}
+c_altay={
+	361.1.1 = { holder = dzungaria_04 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_qinggil={
+	361.1.1 = { holder = dzungaria_04 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_agairik={
+	361.1.1 = { holder = dzungaria_02 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_narym_DZU={
+	361.1.1 = { holder = dzungaria_02 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_torangy_kul={
+	361.1.1 = { holder = dzungaria_02 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_gurbantunggut={
+	361.11.17 = { liege = 0 }
+}
+c_hoboksar={
+	361.1.1 = { holder = wuhuan_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_ulan_chuzir={
+	361.1.1 = { holder = nahe_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_jie_DZU={
+	361.1.1 = { holder = supo_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_naiman_gobi={
+	361.11.17 = { liege = 0 }
+}
+c_balgun={
+	361.1.1 = { government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kara_asirgan={
+	361.1.1 = { holder = yedie_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_boro_burgasu={
+	361.1.1 = { holder = hegu_01 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}

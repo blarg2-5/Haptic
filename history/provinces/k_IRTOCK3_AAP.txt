@@ -1,0 +1,54 @@
+2633={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2634={
+	holding = none
+}
+2635={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2636={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2637={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2638={
+	culture = scythian
+	faith = scythian_italian
+	holding = castle_holding
+}
+2639={
+	holding = castle_holding
+}
+2640={
+	holding = none
+}
+2641={
+	holding = none
+}
+2642={
+	holding = city_holding
+}
+2643={
+	holding = none
+}
+2644={
+	holding = church_holding
+}
+2645={
+	holding = none
+}
+2646={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}

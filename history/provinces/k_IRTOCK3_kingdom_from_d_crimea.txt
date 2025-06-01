@@ -1,0 +1,32 @@
+559={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+560={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+561={
+	holding = city_holding
+}
+562={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5276={
+	holding = city_holding
+}
+5277={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5330={
+	holding = city_holding
+}
+5331={
+	holding = none
+}

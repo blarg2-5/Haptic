@@ -1,0 +1,39 @@
+4089={
+	culture = parthian
+	faith = nicene
+	holding = castle_holding
+}
+4090={
+	holding = none
+}
+4091={
+	holding = none
+}
+4185={
+	culture = med
+	faith = manichean
+	holding = castle_holding
+}
+4186={
+	holding = castle_holding
+}
+4187={
+	holding = church_holding
+}
+4188={
+	holding = church_holding
+}
+4189={
+	holding = city_holding
+}
+4190={
+	holding = none
+}
+4191={
+	culture = parthian
+	faith = nicene
+	holding = castle_holding
+}
+4192={
+	holding = city_holding
+}

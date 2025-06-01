@@ -1,0 +1,33 @@
+604={
+	holding = city_holding
+}
+605={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+607={
+	culture = arran
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5311={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+5312={
+	holding = none
+}
+5315={
+	holding = none
+}
+5332={
+	holding = none
+}
+5333={
+	holding = none
+}
+5334={
+	holding = none
+}

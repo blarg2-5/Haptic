@@ -1,0 +1,190 @@
+440={
+	holding = city_holding
+}
+526={
+	holding = none
+}
+527={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+531={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+532={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+534={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+536={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+546={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4951={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4952={
+	holding = city_holding
+}
+4953={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4954={
+	holding = none
+}
+4955={
+	holding = none
+}
+4956={
+	holding = none
+}
+4957={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4958={
+	holding = none
+}
+4959={
+	holding = none
+}
+4960={
+	holding = none
+}
+4961={
+	holding = none
+}
+4962={
+	holding = none
+}
+4963={
+	holding = city_holding
+}
+4964={
+	holding = none
+}
+4965={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4966={
+	holding = city_holding
+}
+4967={
+	holding = city_holding
+}
+4968={
+	holding = none
+}
+4969={
+	holding = none
+}
+4970={
+	holding = none
+}
+4971={
+	holding = none
+}
+4972={
+	holding = city_holding
+}
+4973={
+	holding = none
+}
+4974={
+	holding = none
+}
+5060={
+	holding = none
+}
+5061={
+	holding = none
+}
+5062={
+	holding = none
+}
+5063={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5064={
+	holding = city_holding
+}
+5065={
+	holding = city_holding
+}
+5066={
+	holding = none
+}
+5067={
+	holding = none
+}
+5068={
+	holding = castle_holding
+}
+5069={
+	holding = city_holding
+}
+5070={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5071={
+	holding = none
+}
+5072={
+	holding = city_holding
+}
+5073={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5074={
+	holding = none
+}
+5075={
+	holding = none
+}
+5076={
+	holding = none
+}
+5077={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5078={
+	holding = none
+}
+5079={
+	holding = city_holding
+}
+5080={
+	holding = none
+}
+5081={
+	holding = city_holding
+}

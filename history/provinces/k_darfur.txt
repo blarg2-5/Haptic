@@ -1,0 +1,168 @@
+6845={
+	holding = none
+}
+6846={
+	culture = sao
+	religion = munean_pagan
+	holding = none
+}
+6847={
+	holding = none
+}
+6848={
+	holding = none
+}
+6849={
+	holding = none
+}
+6850={
+	culture = zaghawa
+	religion = idoism_pagan
+	holding = none
+}
+6851={
+	holding = none
+}
+6852={
+	culture = zaghawa
+	religion = idoism_pagan
+	holding = none
+}
+6853={
+	holding = none
+}
+6854={
+	culture = sao
+	religion = munean_pagan
+	holding = none
+	768.1.1 = { culture = zaghawa religion = idoism_pagan }
+}
+6855={
+	holding = none
+}
+6856={
+	holding = none
+}
+6860={
+	culture = sao
+	religion = munean_pagan
+	holding = none
+	476.1.1 = { culture = zaghawa religion = idoism_pagan }
+}
+6861={
+	holding = none
+}
+6862={
+	holding = none
+}
+6863={
+	culture = zaghawa
+	religion = idoism_pagan
+	holding = none
+	1150.1.1 = { religion = sunni }
+}
+6864={
+	holding = none
+}
+6865={
+	culture = tora
+	religion = idoism_pagan
+	holding = none
+	476.1.1 = { culture = daju religion = kushitism_pagan }
+}
+6866={
+	holding = none
+}
+6867={
+	holding = none
+}
+6868={
+	holding = none
+}
+6869={
+	culture = tora
+	religion = idoism_pagan
+	holding = none
+	362.1.1 = { culture = daju religion = kushitism_pagan }
+}
+6870={
+	holding = none
+}
+6871={
+	culture = tora
+	religion = idoism_pagan
+	holding = none
+	532.1.1 = { culture = daju religion = kushitism_pagan }
+}
+6872={
+	holding = none
+}
+6873={
+	holding = none
+}
+6874={
+	holding = none
+}
+6875={
+	culture = tora
+	religion = idoism_pagan
+	holding = none
+	362.1.1 = { culture = daju religion = kushitism_pagan }
+}
+6876={
+	culture = tora
+	religion = idoism_pagan
+	holding = none
+	532.1.1 = { culture = daju religion = kushitism_pagan }
+}
+6877={
+	holding = none
+}
+6878={
+	holding = none
+}
+6879={
+	culture = tora
+	religion = idoism_pagan
+	holding = none
+	476.1.1 = { culture = daju religion = kushitism_pagan }
+}
+6880={
+	holding = none
+}
+6885={
+	holding = none
+}
+6886={
+	holding = none
+}
+6887={
+	holding = none
+}
+6888={
+	holding = none
+}
+6889={
+	holding = none
+}
+6890={
+	holding = none
+}
+6891={
+	culture = tora
+	religion = idoism_pagan
+	holding = none
+	532.1.1 = { culture = daju religion = kushitism_pagan }
+}
+6892={
+	holding = none
+}
+6893={
+	holding = none
+}
+6894={
+	holding = none
+}
+6895={
+	holding = none
+}

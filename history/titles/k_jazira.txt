@@ -1,0 +1,64 @@
+k_jazira={
+	361.1.1 = { change_development_level = 3 }
+	361.1.9 = { government = administrative_government holder = imperator243128 liege = e_IRTOCK3_ALB succession_laws = { appointment_succession_law } }
+}
+d_diyarrabia={
+	361.1.1 = { change_development_level = 5 }
+	361.11.17 = { liege = 0 }
+}
+c_mosul={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_sinjar={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 39 }
+}
+c_nasibin={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 47 }
+}
+c_ninive={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 47 }
+}
+c_khabur={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 38 }
+}
+c_upper_khabur={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 40 }
+}
+d_diyarbakr={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_amida={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_tall_basma={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_hakkari={
+	361.1.8 = { liege = 0 holder = imperator248547 }
+	361.2.17 = { change_development_level = 43 }
+}
+c_mayyafariqin={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 45 }
+}
+c_bakriya={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 45 }
+}
+d_edessa={
+	361.1.1 = { change_development_level = 4 }
+	361.11.17 = { liege = 0 }
+}
+c_edessa={
+	361.1.9 = { liege = 0 holder = imperator243128 }
+	361.2.17 = { change_development_level = 50 }
+}

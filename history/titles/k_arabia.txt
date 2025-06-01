@@ -1,0 +1,93 @@
+k_arabia={
+	361.1.1 = { change_development_level = 2 }
+	361.1.6 = { government = administrative_government holder = imperator256729 liege = e_IRTOCK3_ALB succession_laws = { appointment_succession_law } }
+}
+d_medina={
+	361.11.17 = { liege = 0 }
+}
+c_medina={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 30 }
+}
+c_khaybar={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 33 }
+}
+c_yanbu={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_harrat_rahat={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 31 }
+}
+d_mecca={
+	361.11.17 = { liege = 0 }
+}
+c_mecca={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 42 }
+}
+c_taif={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_tihama={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 31 }
+}
+c_bisha={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 19 }
+}
+d_shammar={
+	361.11.17 = { liege = 0 }
+}
+c_al_aqabah={
+	360.4.22 = { liege = 0 holder = imperator247127 }
+	361.2.17 = { change_development_level = 30 }
+}
+c_wajh={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 27 }
+}
+c_tabuk={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_maan={
+	360.12.30 = { liege = 0 holder = imperator252534 }
+	361.2.17 = { change_development_level = 23 }
+}
+c_tayma={
+	361.1.15 = { liege = 0 holder = imperator256368 }
+	361.2.17 = { change_development_level = 24 }
+}
+d_najd={
+	361.1.1 = { change_development_level = -1 }
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_sharaf_holder liege = 0 }
+}
+c_sharaf={
+	361.2.17 = { liege = 0 change_development_level = 3 }
+	361.11.17 = { holder = IRToCK3_c_sharaf_holder }
+}
+c_subay={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_sharaf_holder }
+}
+c_hail={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 29 }
+}
+c_shaqiq={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 18 }
+}
+c_qasim={
+	361.1.6 = { liege = 0 holder = imperator256729 }
+	361.2.17 = { change_development_level = 26 }
+}
+c_surrah={
+	361.2.17 = { liege = 0 change_development_level = 6 }
+	361.11.17 = { holder = IRToCK3_c_sharaf_holder }
+}

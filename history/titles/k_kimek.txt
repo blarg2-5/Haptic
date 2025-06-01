@@ -1,0 +1,57 @@
+k_kimek={
+	361.1.1 = { change_development_level = 0 }
+	361.1.10 = { government = administrative_government holder = imperator261417 liege = e_IRTOCK3_A39 succession_laws = { appointment_succession_law } }
+}
+d_mugodzhar_hills={
+	361.11.17 = { liege = 0 }
+}
+c_mugodzhar_hills={
+	361.1.12 = { liege = 0 holder = imperator261417 }
+	361.2.17 = { change_development_level = 20 }
+}
+c_jitikul={
+	361.1.12 = { liege = 0 holder = imperator261417 }
+	361.2.17 = { change_development_level = 13 }
+}
+c_kos_uba={
+	361.1.12 = { liege = 0 holder = imperator261417 }
+	361.2.17 = { change_development_level = 23 }
+}
+d_itil={
+	361.11.17 = { liege = 0 }
+}
+c_itil={
+	361.1.10 = { liege = 0 holder = imperator261417 }
+	361.2.17 = { change_development_level = 30 }
+}
+c_saqsin={
+	361.1.10 = { liege = 0 holder = imperator261417 }
+	361.2.17 = { change_development_level = 29 }
+}
+c_uzen={
+	361.1.10 = { liege = 0 holder = imperator261417 }
+	361.2.17 = { change_development_level = 28 }
+}
+d_khopyor={
+	361.11.17 = { liege = 0 }
+}
+c_khopyor={
+	361.1.10 = { liege = 0 holder = imperator261417 }
+	361.2.17 = { change_development_level = 31 }
+}
+c_tuluchezeva={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_balachev={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 28 }
+}
+c_tambov={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 25 }
+}
+c_durovka={
+	357.6.3 = { liege = 0 holder = imperator262538 }
+	361.2.17 = { change_development_level = 20 }
+}

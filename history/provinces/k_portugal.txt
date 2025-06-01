@@ -1,0 +1,85 @@
+1751={
+	holding = none
+}
+1752={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}
+1753={
+	holding = castle_holding
+}
+1754={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1755={
+	holding = none
+}
+1756={
+	holding = none
+}
+1757={
+	holding = none
+}
+1758={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1759={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1768={
+	holding = none
+}
+1769={
+	culture = briton
+	faith = druidism
+	holding = castle_holding
+}
+1770={
+	holding = none
+}
+1771={
+	holding = none
+}
+1772={
+	holding = none
+}
+1773={
+	culture = cantabrian
+	faith = druidism
+	holding = castle_holding
+}
+1774={
+	holding = none
+}
+1775={
+	holding = none
+}
+1776={
+	culture = punic
+	faith = manichean
+	holding = tribal_holding
+}
+1777={
+	culture = punic
+	faith = manichean
+	holding = castle_holding
+}
+1778={
+	holding = none
+}
+1779={
+	holding = castle_holding
+}
+1780={
+	holding = none
+}
+2003={
+	holding = none
+}

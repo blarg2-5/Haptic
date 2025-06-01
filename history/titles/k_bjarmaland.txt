@@ -1,0 +1,76 @@
+k_bjarmaland={
+	361.1.1 = { change_development_level = 0 }
+	361.11.17 = { liege = 0 }
+}
+d_biarmia={
+	361.11.17 = { liege = 0 }
+}
+c_kholmogory={
+	360.1.1 = { holder = bjarman_01 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_onega_BJA={
+	360.1.1 = { holder = bjarman_01 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_povenets={
+	360.1.1 = { holder = bjarman_05 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_pudozh={
+	360.1.1 = { holder = bjarman_05 }
+	361.11.17 = { change_development_level = 0 }
+}
+d_vepsia={
+	361.11.17 = { liege = 0 }
+}
+c_kargopol={
+	360.1.1 = { holder = bjarman_09 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kirillov={
+	360.1.1 = { holder = bjarman_09 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_totma={
+	360.1.1 = { holder = bjarman_13 }
+	361.11.17 = { change_development_level = 0 }
+}
+d_vologda={
+	361.11.17 = { liege = 0 }
+}
+c_vologda={
+	360.1.1 = { holder = bjarman_13 }
+	361.2.17 = { change_development_level = 24 }
+}
+c_lyubim={
+	360.1.1 = { holder = bjarman_13 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_onsthia={
+	360.1.1 = { holder = bjarman_18 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_choklema={
+	360.1.1 = { holder = bjarman_18 }
+	361.11.17 = { change_development_level = 0 }
+}
+d_ustyug={
+	361.11.17 = { liege = 0 }
+}
+c_ustyug={
+	360.1.1 = { holder = bjarman_18 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_shenkursk={
+	360.1.1 = { holder = bjarman_23 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_velsk={
+	360.1.1 = { holder = bjarman_23 }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kevrola={
+	360.1.1 = { holder = bjarman_23 }
+	361.11.17 = { change_development_level = 0 }
+}

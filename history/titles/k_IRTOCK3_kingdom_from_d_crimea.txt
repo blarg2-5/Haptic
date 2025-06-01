@@ -1,0 +1,20 @@
+d_crimea={
+	20.1.1 = { change_development_level = 2 }
+	361.11.17 = { liege = 0 }
+}
+c_chersonesus={
+	335.5.12 = { liege = 0 holder = imperator245774 }
+	361.2.17 = { change_development_level = 61 }
+}
+c_kerch={
+	335.5.12 = { liege = 0 holder = imperator245774 }
+	361.2.17 = { change_development_level = 60 }
+}
+c_kalos_limen={
+	335.5.12 = { liege = 0 holder = imperator245774 }
+	361.2.17 = { change_development_level = 62 }
+}
+c_perekop={
+	335.5.12 = { liege = 0 holder = imperator245774 }
+	361.2.17 = { liege = e_IRTOCK3_A39 holder = imperator240518 change_development_level = 44 }
+}

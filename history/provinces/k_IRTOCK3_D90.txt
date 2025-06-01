@@ -1,0 +1,44 @@
+122={
+	holding = none
+}
+2831={
+	holding = city_holding
+}
+2834={
+	holding = city_holding
+}
+2835={
+	culture = scythian
+	faith = finnish_pagan
+	holding = city_holding
+}
+3197={
+	holding = church_holding
+}
+3201={
+	holding = none
+}
+3203={
+	holding = none
+}
+3216={
+	culture = scythian
+	faith = finnish_pagan
+	holding = city_holding
+}
+3217={
+	holding = none
+}
+3218={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+3219={
+	holding = none
+}
+3220={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}

@@ -1,0 +1,133 @@
+216={
+	culture = finnish
+	faith = finnish_pagan
+	holding = none
+}
+217={
+	holding = none
+}
+316={
+	holding = none
+}
+317={
+	culture = norse
+	faith = norse_pagan
+	holding = tribal_holding
+}
+318={
+	holding = none
+}
+319={
+	holding = none
+}
+320={
+	holding = none
+}
+321={
+	culture = norse
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+322={
+	holding = none
+}
+325={
+	holding = none
+}
+327={
+	culture = norse
+	faith = norse_pagan
+	holding = tribal_holding
+}
+328={
+	holding = none
+}
+329={
+	holding = none
+}
+330={
+	culture = norse
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+331={
+	holding = none
+}
+332={
+	culture = norse
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+333={
+	holding = none
+}
+334={
+	holding = none
+}
+336={
+	holding = none
+}
+337={
+	holding = none
+}
+338={
+	holding = none
+}
+339={
+	culture = norse
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+340={
+	holding = none
+}
+341={
+	culture = norse
+	faith = norse_pagan
+	holding = tribal_holding
+}
+342={
+	holding = none
+}
+343={
+	holding = none
+}
+344={
+	holding = church_holding
+}
+354={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+355={
+	holding = none
+}
+356={
+	holding = none
+}
+8723={
+	culture = norse
+	faith = norse_pagan
+	holding = tribal_holding
+}
+8724={
+	holding = none
+}
+8725={
+	holding = none
+}
+8731={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+8732={
+	holding = none
+}
+8733={
+	holding = none
+}
+8734={
+	holding = none
+}

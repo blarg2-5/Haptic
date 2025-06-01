@@ -1,0 +1,268 @@
+458={
+	culture = roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+460={
+	holding = none
+}
+461={
+	culture = roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+462={
+	holding = none
+}
+522={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+523={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3092={
+	culture = dacio_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3095={
+	holding = none
+}
+3096={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3097={
+	holding = none
+}
+3098={
+	holding = city_holding
+}
+3100={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3101={
+	holding = none
+}
+3102={
+	holding = none
+}
+3103={
+	holding = none
+}
+3106={
+	holding = none
+}
+3109={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3110={
+	holding = none
+}
+3111={
+	holding = none
+}
+3116={
+	holding = none
+}
+3117={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3118={
+	holding = none
+}
+3119={
+	holding = none
+}
+3120={
+	holding = none
+}
+3121={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3515={
+	holding = none
+}
+3528={
+	holding = none
+}
+3529={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3530={
+	holding = none
+}
+3531={
+	holding = none
+}
+3532={
+	holding = city_holding
+}
+3533={
+	holding = city_holding
+}
+3608={
+	holding = none
+}
+3609={
+	holding = city_holding
+}
+3610={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3611={
+	holding = none
+}
+3613={
+	holding = city_holding
+}
+3739={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3802={
+	holding = none
+}
+3803={
+	culture = noric
+	faith = druidism
+	holding = castle_holding
+}
+3804={
+	holding = none
+}
+3805={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3806={
+	holding = none
+}
+3808={
+	holding = none
+}
+3809={
+	holding = none
+}
+3817={
+	culture = noric
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3818={
+	holding = none
+}
+3819={
+	holding = none
+}
+3820={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3821={
+	holding = none
+}
+3822={
+	holding = castle_holding
+}
+3823={
+	culture = noric
+	faith = manichean
+	holding = castle_holding
+}
+3824={
+	holding = none
+}
+3825={
+	holding = none
+}
+3826={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3827={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3828={
+	holding = none
+}
+3829={
+	holding = none
+}
+3835={
+	culture = illyro_roman
+	faith = illyrian_pagan
+	holding = castle_holding
+}
+3836={
+	holding = none
+}
+3837={
+	holding = city_holding
+}
+3838={
+	holding = castle_holding
+}
+3839={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3840={
+	holding = none
+}
+3841={
+	holding = none
+}
+3842={
+	culture = illyro_roman
+	faith = celto_hellenic_syncretism
+	holding = castle_holding
+}
+3843={
+	holding = city_holding
+}
+3844={
+	holding = none
+}
+3845={
+	holding = none
+}
+3867={
+	holding = none
+}
+3868={
+	holding = none
+}
+3869={
+	holding = city_holding
+}
+3948={
+	holding = none
+}
+3977={
+	holding = castle_holding
+}

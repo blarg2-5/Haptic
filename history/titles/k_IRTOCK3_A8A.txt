@@ -1,0 +1,45 @@
+k_IRTOCK3_A8A={
+	280.6.1 = { holder = imperator238005 government = feudal_government }
+	336.2.6 = { holder = imperator238565 government = feudal_government }
+	356.1.21 = { holder = imperator241368 government = feudal_government }
+	361.2.17 = { succession_laws = { male_only_law single_heir_succession_law } }
+}
+d_kush={
+	361.11.17 = { liege = 0 }
+}
+c_meroe={
+	323.3.28 = { liege = 0 holder = imperator244390 }
+	361.2.17 = { change_development_level = 24 }
+}
+b_diffar={
+	361.2.17 = { holder = imperator247865 }
+}
+c_shamir={
+	323.3.28 = { liege = 0 holder = imperator244390 }
+	361.2.17 = { change_development_level = 30 }
+}
+c_abu_hammad={
+	323.3.28 = { liege = 0 holder = imperator244390 }
+	361.2.17 = { liege = k_IRTOCK3_A4C holder = imperator243272 change_development_level = 25 }
+}
+b_al-hajar_nubia={
+	361.2.17 = { holder = imperator243272 }
+}
+c_kurgus={
+	356.1.21 = { liege = 0 holder = imperator241368 }
+	361.2.17 = { change_development_level = 22 }
+}
+c_atbara={
+	356.1.21 = { liege = 0 holder = imperator241368 }
+	361.2.17 = { liege = k_IRTOCK3_A8A holder = imperator241178 change_development_level = 31 }
+}
+b_al-bawga={
+	361.2.17 = { holder = imperator244124 }
+}
+b_ed-damer={
+	361.2.17 = { holder = imperator241441 }
+}
+c_abwab={
+	356.1.21 = { liege = 0 holder = imperator241368 }
+	361.2.17 = { change_development_level = 36 }
+}

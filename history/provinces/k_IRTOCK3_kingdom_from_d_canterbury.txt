@@ -1,0 +1,42 @@
+1502={
+	holding = church_holding
+}
+1503={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+1504={
+	holding = city_holding
+}
+1505={
+	holding = city_holding
+}
+1506={
+	holding = city_holding
+}
+1507={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+1508={
+	holding = city_holding
+}
+1509={
+	holding = city_holding
+}
+1510={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+1511={
+	holding = none
+}
+1512={
+	holding = city_holding
+}
+1513={
+	holding = city_holding
+}

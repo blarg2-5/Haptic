@@ -1,0 +1,71 @@
+k_IRTOCK3_VDL={
+	-304.10.1 = { holder = imperator24318 government = nomadic_government }
+	-261.7.15 = { holder = imperator24311 government = nomadic_government }
+	-249.5.8 = { holder = imperator24348 government = nomadic_government }
+	-224.2.17 = { holder = imperator56394 government = nomadic_government }
+	-214.3.6 = { holder = imperator67422 government = nomadic_government }
+	-203.10.29 = { holder = imperator78592 government = nomadic_government }
+	-191.9.23 = { holder = imperator84668 government = nomadic_government }
+	-178.1.8 = { holder = imperator92874 government = nomadic_government }
+	-169.12.30 = { holder = imperator94158 government = nomadic_government }
+	-167.6.19 = { holder = imperator93590 government = nomadic_government }
+	-163.9.21 = { holder = imperator101908 government = nomadic_government }
+	183.10.1 = { holder = imperator202064 government = nomadic_government }
+	322.4.1 = { holder = imperator253090 government = nomadic_government }
+	361.2.17 = { succession_laws = { high_partition_succession_law } }
+}
+d_svealand={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_gastrikland_holder liege = 0 }
+}
+c_upland={
+	322.4.1 = { liege = 0 holder = imperator253090 }
+	361.2.17 = { change_development_level = 5 }
+}
+c_gastrikland={
+	308.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_gastrikland_holder }
+}
+c_sodermannaland={
+	322.4.1 = { liege = 0 holder = imperator253090 }
+	361.2.17 = { change_development_level = 5 }
+}
+c_aland={
+	360.1.1 = { government = tribal_government }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_gastrikland_holder }
+}
+d_vastergotland={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_nordmark_holder liege = 0 }
+}
+c_vastergotland={
+	322.4.1 = { liege = 0 holder = imperator253090 }
+	361.2.17 = { liege = k_IRTOCK3_VDL holder = imperator253106 change_development_level = 3 }
+}
+c_skara={
+	322.4.1 = { liege = 0 holder = imperator253090 }
+	361.2.17 = { liege = k_IRTOCK3_VDL holder = imperator253106 change_development_level = 2 }
+}
+c_dal={
+	322.4.1 = { liege = 0 holder = imperator253090 }
+	361.2.17 = { change_development_level = 1 }
+}
+c_nordmark={
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_nordmark_holder }
+}
+d_ostergotland={
+	361.11.17 = { liege = 0 }
+}
+c_ostergotland={
+	322.4.1 = { liege = 0 holder = imperator253090 }
+	361.2.17 = { change_development_level = 6 }
+}
+c_kinda={
+	322.4.1 = { liege = 0 holder = imperator253090 }
+	361.2.17 = { change_development_level = 9 }
+}
+c_narke={
+	322.4.1 = { liege = 0 holder = imperator253090 }
+	361.2.17 = { change_development_level = 1 }
+}

@@ -1,0 +1,36 @@
+k_songhay={
+	361.11.17 = { liege = 0 }
+}
+d_kawkaw={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_ansongo_holder liege = 0 }
+}
+c_gao={
+	360.1.1 = { holder = sorko_06 change_development_level = 5 }
+}
+c_ansongo={
+	361.11.17 = { holder = IRToCK3_c_ansongo_holder change_development_level = 0 }
+}
+c_kukiya={
+	361.11.17 = { holder = IRToCK3_c_ansongo_holder change_development_level = 0 }
+}
+d_timbuktu={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_tirakka_holder liege = 0 }
+}
+c_tirakka={
+	361.11.17 = { holder = IRToCK3_c_tirakka_holder change_development_level = 0 }
+}
+c_arawan={
+	361.11.17 = { holder = IRToCK3_c_tirakka_holder change_development_level = 0 }
+}
+d_dendi={
+	361.11.17 = { government = tribal_government holder = IRToCK3_c_dendi_holder liege = 0 }
+}
+c_dendi={
+	361.11.17 = { holder = IRToCK3_c_dendi_holder change_development_level = 0 }
+}
+c_dyamare={
+	361.11.17 = { holder = IRToCK3_c_dendi_holder change_development_level = 0 }
+}
+c_zarma={
+	361.11.17 = { holder = IRToCK3_c_dendi_holder change_development_level = 0 }
+}

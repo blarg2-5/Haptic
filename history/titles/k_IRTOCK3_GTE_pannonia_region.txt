@@ -1,0 +1,65 @@
+k_IRTOCK3_GTE_pannonia_region={
+	361.1.11 = { liege = e_IRTOCK3_GTE holder = imperator245007 government = administrative_government succession_laws = { appointment_succession_law } }
+}
+d_bacs={
+	361.11.17 = { liege = 0 }
+}
+c_bacs={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { change_development_level = 48 }
+}
+c_bodrog={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator247425 change_development_level = 33 }
+}
+c_csongrad={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 31 }
+}
+d_nyitra={
+	361.1.1 = { change_development_level = 2 }
+	361.11.17 = { liege = 0 }
+}
+c_nyitra={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 24 }
+}
+c_gemer={
+	358.7.7 = { liege = 0 holder = imperator244530 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241650 change_development_level = 8 }
+}
+c_orava={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { change_development_level = 11 }
+}
+c_trenscen={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator251382 change_development_level = 6 }
+}
+b_turoc={
+	361.2.17 = { holder = imperator251382 }
+}
+c_lipto={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { change_development_level = 8 }
+}
+c_zolyom={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { change_development_level = 9 }
+}
+c_bars={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 35 }
+}
+c_esztergom={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { liege = e_IRTOCK3_GTE holder = imperator241985 change_development_level = 31 }
+}
+c_hont={
+	361.1.11 = { liege = 0 holder = imperator245007 }
+	361.2.17 = { change_development_level = 19 }
+}
+c_poszony={
+	326.9.7 = { liege = 0 holder = imperator248916 }
+	361.2.17 = { liege = k_IRTOCK3_C11 holder = imperator241937 change_development_level = 29 }
+}

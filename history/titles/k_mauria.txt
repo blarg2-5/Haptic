@@ -1,0 +1,35 @@
+k_mauria={
+	361.11.17 = { liege = 0 }
+}
+d_zammour={
+	361.1.1 = { holder = gudala_01 government = tribal_government }
+	361.11.17 = { holder = IRToCK3_c_tindouf_holder government = tribal_government }
+}
+c_zammour={
+	361.1.1 = { holder = gudala_01 government = tribal_government }
+	361.2.17 = { change_development_level = 0 }
+}
+c_tindouf={
+	359.1.1 = { holder = lamtuna_01 }
+	361.2.17 = { liege = 0 change_development_level = 0 }
+	361.11.17 = { holder = IRToCK3_c_tindouf_holder }
+}
+c_tiris={
+	361.1.1 = { holder = gudala_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_adrar={
+	361.11.17 = { liege = 0 }
+}
+c_wadan={
+	359.1.1 = { holder = messufa_01 government = tribal_government }
+	361.1.1 = { change_development_level = 3 }
+}
+c_azukki={
+	361.1.1 = { holder = gudala_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_amatlus={
+	361.1.1 = { holder = gudala_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

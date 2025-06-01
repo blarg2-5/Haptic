@@ -1,0 +1,229 @@
+492={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+493={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+494={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+495={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+496={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+	special_building_slot = hagia_sophia_01
+}
+497={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+499={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+507={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+508={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3554={
+	holding = city_holding
+}
+3614={
+	holding = none
+}
+3615={
+	holding = none
+}
+3616={
+	holding = none
+}
+3617={
+	culture = getian
+	faith = macedonianism
+	holding = castle_holding
+}
+3618={
+	culture = getian
+	faith = nicene
+	holding = castle_holding
+}
+3619={
+	holding = none
+}
+3620={
+	holding = none
+}
+3621={
+	holding = none
+}
+3622={
+	holding = none
+}
+3623={
+	holding = none
+}
+3624={
+	holding = none
+}
+3625={
+	holding = none
+}
+3626={
+	holding = none
+}
+3627={
+	holding = city_holding
+}
+3628={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3629={
+	holding = city_holding
+}
+3630={
+	holding = none
+}
+3631={
+	holding = none
+}
+3632={
+	culture = getian
+	faith = nicene
+	holding = castle_holding
+}
+3633={
+	holding = none
+}
+3634={
+	holding = none
+}
+3635={
+	holding = none
+}
+3636={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3637={
+	holding = church_holding
+}
+3679={
+	holding = none
+}
+3680={
+	holding = none
+}
+3681={
+	holding = none
+}
+3682={
+	holding = none
+}
+3683={
+	holding = none
+}
+3684={
+	holding = none
+}
+3685={
+	holding = city_holding
+}
+3686={
+	holding = none
+}
+3687={
+	holding = city_holding
+}
+3688={
+	holding = none
+}
+3689={
+	holding = none
+}
+3690={
+	holding = none
+}
+3691={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3692={
+	holding = none
+}
+3758={
+	holding = none
+}
+3759={
+	holding = none
+}
+3760={
+	holding = city_holding
+}
+3761={
+	holding = city_holding
+	special_building_slot = anastasian_walls_01
+}
+3762={
+	holding = none
+}
+3763={
+	holding = none
+}
+3764={
+	holding = city_holding
+}
+3765={
+	holding = none
+}
+3766={
+	holding = none
+}
+3767={
+	holding = none
+}
+3768={
+	holding = none
+}
+3769={
+	holding = city_holding
+}
+3770={
+	holding = none
+}
+3771={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3772={
+	holding = city_holding
+}
+3773={
+	holding = city_holding
+}
+3774={
+	holding = none
+}

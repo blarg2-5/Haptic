@@ -1,0 +1,61 @@
+k_sao={
+	340.1.1 = { holder = sao_09 government = tribal_government }
+	361.1.1 = { change_development_level = 0 }
+}
+d_baguirmi={
+	340.1.1 = { holder = sao_09 government = tribal_government }
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { holder = IRToCK3_c_banre_holder government = tribal_government }
+}
+c_baguirmi={
+	340.1.1 = { holder = sao_09 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_banre={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_banre_holder }
+}
+c_barma={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_banre_holder }
+}
+c_masa={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_banre_holder }
+}
+c_kuku={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_banre_holder }
+}
+c_tumak={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_banre_holder }
+}
+d_salamat={
+	340.1.1 = { holder = sao_11 government = tribal_government liege = k_sao }
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { holder = IRToCK3_c_dar_rashid_holder government = tribal_government }
+}
+c_salamat={
+	340.1.1 = { holder = sao_11 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_dar_rashid={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_dar_rashid_holder }
+}
+d_wandala={
+	340.1.1 = { holder = sao_10 government = tribal_government liege = k_sao }
+	361.1.1 = { change_development_level = 1 }
+	361.11.17 = { holder = IRToCK3_c_kotoko_holder government = tribal_government }
+}
+c_wandala={
+	340.1.1 = { holder = sao_10 government = tribal_government }
+	361.11.17 = { change_development_level = 1 }
+}
+c_kotoko={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_kotoko_holder }
+}
+c_diamare={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_kotoko_holder }
+}
+c_garoua={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_kotoko_holder }
+}
+c_kera={
+	361.11.17 = { change_development_level = 1 holder = IRToCK3_c_kotoko_holder }
+}

@@ -1,0 +1,44 @@
+k_tuva={
+	361.11.17 = { liege = 0 }
+}
+d_togina={
+	361.11.17 = { liege = 0 }
+}
+c_arzhan={
+	359.1.1 = { holder = tiele_04 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tapsa={
+	359.1.1 = { holder = tiele_18 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_azas={
+	359.1.1 = { holder = tiele_18 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_tannu_ola={
+	359.1.1 = { holder = tiele_04 government = nomadic_government }
+}
+c_eastern_tannu={
+	359.1.1 = { holder = tiele_04 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_western_tannu={
+	359.1.1 = { holder = tiele_04 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_western_sayan={
+	361.11.17 = { liege = 0 }
+}
+c_stoyanka={
+	359.1.1 = { holder = tiele_04 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_katu_yaryk={
+	359.1.1 = { holder = tiele_04 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kantegir={
+	359.1.1 = { holder = tiele_04 government = nomadic_government }
+	361.11.17 = { change_development_level = 0 }
+}

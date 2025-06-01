@@ -1,0 +1,104 @@
+754={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+759={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5651={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5652={
+	holding = city_holding
+}
+5653={
+	holding = none
+}
+5654={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+5655={
+	holding = none
+}
+5656={
+	holding = none
+}
+5657={
+	culture = hellenistic
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+5658={
+	holding = city_holding
+}
+5659={
+	holding = city_holding
+}
+5660={
+	holding = city_holding
+}
+5661={
+	holding = city_holding
+}
+5662={
+	holding = none
+}
+5663={
+	holding = none
+}
+5664={
+	culture = hellenistic
+	faith = nicene
+	holding = castle_holding
+}
+5665={
+	holding = city_holding
+}
+5666={
+	holding = none
+}
+5667={
+	holding = castle_holding
+}
+5668={
+	holding = none
+}
+5669={
+	holding = city_holding
+}
+5670={
+	holding = none
+}
+5671={
+	holding = none
+}
+5672={
+	culture = hellenistic
+	faith = caucasian_pagan
+	holding = castle_holding
+}
+5673={
+	holding = city_holding
+}
+5674={
+	holding = none
+}
+5675={
+	holding = city_holding
+}
+5676={
+	holding = city_holding
+}
+5677={
+	holding = city_holding
+}
+5678={
+	holding = none
+}

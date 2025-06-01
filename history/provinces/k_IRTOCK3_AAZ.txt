@@ -1,0 +1,31 @@
+745={
+	holding = none
+}
+746={
+	culture = meroitic
+	faith = scythian
+	holding = castle_holding
+}
+747={
+	holding = castle_holding
+}
+5529={
+	holding = none
+}
+5530={
+	holding = city_holding
+}
+5531={
+	culture = hellenistic
+	faith = scythian
+	holding = castle_holding
+}
+5532={
+	holding = none
+}
+5533={
+	holding = city_holding
+}
+5534={
+	holding = none
+}

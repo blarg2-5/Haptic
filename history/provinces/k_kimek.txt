@@ -1,0 +1,142 @@
+593={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+608={
+	holding = none
+}
+617={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+619={
+	holding = none
+}
+620={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5313={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5314={
+	holding = none
+}
+5316={
+	holding = none
+}
+5317={
+	holding = none
+}
+5345={
+	holding = none
+}
+5346={
+	holding = city_holding
+}
+5347={
+	holding = none
+}
+5348={
+	holding = none
+}
+5353={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+5354={
+	holding = none
+}
+5355={
+	holding = none
+}
+5356={
+	holding = none
+}
+5374={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+5375={
+	holding = none
+}
+5376={
+	holding = none
+}
+5377={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+5378={
+	holding = none
+}
+5379={
+	holding = none
+}
+5380={
+	holding = none
+}
+5381={
+	holding = none
+}
+5382={
+	holding = none
+}
+5388={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+5389={
+	holding = none
+}
+5498={
+	holding = none
+}
+7239={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+7240={
+	holding = none
+}
+7241={
+	holding = none
+}
+7242={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+7243={
+	holding = city_holding
+}
+7244={
+	holding = none
+}
+7245={
+	holding = none
+}
+7249={
+	holding = city_holding
+}
+7250={
+	holding = none
+}
+7251={
+	culture = scythian
+	faith = scythian
+	holding = city_holding
+}
+7252={
+	holding = none
+}

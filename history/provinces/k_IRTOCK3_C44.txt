@@ -1,0 +1,52 @@
+4553={
+	holding = city_holding
+}
+4563={
+	culture = punic
+	faith = manichean
+	holding = castle_holding
+}
+4564={
+	holding = none
+}
+6106={
+	culture = punic
+	faith = carthage_pagan
+	holding = castle_holding
+}
+6107={
+	holding = none
+}
+6446={
+	holding = none
+}
+6447={
+	culture = punic
+	faith = nicene
+	holding = castle_holding
+}
+6448={
+	holding = city_holding
+}
+6449={
+	culture = garamantian
+	faith = nicene
+	holding = castle_holding
+}
+6450={
+	holding = none
+}
+6451={
+	culture = punic
+	faith = manichean
+	holding = castle_holding
+}
+6459={
+	holding = city_holding
+}
+6667={
+	holding = castle_holding
+}
+6669={
+	holding = city_holding
+}

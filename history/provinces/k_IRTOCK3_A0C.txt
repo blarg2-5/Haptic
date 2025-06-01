@@ -1,0 +1,39 @@
+4550={
+	holding = none
+}
+4551={
+	holding = none
+}
+6098={
+	culture = aegyptian
+	faith = nicene
+	holding = city_holding
+}
+6099={
+	culture = aegyptian
+	faith = nicene
+	holding = castle_holding
+}
+6100={
+	holding = none
+}
+6101={
+	holding = church_holding
+}
+6102={
+	holding = none
+}
+6103={
+	holding = none
+}
+6104={
+	culture = aegyptian
+	faith = nicene
+	holding = castle_holding
+}
+6105={
+	holding = city_holding
+}
+6108={
+	holding = castle_holding
+}

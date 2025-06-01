@@ -1,0 +1,63 @@
+k_sibir={
+	361.11.17 = { liege = 0 }
+}
+d_sibir={
+	361.11.17 = { liege = 0 }
+}
+c_sibir={
+	361.1.1 = { holder = ob_19 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_tobol={
+	361.1.1 = { holder = ob_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_belogorje={
+	361.1.1 = { holder = ob_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_bardak={
+	361.1.1 = { holder = ob_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_ishim={
+	361.11.17 = { liege = 0 }
+}
+c_ishim={
+	361.1.1 = { holder = ob_19 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_dolgujar={
+	361.1.1 = { holder = ob_19 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_tara={
+	361.11.17 = { liege = 0 }
+}
+c_tara={
+	361.1.1 = { holder = ob_10 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kazanskoye={
+	361.1.1 = { holder = ob_22 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_petropavolsk={
+	361.1.1 = { holder = ob_22 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_lanikaz={
+	361.11.17 = { liege = 0 }
+}
+c_omsk={
+	361.1.1 = { holder = ob_13 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kainsk={
+	361.1.1 = { holder = ob_13 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_pavlodar={
+	361.1.1 = { holder = ob_16 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}

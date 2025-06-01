@@ -1,0 +1,656 @@
+70={
+	culture = norse
+	faith = finnish_pagan
+	holding = city_holding
+	303.1.1 = { special_building_slot = lund_cathedral_01 }
+}
+71={
+	holding = city_holding
+}
+72={
+	holding = none
+}
+73={
+	holding = none
+}
+74={
+	culture = norse
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+75={
+	holding = none
+}
+76={
+	holding = none
+}
+77={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+78={
+	culture = vandal
+	faith = norse_pagan
+	holding = city_holding
+}
+79={
+	holding = none
+}
+80={
+	holding = none
+}
+86={
+	holding = none
+}
+87={
+	holding = none
+}
+130={
+	holding = none
+}
+149={
+	holding = none
+}
+151={
+	holding = none
+}
+153={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+154={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = none
+}
+155={
+	holding = none
+}
+156={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+157={
+	holding = none
+}
+158={
+	holding = city_holding
+}
+159={
+	holding = none
+}
+160={
+	holding = none
+}
+161={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+162={
+	holding = none
+}
+163={
+	holding = none
+}
+164={
+	holding = none
+}
+165={
+	holding = none
+}
+166={
+	culture = dnieper
+	faith = baltic_pagan
+	holding = tribal_holding
+}
+229={
+	culture = norse
+	faith = norse_pagan
+	holding = tribal_holding
+}
+230={
+	holding = none
+}
+231={
+	holding = none
+}
+232={
+	holding = none
+}
+233={
+	holding = none
+}
+234={
+	culture = norse
+	faith = norse_pagan
+	holding = city_holding
+}
+246={
+	holding = none
+}
+247={
+	holding = none
+}
+248={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+}
+285={
+	holding = none
+}
+286={
+	culture = briton
+	faith = briton_pagan
+	holding = castle_holding
+	special_building_slot = heddal_stave_church_01
+}
+287={
+	holding = none
+}
+288={
+	holding = none
+}
+300={
+	holding = none
+}
+301={
+	culture = norse
+	faith = norse_pagan
+	holding = tribal_holding
+}
+302={
+	culture = norse
+	faith = finnish_pagan
+	holding = city_holding
+}
+303={
+	holding = none
+}
+304={
+	holding = none
+}
+305={
+	holding = none
+}
+306={
+	holding = none
+}
+307={
+	culture = norse
+	faith = finnish_pagan
+	holding = city_holding
+}
+308={
+	holding = none
+}
+309={
+	holding = none
+}
+310={
+	holding = none
+}
+311={
+	holding = none
+}
+312={
+	holding = none
+}
+313={
+	holding = none
+}
+314={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+315={
+	holding = none
+}
+335={
+	culture = norse
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+528={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+529={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+530={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+535={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+548={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+549={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+2827={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+2828={
+	holding = none
+}
+2829={
+	holding = none
+}
+2830={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+2832={
+	holding = none
+}
+2833={
+	holding = none
+}
+3142={
+	holding = none
+}
+3147={
+	holding = none
+}
+3148={
+	holding = none
+}
+3149={
+	culture = belgae
+	faith = druidism
+	holding = castle_holding
+}
+3189={
+	holding = city_holding
+}
+3190={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+3191={
+	holding = city_holding
+}
+3192={
+	holding = none
+}
+3193={
+	holding = none
+}
+3194={
+	holding = none
+}
+3195={
+	holding = city_holding
+}
+3196={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+3198={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+3199={
+	holding = none
+}
+3200={
+	holding = none
+}
+3202={
+	holding = none
+}
+3204={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+3205={
+	holding = none
+}
+3206={
+	holding = none
+}
+3207={
+	holding = none
+}
+3208={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+3209={
+	holding = none
+}
+3210={
+	holding = none
+}
+3211={
+	holding = city_holding
+}
+3212={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+3213={
+	holding = none
+}
+3214={
+	culture = vandal
+	faith = finnish_pagan
+	holding = city_holding
+}
+3215={
+	holding = none
+}
+4900={
+	culture = norse
+	faith = finnish_pagan
+	holding = city_holding
+}
+4901={
+	holding = none
+}
+4902={
+	holding = city_holding
+}
+4903={
+	holding = none
+}
+4904={
+	holding = none
+}
+4905={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+4906={
+	holding = none
+}
+4907={
+	holding = none
+}
+4908={
+	holding = none
+}
+4909={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4910={
+	holding = none
+}
+4911={
+	holding = none
+}
+4912={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+4913={
+	holding = none
+}
+4914={
+	holding = none
+}
+4915={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+4916={
+	holding = none
+}
+4917={
+	holding = none
+}
+4918={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+4919={
+	holding = none
+}
+4920={
+	holding = none
+}
+4921={
+	holding = none
+}
+4922={
+	culture = aestian
+	faith = finnish_pagan
+	holding = city_holding
+}
+4923={
+	holding = none
+}
+4924={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4925={
+	holding = none
+}
+4926={
+	holding = none
+}
+4927={
+	holding = none
+}
+4928={
+	holding = none
+}
+4929={
+	holding = castle_holding
+}
+4930={
+	holding = none
+}
+4931={
+	culture = old_suebi
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4932={
+	holding = castle_holding
+}
+4933={
+	holding = none
+}
+4934={
+	holding = none
+}
+4935={
+	holding = city_holding
+}
+4936={
+	holding = none
+}
+4937={
+	holding = none
+}
+4938={
+	holding = none
+}
+4939={
+	holding = none
+}
+4940={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4941={
+	holding = none
+}
+4942={
+	holding = none
+}
+4943={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+4944={
+	holding = none
+}
+4945={
+	holding = none
+}
+4946={
+	culture = przeworsk
+	faith = finnish_pagan
+	holding = city_holding
+}
+4947={
+	holding = none
+}
+4948={
+	holding = none
+}
+4949={
+	holding = city_holding
+}
+4950={
+	holding = none
+}
+5043={
+	holding = none
+}
+5044={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+5045={
+	holding = none
+}
+5046={
+	holding = none
+}
+5047={
+	holding = none
+}
+5048={
+	holding = none
+}
+5049={
+	holding = city_holding
+}
+5050={
+	holding = none
+}
+5051={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5052={
+	holding = city_holding
+}
+5053={
+	holding = none
+}
+5054={
+	holding = city_holding
+}
+5055={
+	holding = none
+}
+5056={
+	holding = city_holding
+}
+5057={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5058={
+	holding = none
+}
+5059={
+	holding = none
+}
+5112={
+	holding = none
+}
+5113={
+	holding = city_holding
+}
+5114={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5115={
+	holding = none
+}
+5116={
+	holding = none
+}
+5117={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5118={
+	holding = church_holding
+}
+5119={
+	culture = scythian
+	faith = scythian
+	holding = castle_holding
+}
+5120={
+	holding = none
+}
+5121={
+	holding = none
+}
+5122={
+	holding = none
+}
+5136={
+	culture = dnieper
+	faith = finnish_pagan
+	holding = city_holding
+}
+8726={
+	holding = none
+}
+8727={
+	culture = norse
+	faith = finnish_pagan
+	holding = tribal_holding
+}

@@ -1,0 +1,56 @@
+k_permia={
+	361.11.17 = { liege = 0 }
+}
+d_perm={
+	361.11.17 = { liege = 0 }
+}
+c_perm={
+	361.1.1 = { holder = komi_18 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_sebur={
+	361.1.1 = { holder = komi_18 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_lysva={
+	361.1.1 = { holder = komi_21 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kumych={
+	361.1.1 = { holder = komi_21 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_ural={
+	361.11.17 = { liege = 0 }
+}
+c_ural={
+	361.1.1 = { holder = komi_21 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_votkinsk={
+	361.1.1 = { holder = komi_18 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kerken={
+	361.1.1 = { holder = komi_15 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+d_udmurtia={
+	361.11.17 = { liege = 0 }
+}
+c_kargadan={
+	361.1.1 = { holder = kargadan_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_palniki={
+	361.1.1 = { holder = palniki_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_glazov={
+	361.1.1 = { holder = glazov_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
+c_kolyn={
+	361.1.1 = { holder = kolyn_01 government = tribal_government }
+	361.11.17 = { change_development_level = 0 }
+}
